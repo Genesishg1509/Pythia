@@ -31,7 +31,8 @@ This specific repository is maintained by **Genesis Karollay Hernández Gallegos
 
 This project won **2nd Prize in the ntic master's Scholarship Competition (Becas)** for the Data Science, Big Data & Business Analytics program, awarded by ntic master and Universidad Complutense de Madrid.
 
-![The team after winning 2nd prize](images/team_2nd_prize_ntic_master.jpg)
+<img src="images/team_2nd_prize_ntic_master.jpg" alt="The team after winning 2nd prize" width="500">
+
 
 ## What the app does
 
