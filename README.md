@@ -2,6 +2,20 @@
 
 A Streamlit web app that analyzes a coffee shop's business and predicts future sales. It was built as part of a Master's thesis (TFM) project, and this repository is a cleaned, portfolio version of that work.
 
+## The problem, the technique, and why
+
+**Problem:** a classic coffee shop in Madrid needs to know how much it will sell in the next few days — both total revenue and units of its top-selling product categories — so it can plan stock and avoid running out of ingredients or over-buying perishables. Demand also depends on things the shop doesn't control: weather, nearby foot traffic (like visitor numbers at CaixaForum, a museum right next door), and public holidays. Beyond sales, the shop also wanted to understand its customers better: what they praise and complain about, and how it compares to nearby competitor cafes.
+
+**Technique:**
+- **Sales forecasting:** a separate [Prophet](https://facebook.github.io/prophet/) time series model per target (total revenue, classic coffee, pastries, breakfast items), using weather, the public holiday calendar, and estimated nearby foot traffic as extra input signals, to forecast the next 14 days.
+- **Own reviews:** aspect-based sentiment analysis, breaking feedback down by topic (coffee, service, price, atmosphere, etc.) instead of a single sentiment score, plus a comparison of 4 classic ML models (Logistic Regression, Random Forest, XGBoost, SVM) for sentiment classification — see `notebooks/`.
+- **Competitor reviews:** only the *positive* reviews of nearby competitor cafes were analyzed, to see which products customers mention most and what those cafes are valued for.
+
+**Why:**
+- Prophet over a generic regression, because cafe sales follow strong weekly and seasonal patterns, and Prophet makes it easy to add weather/holidays/foot-traffic as extra signals while keeping the forecast explainable to a non-technical business owner — not just a number, but *why* the number is what it is.
+- Aspect-based analysis over a single sentiment score, because "customers are unhappy" isn't actionable on its own — "customers are unhappy with the service, not the coffee" tells the owner exactly what to fix.
+- Competitor reviews were filtered to the positive ones on purpose: the goal wasn't to criticize other cafes, it was to benchmark what's already working in the market — which products and qualities customers value most nearby — as a source of ideas.
+
 ## Group project
 
 This project was built by a team of 6 students for the **Master in Data Science, Big Data & Business Analytics 2024–2025** at Universidad Complutense de Madrid (UCM):
@@ -28,7 +42,7 @@ The app has 3 pages:
 
    Each forecast can be shown under 3 scenarios (baseline, low, and high), built from average weather data and estimated visitor numbers from a nearby museum (CaixaForum).
 
-3. **Reviews** — analyzes customer reviews to find what people like and dislike, grouped by topic (coffee, service, price, atmosphere, etc.) and by sentiment. It also includes a competitor analysis view comparing nearby cafes on a map.
+3. **Reviews** — analyzes customer reviews to find what people like and dislike, grouped by topic (coffee, service, price, atmosphere, etc.) and by sentiment. It also includes a competitor analysis view, comparing nearby cafes on a map and showing which products and qualities stand out most in their *positive* reviews.
 
 Both data pages work out of the box with a small demo dataset, so anyone can try the app without uploading any file.
 
