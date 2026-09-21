@@ -1,0 +1,5545 @@
+normalized_item,mentions,avg_rating,sentiment
+places,511,4.461839530332681,Positivo
+coffee and place,508,4.28740157480315,Positivo
+good,495,4.38989898989899,Positivo
+services,445,4.53932584269663,Muy Positivo
+breakfast good,365,4.531506849315068,Muy Positivo
+delicious,293,4.7815699658703075,Muy Positivo
+kind and friendly,267,4.610486891385768,Muy Positivo
+wonderful,265,4.781132075471698,Muy Positivo
+excellent,208,4.8798076923076925,Muy Positivo
+nice,207,4.473429951690822,Positivo
+highly recommended,207,4.826086956521739,Muy Positivo
+staff depends,201,4.592039800995025,Muy Positivo
+nice good service,194,4.742268041237113,Muy Positivo
+foods,181,4.558011049723757,Muy Positivo
+pretty good coffee,157,4.617834394904459,Muy Positivo
+cool atmosphere,119,4.588235294117647,Muy Positivo
+price,118,3.8728813559322033,Positivo
+cafe with delicious,116,4.491379310344827,Positivo
+good place,111,4.45945945945946,Positivo
+madrid and loved,108,4.712962962962963,Muy Positivo
+back,104,4.1923076923076925,Positivo
+recommend,99,4.555555555555555,Muy Positivo
+location,99,4.090909090909091,Positivo
+super pleasant,97,4.608247422680412,Muy Positivo
+highly,88,4.920454545454546,Muy Positivo
+cozy with good,88,4.7727272727272725,Muy Positivo
+bread for toast,83,3.7951807228915664,Positivo
+attentive making,82,4.7317073170731705,Muy Positivo
+good atmosphere,78,4.602564102564102,Muy Positivo
+awesome place,77,4.805194805194805,Muy Positivo
+cakes and pastries,75,4.573333333333333,Muy Positivo
+cheap,73,2.7534246575342465,Neutro
+super,71,4.845070422535211,Muy Positivo
+quality is worth,71,3.915492957746479,Positivo
+exquisite coffee,71,4.802816901408451,Muy Positivo
+small size,69,3.9565217391304346,Positivo
+croissant is delicious,64,4.40625,Positivo
+fast,63,4.555555555555555,Muy Positivo
+amazing,58,4.827586206896552,Muy Positivo
+table,57,3.0,Neutro
+cheese sandwich,57,4.350877192982456,Positivo
+quiet,53,4.584905660377358,Muy Positivo
+perfect,52,4.846153846153846,Muy Positivo
+friendly staff healthy,52,4.8076923076923075,Muy Positivo
+ordered,51,4.1568627450980395,Positivo
+beautiful,51,4.7254901960784315,Muy Positivo
+bit,50,3.84,Positivo
+regular caf,49,4.26530612244898,Positivo
+loving,48,4.9375,Muy Positivo
+specific order,48,3.4166666666666665,Neutro
+waitresses and fast,47,4.297872340425532,Positivo
+pastries are delicious,47,4.446808510638298,Positivo
+served,46,4.086956521739131,Positivo
+coffees and generous,46,4.456521739130435,Positivo
+drinking,45,4.022222222222222,Positivo
+place for breakfast,45,4.711111111111111,Muy Positivo
+smoothies,44,3.8863636363636362,Positivo
+quiet cozy place,44,4.7272727272727275,Muy Positivo
+cappuccinos,43,4.627906976744186,Muy Positivo
+time,43,4.511627906976744,Muy Positivo
+cake,43,4.232558139534884,Positivo
+prado,42,4.5476190476190474,Muy Positivo
+attention gloria,41,4.975609756097561,Muy Positivo
+don,41,2.5853658536585367,Neutro
+returned,41,4.560975609756097,Muy Positivo
+loved,41,4.975609756097561,Muy Positivo
+service is friendly,40,4.725,Muy Positivo
+welcoming and pleasant,40,4.525,Muy Positivo
+bit pricey,40,3.725,Positivo
+products,39,4.205128205128205,Positivo
+variety,39,4.487179487179487,Positivo
+lovely,39,4.897435897435898,Muy Positivo
+fast service,39,4.538461538461538,Muy Positivo
+nice vertical garden,38,4.2105263157894735,Positivo
+caixa forum ideal,38,4.421052631578948,Positivo
+area but honestly,38,3.710526315789474,Positivo
+people,38,3.526315789473684,Positivo
+girl,38,3.9473684210526314,Positivo
+customer service,38,3.973684210526316,Positivo
+good menu,37,4.108108108108108,Positivo
+recommended cafeteria,37,4.027027027027027,Positivo
+coffee flavor,37,4.783783783783784,Muy Positivo
+excellent food great,36,4.944444444444445,Muy Positivo
+coffee was delicious,36,4.694444444444445,Muy Positivo
+service and waitresses,36,3.5,Positivo
+serving,36,3.5555555555555554,Positivo
+charming girl,36,4.694444444444445,Muy Positivo
+wonderful super friendly,36,4.833333333333333,Muy Positivo
+pretty bad,35,2.4571428571428573,Negativo
+kind and attentive,35,4.828571428571428,Muy Positivo
+orange juice,35,3.0285714285714285,Neutro
+paseo del,34,4.5,Muy Positivo
+visiting the museum,34,4.794117647058823,Muy Positivo
+special vertical,34,4.5,Muy Positivo
+didn,34,2.764705882352941,Neutro
+pleasant place great,34,4.5,Muy Positivo
+free bread,34,3.3529411764705883,Neutro
+options to choose,34,4.617647058823529,Muy Positivo
+sandwich gluten free,32,4.5,Muy Positivo
+work,32,4.3125,Positivo
+fantastic service friendly,31,4.935483870967742,Muy Positivo
+good prices,31,4.645161290322581,Muy Positivo
+quick,31,4.419354838709677,Positivo
+clean,30,4.333333333333333,Positivo
+delicious food friendly,30,4.766666666666667,Muy Positivo
+service was good,30,4.833333333333333,Muy Positivo
+tasty,30,4.7,Muy Positivo
+hot chocolate,29,4.379310344827586,Positivo
+great location,29,4.448275862068965,Positivo
+atocha,29,4.482758620689655,Positivo
+attention,29,4.551724137931035,Muy Positivo
+delicious toast,28,3.8214285714285716,Positivo
+leche leche,27,4.37037037037037,Positivo
+treatment,27,4.444444444444445,Positivo
+spot,27,4.62962962962963,Muy Positivo
+nice waiters,27,4.555555555555555,Muy Positivo
+vertical el patio,27,4.703703703703703,Muy Positivo
+making,26,4.1923076923076925,Positivo
+kind,26,4.846153846153846,Muy Positivo
+stop,26,4.653846153846154,Muy Positivo
+lovely comfortable,26,4.730769230769231,Muy Positivo
+bar by chance,26,3.423076923076923,Neutro
+coffee and desserts,26,4.423076923076923,Positivo
+incredibly helpful,25,4.64,Muy Positivo
+feels,25,4.52,Muy Positivo
+forum the place,25,4.68,Muy Positivo
+visiting madrid,25,4.84,Muy Positivo
+terrible,25,1.52,Negativo
+garden good,25,4.4,Positivo
+caixaforum,24,4.333333333333333,Positivo
+place was quiet,24,4.5,Muy Positivo
+warmth,24,4.75,Muy Positivo
+visits,24,4.833333333333333,Muy Positivo
+made,24,4.208333333333333,Positivo
+fresh,24,4.833333333333333,Muy Positivo
+high,24,3.5,Positivo
+mid morning,24,4.583333333333333,Muy Positivo
+good meal,24,4.75,Muy Positivo
+worth,24,3.5416666666666665,Positivo
+breakfast and coffee,24,4.75,Muy Positivo
+lunch the location,23,4.869565217391305,Muy Positivo
+unbeatable coffee shop,23,4.695652173913044,Muy Positivo
+quick snack,23,4.391304347826087,Positivo
+fantastic place,23,4.782608695652174,Muy Positivo
+staff is great,23,4.826086956521739,Muy Positivo
+simple ham,23,3.782608695652174,Positivo
+place with nice,23,3.739130434782609,Positivo
+museums prado reina,23,4.695652173913044,Muy Positivo
+caixa very close,23,4.521739130434782,Muy Positivo
+spectacular,23,4.913043478260869,Muy Positivo
+nice staff nice,23,4.826086956521739,Muy Positivo
+free,22,4.363636363636363,Positivo
+exquisitely,22,4.863636363636363,Muy Positivo
+sitting,22,2.909090909090909,Neutro
+sandwiches and delicious,22,4.863636363636363,Muy Positivo
+special thing,22,3.6818181818181817,Positivo
+pretty average,22,3.1363636363636362,Neutro
+house,22,4.681818181818182,Muy Positivo
+incredible cakes,22,4.7272727272727275,Muy Positivo
+tea time,21,4.380952380952381,Positivo
+pleasant cafe,21,4.523809523809524,Muy Positivo
+close,21,3.761904761904762,Positivo
+ideal place,21,4.761904761904762,Muy Positivo
+shop perfect,21,4.666666666666667,Muy Positivo
+coffee good food,21,4.809523809523809,Muy Positivo
+euro,21,2.4761904761904763,Negativo
+decor excellent,21,4.142857142857143,Positivo
+pretty,20,3.9,Positivo
+thing,20,3.1,Neutro
+lemon pie,20,4.7,Muy Positivo
+won,20,2.05,Negativo
+enjoy a coffee,20,4.8,Muy Positivo
+salad choice,20,4.15,Positivo
+small dessert,20,4.25,Positivo
+coffee excellent service,19,4.684210526315789,Muy Positivo
+day,19,4.421052631578948,Positivo
+taste,19,3.526315789473684,Positivo
+excellent service delicious,19,4.842105263157895,Muy Positivo
+space,19,4.052631578947368,Positivo
+leave,19,2.8947368421052633,Neutro
+food and gluten,19,4.578947368421052,Muy Positivo
+friends,18,4.833333333333333,Muy Positivo
+perfect for brunch,18,4.555555555555555,Muy Positivo
+music,18,4.5,Muy Positivo
+snacks and breakfasts,18,4.722222222222222,Muy Positivo
+free gluten free,18,4.444444444444445,Positivo
+cakes look delicious,18,4.722222222222222,Muy Positivo
+latte art,18,4.111111111111111,Positivo
+tomatoes,18,2.9444444444444446,Neutro
+patio,18,4.611111111111111,Muy Positivo
+fantastic,18,5.0,Muy Positivo
+avocado toast,17,4.176470588235294,Positivo
+unbeatable,17,5.0,Muy Positivo
+excellent professional,17,4.823529411764706,Muy Positivo
+extremely rude,17,1.588235294117647,Negativo
+place near atocha,17,4.411764705882353,Positivo
+smile,17,4.882352941176471,Muy Positivo
+stopped,17,4.647058823529412,Muy Positivo
+ideal,17,4.705882352941177,Muy Positivo
+experience,17,4.352941176470588,Positivo
+muffins delicious,17,4.647058823529412,Muy Positivo
+milk isn,17,3.7058823529411766,Positivo
+reasonable prices,17,4.705882352941177,Muy Positivo
+eat,17,4.0588235294117645,Positivo
+priced fairly,17,4.764705882352941,Muy Positivo
+waitress is friendly,16,4.6875,Muy Positivo
+view,16,4.5,Muy Positivo
+chai latte left,16,4.8125,Muy Positivo
+service relaxed atmosphere,16,4.3125,Positivo
+afternoon,16,4.3125,Positivo
+english spoken,16,4.3125,Positivo
+ham toast,16,3.375,Neutro
+small slice,16,2.5,Neutro
+paid,15,2.6666666666666665,Neutro
+isn,15,3.2,Neutro
+good and varied,15,4.466666666666667,Positivo
+good quality,15,4.6,Muy Positivo
+serve customers,15,2.6,Neutro
+delicious apple pie,15,4.933333333333334,Muy Positivo
+pleasure,15,5.0,Muy Positivo
+enjoy,15,4.8,Muy Positivo
+decorations,15,4.2,Positivo
+service is terrible,15,1.6,Negativo
+location is good,15,3.8666666666666667,Positivo
+coffee toast,15,4.2,Positivo
+find,15,4.333333333333333,Positivo
+ice cold,15,3.1333333333333333,Neutro
+place is tiny,14,4.142857142857143,Positivo
+delicious chai,14,4.785714285714286,Muy Positivo
+tiny cafe,14,4.642857142857143,Muy Positivo
+breakfast an afternoon,14,4.642857142857143,Muy Positivo
+time kiara,14,5.0,Muy Positivo
+botanical gardens,14,4.571428571428571,Muy Positivo
+adorable,14,4.571428571428571,Muy Positivo
+recommend the cookies,14,4.785714285714286,Muy Positivo
+shame,14,2.642857142857143,Neutro
+breakfast the avocado,14,4.0,Positivo
+service great place,14,4.928571428571429,Muy Positivo
+toast with tomato,14,4.0,Positivo
+sweets are amazing,14,4.285714285714286,Positivo
+variety of coffee,14,4.571428571428571,Muy Positivo
+wasn,14,3.142857142857143,Neutro
+couldn,13,3.1538461538461537,Neutro
+rich,13,4.769230769230769,Muy Positivo
+affordable,13,4.846153846153846,Muy Positivo
+star,13,4.0,Positivo
+relaxed and quiet,13,4.461538461538462,Positivo
+top,13,3.4615384615384617,Neutro
+asked,13,2.6153846153846154,Neutro
+hot,13,4.153846153846154,Positivo
+incredible service,13,5.0,Muy Positivo
+beautiful place,13,4.6923076923076925,Muy Positivo
+pumpkin cake,13,4.846153846153846,Muy Positivo
+fresh orange,13,3.3846153846153846,Neutro
+offered,13,3.1538461538461537,Neutro
+high quality food,13,4.923076923076923,Muy Positivo
+prepared and made,13,4.846153846153846,Muy Positivo
+station,13,4.615384615384615,Muy Positivo
+pretty nice,13,4.846153846153846,Muy Positivo
+oatmeal and chocolate,13,4.846153846153846,Muy Positivo
+fast efficient,13,4.769230769230769,Muy Positivo
+busy day,12,4.25,Positivo
+coffees teas,12,4.083333333333333,Positivo
+atocha station,12,4.5,Muy Positivo
+coffee with milk,12,3.6666666666666665,Positivo
+super well polite,12,4.083333333333333,Positivo
+center,12,4.416666666666667,Positivo
+food was delicious,12,4.916666666666667,Muy Positivo
+helpful and friendly,12,4.833333333333333,Muy Positivo
+middle of madrid,12,4.5,Muy Positivo
+visiting this place,12,4.083333333333333,Positivo
+bathroom,12,3.0833333333333335,Neutro
+fine,12,3.0,Neutro
+great customer service,12,5.0,Muy Positivo
+staff are super,12,5.0,Muy Positivo
+nutella,12,4.5,Muy Positivo
+friendliness and excellent,12,4.833333333333333,Muy Positivo
+place delicious,12,4.5,Muy Positivo
+pumpkin pie delicious,12,4.916666666666667,Muy Positivo
+hard,12,3.0,Neutro
+coffee or tea,12,4.666666666666667,Muy Positivo
+tastiest lemon meringue,12,4.166666666666667,Positivo
+beautiful spot,11,4.909090909090909,Muy Positivo
+spanish but english,11,4.2727272727272725,Positivo
+place is charming,11,4.818181818181818,Muy Positivo
+cool,11,3.4545454545454546,Neutro
+door,11,3.090909090909091,Neutro
+portion,11,4.363636363636363,Positivo
+minutes,11,2.3636363636363638,Negativo
+left,11,2.727272727272727,Neutro
+lot,11,3.909090909090909,Positivo
+lactose free,11,4.7272727272727275,Muy Positivo
+products and quality,11,4.363636363636363,Positivo
+bites,11,4.454545454545454,Positivo
+waitresses are amazing,11,5.0,Muy Positivo
+strictly normal,11,3.0,Neutro
+super attentive,11,5.0,Muy Positivo
+friendly and quick,11,4.7272727272727275,Muy Positivo
+service pleasant,11,5.0,Muy Positivo
+told,11,1.7272727272727273,Negativo
+extremely,11,3.1818181818181817,Neutro
+grabbed,11,4.7272727272727275,Muy Positivo
+good music,11,4.636363636363637,Muy Positivo
+big,11,3.0,Neutro
+wide,11,4.454545454545454,Positivo
+food was good,11,4.363636363636363,Positivo
+impeccable service,11,5.0,Muy Positivo
+front,11,3.727272727272727,Positivo
+reasonable,11,4.7272727272727275,Muy Positivo
+recommended place,11,4.636363636363637,Muy Positivo
+spot to enjoy,11,4.545454545454546,Muy Positivo
+rest is great,11,3.6363636363636362,Positivo
+attentive the staff,10,4.8,Muy Positivo
+healthy,10,4.7,Muy Positivo
+fresh juices,10,3.3,Neutro
+small coffee,10,3.2,Neutro
+hope,10,3.2,Neutro
+long,10,4.5,Muy Positivo
+excellent experience,10,4.7,Muy Positivo
+exceptional,10,4.9,Muy Positivo
+super satisfied,10,4.7,Muy Positivo
+days,10,4.1,Positivo
+simple,10,4.7,Muy Positivo
+corner,10,4.2,Positivo
+place nearby,10,3.4,Neutro
+bit uncomfortable,10,2.7,Neutro
+food is delicious,10,4.9,Muy Positivo
+spot to grab,10,4.7,Muy Positivo
+bright cheerful,10,5.0,Muy Positivo
+good homemade,10,4.4,Positivo
+friendly staff fast,10,4.7,Muy Positivo
+larger,10,4.0,Positivo
+olive oil,10,4.2,Positivo
+atmosphere and incredible,10,4.8,Muy Positivo
+ham and cheese,10,4.4,Positivo
+water,10,1.5,Negativo
+breakfast it offers,10,4.5,Muy Positivo
+break,10,4.7,Muy Positivo
+prices high,10,3.2,Neutro
+full,10,3.9,Positivo
+service was attentive,10,4.5,Muy Positivo
+nice caf perfect,10,4.7,Muy Positivo
+pretty good,10,4.2,Positivo
+cups,10,4.5,Muy Positivo
+con,10,4.0,Positivo
+arrive,10,3.3,Neutro
+totally cozy atmosphere,10,5.0,Muy Positivo
+girls who serve,10,4.7,Muy Positivo
+things,10,3.3,Neutro
+spectacular breakfasts high,9,4.888888888888889,Muy Positivo
+good environment,9,4.888888888888889,Muy Positivo
+carrot,9,4.555555555555555,Muy Positivo
+care,9,4.555555555555555,Muy Positivo
+smiling pleasant,9,5.0,Muy Positivo
+good vibes,9,4.777777777777778,Muy Positivo
+place food,9,4.666666666666667,Muy Positivo
+make me feel,9,4.333333333333333,Positivo
+feel at home,9,5.0,Muy Positivo
+place very friendly,9,4.777777777777778,Muy Positivo
+starbucks locations,9,3.7777777777777777,Positivo
+magnificent caf,9,4.666666666666667,Muy Positivo
+cute place excellent,9,5.0,Muy Positivo
+hour,9,3.5555555555555554,Positivo
+cami sandra gloria,9,5.0,Muy Positivo
+place with super,9,4.666666666666667,Muy Positivo
+waiter is correct,9,3.888888888888889,Positivo
+apple,9,4.777777777777778,Muy Positivo
+kindness that characterizes,9,4.666666666666667,Muy Positivo
+place to stop,9,4.444444444444445,Positivo
+place good,9,4.888888888888889,Muy Positivo
+calm,9,4.777777777777778,Muy Positivo
+super natural,9,4.111111111111111,Positivo
+return to madrid,9,5.0,Muy Positivo
+put,9,3.111111111111111,Neutro
+relax,9,4.777777777777778,Muy Positivo
+atmosphere delicious,9,4.777777777777778,Muy Positivo
+repeat every time,9,4.444444444444445,Positivo
+coffee in spain,9,4.777777777777778,Muy Positivo
+good cake,9,4.111111111111111,Positivo
+counter,9,2.7777777777777777,Neutro
+fairly central,9,4.0,Positivo
+sweet,9,5.0,Muy Positivo
+beautiful vertical,9,4.222222222222222,Positivo
+laptop,9,3.2222222222222223,Neutro
+understand,9,2.2222222222222223,Negativo
+cup of coffee,9,4.888888888888889,Muy Positivo
+times,9,4.444444444444445,Positivo
+regular,9,2.888888888888889,Neutro
+tiny,9,3.888888888888889,Positivo
+outlets,9,4.555555555555555,Muy Positivo
+doesn,9,2.5555555555555554,Neutro
+poor,9,1.2222222222222223,Negativo
+cost,9,2.7777777777777777,Neutro
+donut,9,3.888888888888889,Positivo
+cheese,9,4.0,Positivo
+urban,9,4.333333333333333,Positivo
+cafes nearby,8,3.625,Positivo
+give,8,4.125,Positivo
+absolutely,8,4.0,Positivo
+pleasant interior,8,4.25,Positivo
+absolutely friendly,8,5.0,Muy Positivo
+convenient,8,4.125,Positivo
+fairly dry,8,3.5,Positivo
+small and cozy,8,4.625,Muy Positivo
+quiet and pleasant,8,4.625,Muy Positivo
+lemon,8,3.875,Positivo
+stay,8,5.0,Muy Positivo
+boiled egg,8,2.0,Negativo
+service and food,8,4.875,Muy Positivo
+strawberry cheesecake,8,4.875,Muy Positivo
+super delicious,8,5.0,Muy Positivo
+charge,8,1.875,Negativo
+nice and cozy,8,5.0,Muy Positivo
+end up giving,8,3.375,Neutro
+train trip,8,4.75,Muy Positivo
+totally delighted,8,5.0,Muy Positivo
+coffee cake,8,4.625,Muy Positivo
+spain,8,4.25,Positivo
+speak,8,4.125,Positivo
+located place close,8,4.375,Positivo
+burned,8,1.625,Negativo
+frappe,8,5.0,Muy Positivo
+workers,8,4.875,Muy Positivo
+juices coffee beer,8,4.5,Muy Positivo
+favourite,8,5.0,Muy Positivo
+oat milk,8,4.0,Positivo
+expensive prices,8,2.375,Negativo
+pieces,8,2.5,Neutro
+tostada,8,4.25,Positivo
+enjoyed,8,4.75,Muy Positivo
+service and super,8,4.375,Positivo
+ham and tomato,8,4.25,Positivo
+part,8,4.125,Positivo
+choices,8,4.25,Positivo
+health and safety,8,4.5,Muy Positivo
+tasty meal,8,4.875,Muy Positivo
+tall glass,8,3.125,Neutro
+pass,8,4.75,Muy Positivo
+wonderful service,8,4.875,Muy Positivo
+quick bite,8,4.375,Positivo
+coming,8,4.125,Positivo
+excellent caf con,8,3.875,Positivo
+gluten free bread,8,4.375,Positivo
+targeting tourists,8,1.75,Negativo
+low quality,8,3.875,Positivo
+road,7,3.7142857142857144,Positivo
+glass bottle,7,1.0,Negativo
+simply delightful,7,5.0,Muy Positivo
+brownies,7,4.714285714285714,Muy Positivo
+bit high,7,3.857142857142857,Positivo
+quality price ratio,7,2.7142857142857144,Neutro
+gave,7,2.7142857142857144,Neutro
+order coffee,7,4.285714285714286,Positivo
+incredibly,7,5.0,Muy Positivo
+wait,7,4.285714285714286,Positivo
+doubt,7,5.0,Muy Positivo
+problems,7,2.5714285714285716,Neutro
+espresso,7,4.714285714285714,Muy Positivo
+chance but chance,7,5.0,Muy Positivo
+food great service,7,4.857142857142857,Muy Positivo
+free options suitable,7,4.571428571428571,Muy Positivo
+found,7,3.857142857142857,Positivo
+rich coffee,7,4.285714285714286,Positivo
+savory,7,4.857142857142857,Muy Positivo
+quiet coffee,7,4.857142857142857,Muy Positivo
+breakfast was fantastic,7,4.714285714285714,Muy Positivo
+plate of spaghetti,7,2.4285714285714284,Negativo
+correct,7,3.5714285714285716,Positivo
+good desserts pleasant,7,4.571428571428571,Muy Positivo
+begin,7,4.571428571428571,Muy Positivo
+open,7,4.285714285714286,Positivo
+items,7,3.857142857142857,Positivo
+fruits,7,3.5714285714285716,Positivo
+selection,7,5.0,Muy Positivo
+parks,7,4.857142857142857,Muy Positivo
+warm cozy welcoming,7,4.857142857142857,Muy Positivo
+avocado tomato,7,4.571428571428571,Muy Positivo
+michelle,7,4.857142857142857,Muy Positivo
+add,7,4.0,Positivo
+wifi,7,4.285714285714286,Positivo
+welcoming atmosphere,7,4.857142857142857,Muy Positivo
+food and drink,7,4.857142857142857,Muy Positivo
+decent,7,3.7142857142857144,Positivo
+recommend the cappuccino,7,4.428571428571429,Positivo
+food is good,7,5.0,Muy Positivo
+hearty madrid,7,4.857142857142857,Muy Positivo
+great time,7,4.857142857142857,Muy Positivo
+money,7,3.5714285714285716,Positivo
+treated,7,3.857142857142857,Positivo
+meeting,7,4.571428571428571,Muy Positivo
+yesterday,7,5.0,Muy Positivo
+products and good,7,4.428571428571429,Positivo
+delicious oatmeal cookies,7,4.714285714285714,Muy Positivo
+caixa exhibition center,7,4.857142857142857,Muy Positivo
+centrally,7,4.571428571428571,Muy Positivo
+madrid breakfast,7,4.0,Positivo
+welcoming place,7,4.714285714285714,Muy Positivo
+supermarket serrano ham,7,3.0,Neutro
+menu is varied,7,3.142857142857143,Neutro
+drawback,7,4.0,Positivo
+looked,7,4.285714285714286,Positivo
+loved the place,7,4.857142857142857,Muy Positivo
+establishment isn,7,1.5714285714285714,Negativo
+atmosphere pleasant,7,5.0,Muy Positivo
+chairs tables,7,2.5714285714285716,Neutro
+crowded,7,4.142857142857143,Positivo
+treat,6,3.6666666666666665,Positivo
+caixaforum museum,6,3.8333333333333335,Positivo
+weren,6,3.1666666666666665,Neutro
+ideal for coffee,6,4.833333333333333,Muy Positivo
+service was exceptional,6,5.0,Muy Positivo
+delicious and beautifully,6,4.666666666666667,Muy Positivo
+beer,6,4.333333333333333,Positivo
+cozy caf located,6,5.0,Muy Positivo
+cafe in madrid,6,5.0,Muy Positivo
+early,6,4.166666666666667,Positivo
+takeaway coffee,6,4.666666666666667,Muy Positivo
+great attention,6,4.833333333333333,Muy Positivo
+typical,6,3.6666666666666665,Positivo
+family,6,5.0,Muy Positivo
+inside,6,4.333333333333333,Positivo
+amazing coffee place,6,4.333333333333333,Positivo
+vibe,6,4.666666666666667,Muy Positivo
+atmosphere is friendly,6,5.0,Muy Positivo
+individual employees,6,3.3333333333333335,Neutro
+notch,6,5.0,Muy Positivo
+worst,6,1.0,Negativo
+wanted,6,2.5,Neutro
+caixa f rum,6,4.0,Positivo
+regular plastic,6,1.6666666666666667,Negativo
+cozy restaurant,6,4.833333333333333,Muy Positivo
+gloria was amazing,6,5.0,Muy Positivo
+cramped making,6,2.5,Neutro
+great background music,6,4.666666666666667,Muy Positivo
+pie is great,6,4.833333333333333,Muy Positivo
+quality terrible,6,1.0,Negativo
+coffee and sweets,6,4.166666666666667,Positivo
+snack this afternoon,6,4.5,Muy Positivo
+cafe en leche,6,4.666666666666667,Muy Positivo
+unbeatable service,6,5.0,Muy Positivo
+coffee and sandwiches,6,4.833333333333333,Muy Positivo
+recharge,6,4.5,Muy Positivo
+caf con leche,6,3.6666666666666665,Positivo
+caesar salad lettuce,6,4.833333333333333,Muy Positivo
+loved the coffee,6,5.0,Muy Positivo
+touching,6,3.3333333333333335,Neutro
+real,6,3.3333333333333335,Neutro
+top notch,6,5.0,Muy Positivo
+thousands of people,6,4.0,Positivo
+vegetarian options,6,4.833333333333333,Muy Positivo
+lunch or snack,6,4.666666666666667,Muy Positivo
+staff was exceptional,6,5.0,Muy Positivo
+phenomenal,6,5.0,Muy Positivo
+breakfast the staff,6,5.0,Muy Positivo
+delicious takeaway,6,4.0,Positivo
+owners,6,3.0,Neutro
+chose a norwegian,6,5.0,Muy Positivo
+exhibition,6,4.833333333333333,Muy Positivo
+bit more expensive,6,3.1666666666666665,Neutro
+served by gloria,6,5.0,Muy Positivo
+breakfast was varied,6,4.5,Muy Positivo
+meringue pie chocolate,6,5.0,Muy Positivo
+delight,6,5.0,Muy Positivo
+peaceful,6,4.833333333333333,Muy Positivo
+impeccable,6,5.0,Muy Positivo
+ordered were delicious,6,5.0,Muy Positivo
+teas chai,6,5.0,Muy Positivo
+sweet little place,6,5.0,Muy Positivo
+lady,6,3.5,Positivo
+discovered,6,5.0,Muy Positivo
+regrettable,6,4.333333333333333,Positivo
+dishes,6,4.5,Muy Positivo
+team,6,5.0,Muy Positivo
+strawberries,6,3.5,Positivo
+weak,6,1.8333333333333333,Negativo
+sandwich and croissant,6,4.666666666666667,Muy Positivo
+worth visiting,6,4.333333333333333,Positivo
+sandwich and smoothies,6,4.333333333333333,Positivo
+lemon yogurt,6,4.333333333333333,Positivo
+spot to relax,6,4.333333333333333,Positivo
+modern,6,4.166666666666667,Positivo
+based milks,6,4.666666666666667,Muy Positivo
+wouldn,6,1.3333333333333333,Negativo
+croissant con nutella,6,4.333333333333333,Positivo
+brighten,6,4.833333333333333,Muy Positivo
+quality of service,6,4.833333333333333,Muy Positivo
+served us quickly,6,4.333333333333333,Positivo
+rum,6,4.166666666666667,Positivo
+breakfast spanish foods,6,4.5,Muy Positivo
+girlfriend boyfriend,6,3.3333333333333335,Neutro
+sandwiches salads toasts,6,5.0,Muy Positivo
+botanic,6,4.666666666666667,Muy Positivo
+breakfast tasty meal,6,4.833333333333333,Muy Positivo
+chose,6,4.166666666666667,Positivo
+iced vanilla latte,6,3.6666666666666665,Positivo
+brought,6,3.0,Neutro
+super fast,6,5.0,Muy Positivo
+regular plastic bottles,6,1.0,Negativo
+cake slices,6,3.3333333333333335,Neutro
+cola,5,3.4,Neutro
+review,5,2.4,Negativo
+coffee is quality,5,4.0,Positivo
+comfort isn,5,4.6,Muy Positivo
+make an effort,5,3.4,Neutro
+kids,5,5.0,Muy Positivo
+comfortable seating,5,5.0,Muy Positivo
+professionalism,5,5.0,Muy Positivo
+plenty,5,4.8,Muy Positivo
+quality lunch,5,5.0,Muy Positivo
+rated,5,2.6,Neutro
+place wonderful,5,5.0,Muy Positivo
+place with exquisite,5,4.2,Positivo
+sandwiches reasonable,5,4.2,Positivo
+coffee isn,5,3.2,Neutro
+restaurant,5,3.4,Neutro
+light,5,4.8,Muy Positivo
+coffee accompanied,5,4.4,Positivo
+quality american coffee,5,3.4,Neutro
+prices and quality,5,3.8,Positivo
+recommend this cozy,5,5.0,Muy Positivo
+couple,5,3.8,Positivo
+cheap breakfast,5,2.8,Neutro
+received,5,4.6,Muy Positivo
+carton,5,1.4,Negativo
+case,5,4.2,Positivo
+love this place,5,5.0,Muy Positivo
+seat,5,4.6,Muy Positivo
+felt,5,3.4,Neutro
+complies with covid,5,4.8,Muy Positivo
+foreign tourists,5,3.6,Positivo
+place to chat,5,4.8,Muy Positivo
+cookie is delicious,5,5.0,Muy Positivo
+coffee with friends,5,4.8,Muy Positivo
+favorite coffee shop,5,4.8,Muy Positivo
+retiro park,5,4.8,Muy Positivo
+chocolate cake,5,4.8,Muy Positivo
+cookie,5,4.8,Muy Positivo
+expected,5,3.6,Positivo
+apologize,5,1.2,Negativo
+good and fast,5,4.4,Positivo
+bread tomato,5,3.6,Positivo
+good cup,5,4.8,Muy Positivo
+uncomfortable tables,5,2.6,Neutro
+escape the hustle,5,5.0,Muy Positivo
+dirty,5,1.4,Negativo
+great selection,5,4.8,Muy Positivo
+tortilla pinchos,5,2.0,Negativo
+atmosphere delicious coffee,5,5.0,Muy Positivo
+walking,5,5.0,Muy Positivo
+nice and clean,5,4.6,Muy Positivo
+generous,5,4.8,Muy Positivo
+tomato and olive,5,4.4,Positivo
+delicious decaffeinated,5,5.0,Muy Positivo
+delicious varied,5,4.6,Muy Positivo
+background,5,4.4,Positivo
+space is small,5,4.0,Positivo
+needed,5,4.2,Positivo
+ago,5,5.0,Muy Positivo
+breakfast excellent service,5,4.8,Muy Positivo
+pastries and coffee,5,4.6,Muy Positivo
+strictly normal coffee,5,3.2,Neutro
+mention,5,4.2,Positivo
+awesome,5,5.0,Muy Positivo
+makes you feel,5,5.0,Muy Positivo
+improve,5,2.4,Negativo
+sweet and savory,5,4.6,Muy Positivo
+vegan,5,4.2,Positivo
+hang,5,4.4,Positivo
+opinions,5,3.8,Positivo
+delicious pistachio cake,5,4.4,Positivo
+peaceful atmosphere,5,4.8,Muy Positivo
+menu and delicious,5,5.0,Muy Positivo
+staff was friendly,5,3.4,Neutro
+strong,5,4.8,Muy Positivo
+nice good,5,4.4,Positivo
+options for food,5,5.0,Muy Positivo
+eat gluten lactose,5,5.0,Muy Positivo
+minds,5,3.6,Positivo
+hotel,5,5.0,Muy Positivo
+ate,5,4.8,Muy Positivo
+entire,5,4.2,Positivo
+spent the entire,5,3.6,Positivo
+packed,5,4.6,Muy Positivo
+meringue,5,3.0,Neutro
+smoked salmon,5,4.6,Muy Positivo
+yummy,5,4.8,Muy Positivo
+yogurt cake,5,4.6,Muy Positivo
+good tea,5,4.4,Positivo
+person,5,4.2,Positivo
+menu lunch,5,5.0,Muy Positivo
+wouldn t recommend,5,1.0,Negativo
+decoration is beautiful,5,4.8,Muy Positivo
+manners,5,1.0,Negativo
+friend,5,4.0,Positivo
+terrible customer service,5,1.0,Negativo
+sunday morning,5,3.8,Positivo
+friendly and efficient,5,4.8,Muy Positivo
+heart,5,5.0,Muy Positivo
+good product,5,4.2,Positivo
+attitude,5,1.6,Negativo
+desired,5,1.6,Negativo
+great norwegian sandwich,5,4.8,Muy Positivo
+month,5,4.6,Muy Positivo
+highlight,5,4.6,Muy Positivo
+place attentive waitresses,5,4.2,Positivo
+enjoy their delicious,5,5.0,Muy Positivo
+modern cozy,5,4.6,Muy Positivo
+people excellent,5,5.0,Muy Positivo
+balanced,5,5.0,Muy Positivo
+bakery,5,5.0,Muy Positivo
+beautifully decorated,5,3.2,Neutro
+week in madrid,5,5.0,Muy Positivo
+week,5,4.2,Positivo
+don t understand,5,1.0,Negativo
+nice and quaint,5,4.6,Muy Positivo
+spectacular artisan,5,3.8,Positivo
+helpful staff,5,4.8,Muy Positivo
+beautifully,5,4.2,Positivo
+good option,5,4.6,Muy Positivo
+patio vertical coffee,5,5.0,Muy Positivo
+cafe coffee,5,3.8,Positivo
+terrible coffee,5,1.4,Negativo
+ordinary but good,5,2.8,Neutro
+enjoy a good,5,4.4,Positivo
+energy,5,4.2,Positivo
+years ago,5,5.0,Muy Positivo
+restrooms,4,3.25,Neutro
+happy,4,5.0,Muy Positivo
+gloria and kiara,4,5.0,Muy Positivo
+option,4,4.75,Muy Positivo
+opposite,4,5.0,Muy Positivo
+haven,4,2.25,Negativo
+preparing,4,4.5,Muy Positivo
+outstanding,4,5.0,Muy Positivo
+healthy quality,4,5.0,Muy Positivo
+point,4,4.0,Positivo
+churros,4,3.5,Positivo
+bar to order,4,2.75,Neutro
+original,4,4.5,Muy Positivo
+toast and cookies,4,4.75,Muy Positivo
+outrageously,4,2.5,Neutro
+retiro,4,4.75,Muy Positivo
+helpful polite service,4,5.0,Muy Positivo
+macchiato,4,4.0,Positivo
+landmarks,4,4.5,Muy Positivo
+total,4,3.5,Positivo
+clearing things,4,3.5,Positivo
+attentive fast,4,4.75,Muy Positivo
+rude staff,4,3.0,Neutro
+toast cost,4,3.0,Neutro
+closed,4,2.0,Negativo
+presented,4,4.5,Muy Positivo
+flavorful,4,3.75,Positivo
+omelette,4,3.5,Positivo
+focaccia bread,4,4.75,Muy Positivo
+oil,4,3.0,Neutro
+relaxing moment,4,5.0,Muy Positivo
+reina sofia,4,4.75,Muy Positivo
+hand,4,1.75,Negativo
+respond,4,1.75,Negativo
+baby friendly,4,4.75,Muy Positivo
+fairly,4,4.25,Positivo
+late,4,3.0,Neutro
+entered,4,2.75,Neutro
+website,4,2.25,Negativo
+locals,4,5.0,Muy Positivo
+empty,4,1.75,Negativo
+white,4,2.25,Negativo
+white mocha,4,4.0,Positivo
+finish,4,2.25,Negativo
+healthy food,4,4.5,Muy Positivo
+wide selection,4,5.0,Muy Positivo
+wife,4,3.5,Positivo
+neighborhood,4,4.75,Muy Positivo
+real reason,4,3.5,Positivo
+nice ambient,4,4.25,Positivo
+music is pleasant,4,4.75,Muy Positivo
+warm place reasonable,4,5.0,Muy Positivo
+cold lasagna,4,2.0,Negativo
+amanda,4,5.0,Muy Positivo
+grab a bite,4,4.75,Muy Positivo
+afternoon coffees,4,4.5,Muy Positivo
+products plus delicious,4,5.0,Muy Positivo
+great lemon cake,4,4.25,Positivo
+properly respect,4,3.25,Neutro
+comfy place,4,4.75,Muy Positivo
+farmer s sandwich,4,5.0,Muy Positivo
+yummy crunchy fresh,4,4.75,Muy Positivo
+good prices latte,4,3.5,Positivo
+compared,4,2.75,Neutro
+coming back,4,4.5,Muy Positivo
+grabbed a quick,4,4.5,Muy Positivo
+quick lunch,4,4.25,Positivo
+quick coffee,4,4.5,Muy Positivo
+good piping,4,5.0,Muy Positivo
+quiet atmosphere,4,4.0,Positivo
+museum district,4,4.75,Muy Positivo
+drink nibble,4,5.0,Muy Positivo
+good arabic coffee,4,5.0,Muy Positivo
+art,4,5.0,Muy Positivo
+view of caixa,4,4.75,Muy Positivo
+unfriendly,4,1.75,Negativo
+unpleasantly,4,3.0,Neutro
+great view,4,4.75,Muy Positivo
+americano,4,4.75,Muy Positivo
+atmosphere friendly staff,4,5.0,Muy Positivo
+nice views,4,4.75,Muy Positivo
+noisy,4,3.5,Positivo
+coffee delicious oatmeal,4,4.0,Positivo
+great people,4,5.0,Muy Positivo
+cosy,4,4.75,Muy Positivo
+great small caf,4,4.5,Muy Positivo
+night,4,4.25,Positivo
+fabulous,4,5.0,Muy Positivo
+quietly,4,4.75,Muy Positivo
+egg,4,3.0,Neutro
+felt very comfortable,4,5.0,Muy Positivo
+affection,4,5.0,Muy Positivo
+prices delicious,4,2.5,Neutro
+convenient place,4,4.75,Muy Positivo
+angeles usa,4,5.0,Muy Positivo
+milkshakes,4,3.5,Positivo
+group,4,4.0,Positivo
+waitress is super,4,5.0,Muy Positivo
+nice food,4,5.0,Muy Positivo
+nice people good,4,5.0,Muy Positivo
+vanilla,4,4.75,Muy Positivo
+mixed,4,2.5,Neutro
+vertical cafe,4,4.5,Muy Positivo
+recommend for specialty,4,4.0,Positivo
+cortados,4,2.75,Neutro
+aren,4,3.25,Neutro
+expectations,4,4.0,Positivo
+service was top,4,5.0,Muy Positivo
+service reasonable prices,4,4.0,Positivo
+extensive menu,4,5.0,Muy Positivo
+start the day,4,5.0,Muy Positivo
+speak english,4,4.5,Muy Positivo
+forum vertical garden,4,5.0,Muy Positivo
+forum vertical,4,5.0,Muy Positivo
+setting,4,4.75,Muy Positivo
+super cute,4,5.0,Muy Positivo
+delicious but expensive,4,3.75,Positivo
+bought,4,4.5,Muy Positivo
+magnificent,4,5.0,Muy Positivo
+peak times,4,4.5,Muy Positivo
+charm,4,3.5,Positivo
+caf located,4,4.5,Muy Positivo
+summer,4,5.0,Muy Positivo
+pleasant and calming,4,4.5,Muy Positivo
+hidden,4,4.75,Muy Positivo
+croissant and coffee,4,4.25,Positivo
+matcha,4,4.75,Muy Positivo
+caf with excellent,4,4.75,Muy Positivo
+mascarpone cake,4,5.0,Muy Positivo
+service and cozy,4,4.75,Muy Positivo
+service and excellent,4,4.5,Muy Positivo
+delicious with fresh,4,5.0,Muy Positivo
+cute coffee,4,5.0,Muy Positivo
+makes,4,4.25,Positivo
+extra,4,3.5,Positivo
+make a mandatory,4,5.0,Muy Positivo
+italian,4,4.25,Positivo
+inviting,4,3.75,Positivo
+spectacular infusions,4,5.0,Muy Positivo
+imagine,4,3.0,Neutro
+friendly people excellent,4,5.0,Muy Positivo
+friendly staff coffee,4,5.0,Muy Positivo
+impressive,4,2.75,Neutro
+service good attention,4,4.75,Muy Positivo
+isn t bad,4,2.75,Neutro
+staff and tasty,4,5.0,Muy Positivo
+bring,4,4.0,Positivo
+sprouts hard,4,1.0,Negativo
+standing,4,3.0,Neutro
+breakfast very quiet,4,4.75,Muy Positivo
+stopped for breakfast,4,4.25,Positivo
+business work,4,3.25,Neutro
+castilian sandwich fast,4,5.0,Muy Positivo
+butter,4,3.25,Neutro
+bustle,4,5.0,Muy Positivo
+service location,4,4.5,Muy Positivo
+brunch cheese ham,4,4.0,Positivo
+service is spectacular,4,5.0,Muy Positivo
+staff great service,4,4.75,Muy Positivo
+staff nice cafe,4,5.0,Muy Positivo
+madrid botanical,4,5.0,Muy Positivo
+special mention,4,5.0,Muy Positivo
+breakfast good atmosphere,4,4.5,Muy Positivo
+central location,4,3.75,Positivo
+stopping,4,5.0,Muy Positivo
+phone,4,2.75,Neutro
+fully heated,4,2.25,Negativo
+soy milk,4,3.5,Positivo
+piece of bread,4,1.5,Negativo
+caf frapp,4,3.0,Neutro
+tableware,4,4.5,Muy Positivo
+piece of cake,4,3.75,Positivo
+cheese croissant,4,3.5,Positivo
+photo,4,3.0,Neutro
+madrid close,4,4.5,Muy Positivo
+salmon avocado tomato,4,4.5,Muy Positivo
+incredible sandwiches,4,5.0,Muy Positivo
+patio caf,4,4.5,Muy Positivo
+coworkers,4,3.0,Neutro
+place is clean,4,5.0,Muy Positivo
+tart,4,4.25,Positivo
+chocolate cookies,4,4.0,Positivo
+pleasant spot opposite,4,4.5,Muy Positivo
+food was fresh,4,4.75,Muy Positivo
+ordered a toast,4,3.0,Neutro
+food very pleasant,4,4.0,Positivo
+beautiful and pleasant,4,4.75,Muy Positivo
+friendly and cheerful,4,4.75,Muy Positivo
+decided,4,3.5,Positivo
+ordered avocado,4,4.5,Muy Positivo
+ordered chocolate,4,4.0,Positivo
+pincho,4,4.0,Positivo
+chip cookie,4,5.0,Muy Positivo
+teapot so small,4,3.0,Neutro
+cakes a nice,4,3.5,Positivo
+caixa forum vertical,4,5.0,Muy Positivo
+piping hot coffee,4,5.0,Muy Positivo
+snacking,4,4.75,Muy Positivo
+simply,4,5.0,Muy Positivo
+policy,4,1.75,Negativo
+super touristy area,4,3.5,Positivo
+day of sightseeing,4,5.0,Muy Positivo
+slow,4,2.0,Negativo
+measures in place,4,4.5,Muy Positivo
+friendly and personalized,4,5.0,Muy Positivo
+supermarket,4,2.25,Negativo
+friendly and professional,4,5.0,Muy Positivo
+simple place,4,5.0,Muy Positivo
+free cake options,4,4.25,Positivo
+kind staff cute,4,5.0,Muy Positivo
+tastefully decorated place,4,5.0,Muy Positivo
+hot coffee,4,5.0,Muy Positivo
+partner,4,4.25,Positivo
+free products,4,4.5,Muy Positivo
+free or vegan,4,5.0,Muy Positivo
+efficient the place,3,4.666666666666667,Muy Positivo
+enjoying,3,4.333333333333333,Positivo
+easy,3,2.3333333333333335,Negativo
+exceptional food,3,5.0,Muy Positivo
+narrow and cramped,3,2.6666666666666665,Neutro
+pineapple,3,4.333333333333333,Positivo
+loved the food,3,4.666666666666667,Muy Positivo
+delicious items,3,4.0,Positivo
+pistachio,3,4.333333333333333,Positivo
+musical atmosphere,3,5.0,Muy Positivo
+quaint coffee,3,5.0,Muy Positivo
+delicious options,3,5.0,Muy Positivo
+matcha tea,3,5.0,Muy Positivo
+entered greeted,3,2.3333333333333335,Negativo
+delicious cakes warm,3,4.666666666666667,Muy Positivo
+mural,3,4.0,Positivo
+entered rushing,3,2.0,Negativo
+pero tampoco era,3,3.0,Neutro
+quality place,3,5.0,Muy Positivo
+museo reina sofia,3,5.0,Muy Positivo
+mozzarella sandwich,3,3.6666666666666665,Positivo
+del,3,4.0,Positivo
+daughter,3,4.666666666666667,Muy Positivo
+energy smoothie,3,2.3333333333333335,Negativo
+photos made,3,4.666666666666667,Muy Positivo
+delicious breakfast brunch,3,5.0,Muy Positivo
+loved my cubano,3,5.0,Muy Positivo
+morning for coffee,3,4.333333333333333,Positivo
+excessively,3,2.0,Negativo
+nice and kind,3,5.0,Muy Positivo
+price the staff,3,5.0,Muy Positivo
+pastry options,3,5.0,Muy Positivo
+olive oil toast,3,4.333333333333333,Positivo
+papaya mango,3,3.0,Neutro
+meters,3,3.6666666666666665,Positivo
+meal,3,4.0,Positivo
+pasta and sandwiches,3,4.333333333333333,Positivo
+made us feel,3,5.0,Muy Positivo
+made with good,3,4.666666666666667,Muy Positivo
+favorite place,3,5.0,Muy Positivo
+lucky,3,3.6666666666666665,Positivo
+dean good,3,5.0,Muy Positivo
+par,3,2.6666666666666665,Neutro
+playing,3,3.3333333333333335,Neutro
+detail,3,5.0,Muy Positivo
+cosy spot,3,5.0,Muy Positivo
+fair price,3,5.0,Muy Positivo
+plants,3,4.666666666666667,Muy Positivo
+excellent herbal tea,3,4.0,Positivo
+outrageously priced,3,3.0,Neutro
+outstanding customer service,3,5.0,Muy Positivo
+excellent customer,3,5.0,Muy Positivo
+plentiful,3,4.0,Positivo
+made coffee,3,3.3333333333333335,Neutro
+made a mistake,3,2.0,Negativo
+lovers,3,4.666666666666667,Muy Positivo
+disrespectful,3,1.0,Negativo
+distracting i don,3,3.0,Neutro
+discovering,3,4.333333333333333,Positivo
+die,3,3.6666666666666665,Positivo
+doesn t make,3,1.6666666666666667,Negativo
+cozy decor,3,5.0,Muy Positivo
+mercadona products,3,2.3333333333333335,Negativo
+cozy inexpensive,3,5.0,Muy Positivo
+extremely friendly stuff,3,5.0,Muy Positivo
+creamy rich,3,3.6666666666666665,Positivo
+discovered carolina lovely,3,5.0,Muy Positivo
+place is incredible,3,5.0,Muy Positivo
+nice cafe relax,3,5.0,Muy Positivo
+pricey the food,3,4.333333333333333,Positivo
+place isn,3,2.6666666666666665,Neutro
+excellent the treatment,3,5.0,Muy Positivo
+pets,3,3.0,Neutro
+milk with toast,3,4.333333333333333,Positivo
+nice the coffee,3,5.0,Muy Positivo
+croissant with ham,3,5.0,Muy Positivo
+place was lovely,3,5.0,Muy Positivo
+nice idea,3,4.666666666666667,Muy Positivo
+place to meet,3,4.666666666666667,Muy Positivo
+place to share,3,4.666666666666667,Muy Positivo
+love having breakfast,3,5.0,Muy Positivo
+exhibition hall,3,5.0,Muy Positivo
+prices are exorbitant,3,1.3333333333333333,Negativo
+place the service,3,5.0,Muy Positivo
+lots of sugary,3,2.6666666666666665,Neutro
+don t stick,3,1.3333333333333333,Negativo
+perfectly,3,5.0,Muy Positivo
+excessively expensive,3,1.6666666666666667,Negativo
+order a sandwich,3,5.0,Muy Positivo
+menu that includes,3,3.3333333333333335,Neutro
+elaborate,3,2.3333333333333335,Negativo
+eugine,3,5.0,Muy Positivo
+poorly,3,1.6666666666666667,Negativo
+peace,3,4.0,Positivo
+portion size,3,3.6666666666666665,Positivo
+normal coffee shop,3,3.6666666666666665,Positivo
+moments,3,3.6666666666666665,Positivo
+offerings,3,4.333333333333333,Positivo
+mandatory stop,3,5.0,Muy Positivo
+man,3,4.0,Positivo
+crunchy,3,3.6666666666666665,Positivo
+prado reina,3,4.333333333333333,Positivo
+exquisite treatment,3,5.0,Muy Positivo
+poor service,3,1.6666666666666667,Negativo
+shows,3,4.666666666666667,Muy Positivo
+attended,3,5.0,Muy Positivo
+cake was good,3,5.0,Muy Positivo
+cakes and sandwiches,3,4.666666666666667,Muy Positivo
+type,3,2.3333333333333335,Negativo
+incredibly kind,3,5.0,Muy Positivo
+including perfecto gluten,3,5.0,Muy Positivo
+small latte toast,3,2.3333333333333335,Negativo
+small latte,3,3.0,Neutro
+industrial,3,2.3333333333333335,Negativo
+caffeine fix,3,5.0,Muy Positivo
+attentive people,3,5.0,Muy Positivo
+friendly and cosy,3,4.666666666666667,Muy Positivo
+sour face,3,1.0,Negativo
+soup,3,5.0,Muy Positivo
+changed,3,1.6666666666666667,Negativo
+burnt coffee,3,3.6666666666666665,Positivo
+gem,3,5.0,Muy Positivo
+train coffee culture,3,5.0,Muy Positivo
+iberian ham olive,3,5.0,Muy Positivo
+average food,3,2.6666666666666665,Neutro
+hustle and bustle,3,5.0,Muy Positivo
+speak spanish,3,3.3333333333333335,Neutro
+friendly and courteous,3,4.333333333333333,Positivo
+average breakfast,3,3.6666666666666665,Positivo
+caesar,3,4.666666666666667,Muy Positivo
+cafe con,3,4.333333333333333,Positivo
+town,3,4.666666666666667,Muy Positivo
+gloria especially treats,3,5.0,Muy Positivo
+soggy piece,3,2.6666666666666665,Neutro
+sol,3,4.0,Positivo
+attentive waiters,3,5.0,Muy Positivo
+spaghetti carbonara,3,3.0,Neutro
+heat,3,4.333333333333333,Positivo
+service i recommend,3,5.0,Muy Positivo
+service is fine,3,2.3333333333333335,Negativo
+casual,3,5.0,Muy Positivo
+service nice,3,3.3333333333333335,Neutro
+chain,3,3.3333333333333335,Neutro
+lady named gloria,3,5.0,Muy Positivo
+side,3,3.0,Neutro
+great variety,3,5.0,Muy Positivo
+unique,3,4.666666666666667,Muy Positivo
+great small,3,4.666666666666667,Muy Positivo
+viennese coffee,3,5.0,Muy Positivo
+serves food,3,3.6666666666666665,Positivo
+server,3,5.0,Muy Positivo
+serve the rooibos,3,3.3333333333333335,Neutro
+change,3,1.0,Negativo
+catching,3,4.333333333333333,Positivo
+tuition money,3,3.0,Neutro
+true,3,3.6666666666666665,Positivo
+camelia who explains,3,5.0,Muy Positivo
+trip,3,5.0,Muy Positivo
+jazzy smooth melodies,3,5.0,Muy Positivo
+calm place,3,5.0,Muy Positivo
+jazz music,3,5.0,Muy Positivo
+careful,3,3.3333333333333335,Neutro
+slightly high,3,4.0,Positivo
+service speaks,3,5.0,Muy Positivo
+share,3,4.666666666666667,Muy Positivo
+shocked,3,1.6666666666666667,Negativo
+shakes,3,3.6666666666666665,Positivo
+atmosphere was calm,3,5.0,Muy Positivo
+carolina,3,5.0,Muy Positivo
+caroline,3,5.0,Muy Positivo
+great place food,3,4.0,Positivo
+time finding coffee,3,5.0,Muy Positivo
+taste cafe english,3,5.0,Muy Positivo
+talking,3,1.3333333333333333,Negativo
+benches,3,4.333333333333333,Positivo
+tasted pretty good,3,2.3333333333333335,Negativo
+hot and delicious,3,5.0,Muy Positivo
+bread a coffee,3,4.0,Positivo
+spotify play list,3,5.0,Muy Positivo
+bit rude,3,2.6666666666666665,Neutro
+half a piece,3,1.6666666666666667,Negativo
+badly poured beer,3,1.0,Negativo
+bit touristy,3,5.0,Muy Positivo
+blonde hair,3,1.0,Negativo
+honestly,3,2.3333333333333335,Negativo
+homey atmosphere impeccable,3,5.0,Muy Positivo
+studying,3,5.0,Muy Positivo
+terribly mediocre,3,3.6666666666666665,Positivo
+beautiful intimate,3,4.0,Positivo
+hearty breakfast,3,5.0,Muy Positivo
+tasty pincho madrileno,3,5.0,Muy Positivo
+hearty,3,4.666666666666667,Muy Positivo
+beautiful corner,3,4.333333333333333,Positivo
+tasty glutenfree tosts,3,5.0,Muy Positivo
+beautifully presented,3,4.333333333333333,Positivo
+helped,3,5.0,Muy Positivo
+table and leave,3,1.0,Negativo
+sweetheart,3,5.0,Muy Positivo
+barely sloppy water,3,1.0,Negativo
+heading,3,5.0,Muy Positivo
+gesture,3,3.6666666666666665,Positivo
+hurry,3,4.0,Positivo
+bars,3,3.6666666666666665,Positivo
+taking,3,2.0,Negativo
+tasty and fast,3,5.0,Muy Positivo
+baby,3,4.666666666666667,Muy Positivo
+hard boiled,3,2.3333333333333335,Negativo
+breakfast consisting,3,3.6666666666666665,Positivo
+friendly the coffees,3,5.0,Muy Positivo
+ham were excellent,3,5.0,Muy Positivo
+staff healthy food,3,4.666666666666667,Muy Positivo
+breakfast the cakes,3,5.0,Muy Positivo
+strongly suggest,3,1.0,Negativo
+staff was charming,3,5.0,Muy Positivo
+idea,3,4.666666666666667,Muy Positivo
+splendid,3,5.0,Muy Positivo
+treats us wonderfully,3,5.0,Muy Positivo
+spoken staff,3,5.0,Muy Positivo
+sponge cake,3,3.6666666666666665,Positivo
+spending,3,4.666666666666667,Muy Positivo
+generous portion,3,5.0,Muy Positivo
+staff who serve,3,5.0,Muy Positivo
+hope to return,3,5.0,Muy Positivo
+sugar to taste,3,2.6666666666666665,Neutro
+success,3,5.0,Muy Positivo
+tortilla skewer,3,3.0,Neutro
+backpacks,3,1.0,Negativo
+stuff,3,5.0,Muy Positivo
+hidden treasure absolutely,3,5.0,Muy Positivo
+frozen,3,2.6666666666666665,Neutro
+tomate,3,5.0,Muy Positivo
+tone to make,3,2.6666666666666665,Neutro
+bread is excellent,3,4.333333333333333,Positivo
+hadn,3,3.3333333333333335,Neutro
+stayed,3,4.666666666666667,Muy Positivo
+starting,3,4.0,Positivo
+guy,3,5.0,Muy Positivo
+toast with seeds,3,3.6666666666666665,Positivo
+tomato and oil,3,4.0,Positivo
+almond,3,5.0,Muy Positivo
+recommend the ham,3,5.0,Muy Positivo
+great hostess,3,5.0,Muy Positivo
+reina,3,4.666666666666667,Muy Positivo
+regularly,3,5.0,Muy Positivo
+coffee lover,3,4.333333333333333,Positivo
+wide range,3,4.666666666666667,Muy Positivo
+coffee shop strategically,3,5.0,Muy Positivo
+coffee is super,3,5.0,Muy Positivo
+coffee is real,3,5.0,Muy Positivo
+waitresses treated,3,2.3333333333333335,Negativo
+wonderfully,3,5.0,Muy Positivo
+life saviour,3,5.0,Muy Positivo
+waitress who served,3,3.3333333333333335,Neutro
+refreshments and snacks,3,4.0,Positivo
+retiro museo,3,5.0,Muy Positivo
+flat,3,1.3333333333333333,Negativo
+flat white,3,1.3333333333333333,Negativo
+warm iced,3,1.6666666666666667,Negativo
+light lunch love,3,5.0,Muy Positivo
+reina sof,3,4.333333333333333,Positivo
+world,3,5.0,Muy Positivo
+ambiance typical,3,4.333333333333333,Positivo
+rude and unfriendly,3,1.3333333333333333,Negativo
+late breakfast,3,4.0,Positivo
+ambience attentive service,3,5.0,Muy Positivo
+water refills,3,5.0,Muy Positivo
+large group,3,4.333333333333333,Positivo
+room,3,3.6666666666666665,Positivo
+row i don,3,4.666666666666667,Muy Positivo
+advisable,3,5.0,Muy Positivo
+coffee i didn,3,1.6666666666666667,Negativo
+google,3,1.3333333333333333,Negativo
+promise,3,4.666666666666667,Muy Positivo
+farmer,3,5.0,Muy Positivo
+properly respect safety,3,3.0,Neutro
+comfortably,3,4.0,Positivo
+good spot,3,4.333333333333333,Positivo
+great care,3,5.0,Muy Positivo
+feel so comfortable,3,4.0,Positivo
+congratulations,3,5.0,Muy Positivo
+good professionals,3,5.0,Muy Positivo
+contact,3,1.0,Negativo
+quantity,3,3.3333333333333335,Neutro
+absolutely lovely,3,5.0,Muy Positivo
+write,3,4.0,Positivo
+lively,3,4.666666666666667,Muy Positivo
+great barista,3,3.6666666666666665,Positivo
+location the prices,3,4.0,Positivo
+comfortable and quiet,3,5.0,Muy Positivo
+location and atmosphere,3,4.666666666666667,Muy Positivo
+ready quickly,3,5.0,Muy Positivo
+reading,3,2.3333333333333335,Negativo
+completely negative,3,2.3333333333333335,Negativo
+great castilian,3,5.0,Muy Positivo
+looked good,3,4.0,Positivo
+recommend this place,3,4.666666666666667,Muy Positivo
+welcoming yummy pls,3,5.0,Muy Positivo
+long time,3,4.333333333333333,Positivo
+finished my coffee,3,2.6666666666666665,Neutro
+weekend,3,4.333333333333333,Positivo
+feeling very good,3,3.3333333333333335,Neutro
+received wonderful,3,5.0,Muy Positivo
+line,3,4.666666666666667,Muy Positivo
+won t regret,3,5.0,Muy Positivo
+armed robbery,3,1.6666666666666667,Negativo
+food we ordered,3,5.0,Muy Positivo
+yummy snacks decent,3,4.0,Positivo
+sandwich was delicious,3,4.666666666666667,Muy Positivo
+chill,3,5.0,Muy Positivo
+salad yogurt brunch,3,5.0,Muy Positivo
+scam,3,1.3333333333333333,Negativo
+wine,3,4.666666666666667,Muy Positivo
+waitress even told,3,2.0,Negativo
+variety of plant,3,4.666666666666667,Muy Positivo
+checked,3,3.6666666666666665,Positivo
+sandwich a ham,3,3.6666666666666665,Positivo
+atmosphere with warm,3,4.666666666666667,Muy Positivo
+chicken sandwich,3,4.0,Positivo
+approachable,3,5.0,Muy Positivo
+charming and pleasant,3,4.666666666666667,Muy Positivo
+kindly,3,5.0,Muy Positivo
+charming small,3,4.333333333333333,Positivo
+vanilla coffee,3,4.666666666666667,Muy Positivo
+carefully curated,3,5.0,Muy Positivo
+latte is spectacular,3,5.0,Muy Positivo
+chicken,3,4.0,Positivo
+waited,3,2.3333333333333335,Negativo
+service and treatment,3,5.0,Muy Positivo
+kiara are wonderful,3,5.0,Muy Positivo
+view of paseo,3,4.0,Positivo
+window,3,3.0,Neutro
+glad,2,5.0,Muy Positivo
+great choice,2,5.0,Muy Positivo
+guys order,2,5.0,Muy Positivo
+good recommended quality,2,5.0,Muy Positivo
+good artisanal coffee,2,5.0,Muy Positivo
+women who served,2,3.0,Neutro
+half assed starbucks,2,3.0,Neutro
+guys,2,3.0,Neutro
+entire team,2,5.0,Muy Positivo
+mistreating,2,1.0,Negativo
+museum and main,2,5.0,Muy Positivo
+good presentation,2,4.5,Muy Positivo
+green salad,2,5.0,Muy Positivo
+minute walk,2,5.0,Muy Positivo
+excellent and gloria,2,5.0,Muy Positivo
+mistake when ordering,2,2.5,Neutro
+good coffee fast,2,4.0,Positivo
+good choices,2,4.5,Muy Positivo
+good typical spanish,2,4.0,Positivo
+great location views,2,4.0,Positivo
+miss,2,5.0,Muy Positivo
+girl working,2,5.0,Muy Positivo
+great working environment,2,5.0,Muy Positivo
+girl named kiara,2,5.0,Muy Positivo
+good review,2,2.0,Negativo
+excellent location relaxed,2,5.0,Muy Positivo
+estaba mal,2,3.0,Neutro
+good double chocolate,2,3.0,Neutro
+hectic life,2,5.0,Muy Positivo
+winter,2,3.0,Neutro
+good atmosphere soft,2,4.0,Positivo
+good the cafeteria,2,5.0,Muy Positivo
+good taste,2,5.0,Muy Positivo
+mocha chip,2,1.0,Negativo
+good steaming,2,5.0,Muy Positivo
+woman,2,3.0,Neutro
+girls who work,2,5.0,Muy Positivo
+moment you walk,2,5.0,Muy Positivo
+enjoyed a quality,2,5.0,Muy Positivo
+museum perfect,2,5.0,Muy Positivo
+museums and parks,2,5.0,Muy Positivo
+world traveler coffee,2,5.0,Muy Positivo
+admiring the vertical,2,5.0,Muy Positivo
+hard to find,2,5.0,Muy Positivo
+hate for animals,2,2.0,Negativo
+adequate ventilation,2,4.0,Positivo
+happy birthday,2,5.0,Muy Positivo
+mercadona,2,2.0,Negativo
+happy birthday camilia,2,5.0,Muy Positivo
+gluten intolerance,2,3.0,Neutro
+guest,2,4.0,Positivo
+wonderful gorgeous,2,5.0,Muy Positivo
+minutes from atocha,2,5.0,Muy Positivo
+wonderful lemon,2,5.0,Muy Positivo
+afternoon with friends,2,5.0,Muy Positivo
+establishments mea culpa,2,1.0,Negativo
+eugene,2,4.0,Positivo
+aesthetic,2,2.0,Negativo
+equipped,2,4.5,Muy Positivo
+gloria is charming,2,5.0,Muy Positivo
+escape,2,5.0,Muy Positivo
+gloria s warmth,2,5.0,Muy Positivo
+glory great,2,5.0,Muy Positivo
+great kindness,2,5.0,Muy Positivo
+michelle for making,2,5.0,Muy Positivo
+great professional attention,2,5.0,Muy Positivo
+worse table,2,1.5,Negativo
+great breakfast options,2,5.0,Muy Positivo
+entering caixaforum,2,4.5,Muy Positivo
+great price,2,4.5,Muy Positivo
+green,2,3.0,Neutro
+great place quiet,2,4.5,Muy Positivo
+entering or leaving,2,4.5,Muy Positivo
+excellent treatment welcoming,2,5.0,Muy Positivo
+museum making,2,5.0,Muy Positivo
+medium cup,2,1.0,Negativo
+wicker chairs,2,4.0,Positivo
+great find,2,5.0,Muy Positivo
+hand the cakes,2,2.0,Negativo
+mom,2,5.0,Muy Positivo
+eugenio,2,5.0,Muy Positivo
+won t return,2,1.5,Negativo
+enjoying a cup,2,5.0,Muy Positivo
+music good coffee,2,5.0,Muy Positivo
+gloria and eugenio,2,5.0,Muy Positivo
+work meetings,2,5.0,Muy Positivo
+glass of water,2,3.0,Neutro
+meet a friend,2,4.5,Muy Positivo
+latte accompanied,2,2.5,Neutro
+low volume music,2,5.0,Muy Positivo
+laughed,2,1.0,Negativo
+lattes,2,5.0,Muy Positivo
+leaves a lot,2,1.0,Negativo
+forgot,2,4.0,Positivo
+food is amazing,2,5.0,Muy Positivo
+made smoothie,2,5.0,Muy Positivo
+food pleasant temperature,2,5.0,Muy Positivo
+enjoy your drink,2,5.0,Muy Positivo
+food is quick,2,3.5,Positivo
+luxurious,2,5.0,Muy Positivo
+food is precooked,2,3.0,Neutro
+large cup costs,2,1.0,Negativo
+extremely dirty toilet,2,1.0,Negativo
+lasagna and amazing,2,5.0,Muy Positivo
+foam,2,2.5,Neutro
+flavors,2,5.0,Muy Positivo
+foccacha was delicious,2,5.0,Muy Positivo
+food noruego,2,5.0,Muy Positivo
+forum magnificent coffee,2,4.0,Positivo
+found this caf,2,5.0,Muy Positivo
+experience delicious,2,5.0,Muy Positivo
+kind workers,2,5.0,Muy Positivo
+kind waitresses,2,3.0,Neutro
+extra large,2,3.5,Positivo
+extra mixed croissant,2,3.0,Neutro
+kindly lent,2,5.0,Muy Positivo
+juice was delicious,2,5.0,Muy Positivo
+latte cake,2,5.0,Muy Positivo
+exquisite attention,2,4.5,Muy Positivo
+kaisha forum,2,5.0,Muy Positivo
+justified,2,2.0,Negativo
+lukewarm,2,4.0,Positivo
+jungle hanging,2,5.0,Muy Positivo
+kiara s service,2,5.0,Muy Positivo
+low,2,1.5,Negativo
+low quality american,2,1.0,Negativo
+latte cake soup,2,5.0,Muy Positivo
+extra small run,2,2.0,Negativo
+loud voice,2,1.5,Negativo
+loose metal hook,2,5.0,Muy Positivo
+felt sick,2,1.0,Negativo
+lost,2,3.0,Neutro
+location i imagine,2,5.0,Muy Positivo
+location high quality,2,5.0,Muy Positivo
+location for accessing,2,4.5,Muy Positivo
+lot of food,2,5.0,Muy Positivo
+location overlooking,2,5.0,Muy Positivo
+extremely warm,2,5.0,Muy Positivo
+lingered,2,4.0,Positivo
+located the coffee,2,3.5,Positivo
+loved my wristwatch,2,5.0,Muy Positivo
+located in front,2,4.5,Muy Positivo
+love their coffee,2,5.0,Muy Positivo
+fateful sunday afternoon,2,3.0,Neutro
+lovely lil cafe,2,5.0,Muy Positivo
+loves good quality,2,5.0,Muy Positivo
+favorites,2,5.0,Muy Positivo
+food and atmosphere,2,5.0,Muy Positivo
+eye,2,2.0,Negativo
+food and fantastic,2,5.0,Muy Positivo
+levels,2,5.0,Muy Positivo
+light and delicious,2,4.5,Muy Positivo
+flat white coffee,2,2.0,Negativo
+leche lemon meringue,2,5.0,Muy Positivo
+lemon tart,2,4.5,Muy Positivo
+leisurely,2,3.0,Neutro
+life,2,3.0,Neutro
+long to serve,2,4.0,Positivo
+leave delighted,2,5.0,Muy Positivo
+eyelashes,2,1.0,Negativo
+leche con croissant,2,4.5,Muy Positivo
+leaving the caixaforum,2,1.5,Negativo
+left until closing,2,1.0,Negativo
+facilities,2,4.5,Muy Positivo
+left the coffee,2,2.5,Neutro
+feeling a bit,2,4.5,Muy Positivo
+filipino staff,2,5.0,Muy Positivo
+find a place,2,5.0,Muy Positivo
+leaves,2,1.0,Negativo
+hot drinks,2,4.5,Muy Positivo
+master taiwanese uncle,2,5.0,Muy Positivo
+hidden spot,2,5.0,Muy Positivo
+manner,2,3.5,Positivo
+higher,2,2.5,Neutro
+hit,2,4.0,Positivo
+fruit blended,2,2.0,Negativo
+expect good service,2,2.0,Negativo
+frozen vegetable pieces,2,3.0,Neutro
+formidable and makes,2,5.0,Muy Positivo
+fue muy amable,2,3.0,Neutro
+improved,2,3.0,Neutro
+friends centrally,2,5.0,Muy Positivo
+executed beautiful clean,2,5.0,Muy Positivo
+front of caixa,2,4.5,Muy Positivo
+friends to enjoy,2,5.0,Muy Positivo
+ignorant people,2,3.0,Neutro
+ice cream,2,1.0,Negativo
+meals fruit,2,5.0,Muy Positivo
+frozen mix,2,1.0,Negativo
+gluten free toast,2,4.5,Muy Positivo
+gluten free cake,2,4.5,Muy Positivo
+good acoustics,2,5.0,Muy Positivo
+middle,2,4.0,Positivo
+hay otros sitios,2,3.0,Neutro
+human touch leaves,2,1.0,Negativo
+hugs,2,5.0,Muy Positivo
+hungry,2,1.5,Negativo
+excellent service fast,2,5.0,Muy Positivo
+makes prices high,2,2.0,Negativo
+excellent service toast,2,5.0,Muy Positivo
+garden of caixa,2,4.0,Positivo
+hot water,2,3.5,Positivo
+excellent intimate spot,2,4.0,Positivo
+man who served,2,3.5,Positivo
+managed,2,3.0,Neutro
+home the waiter,2,3.0,Neutro
+makes the experience,2,4.5,Muy Positivo
+horrendous,2,1.0,Negativo
+make people travel,2,1.0,Negativo
+excellent service light,2,4.0,Positivo
+free food,2,4.5,Muy Positivo
+free toast,2,4.5,Muy Positivo
+fair,2,4.0,Positivo
+free seats,2,5.0,Muy Positivo
+maintained,2,3.0,Neutro
+maintained small,2,2.0,Negativo
+joke,2,1.0,Negativo
+job,2,4.5,Muy Positivo
+ish castellano,2,3.0,Neutro
+friendly always smiling,2,5.0,Muy Positivo
+madrid jazz,2,5.0,Muy Positivo
+madrid s iconic,2,4.5,Muy Positivo
+frappe was delicious,2,5.0,Muy Positivo
+franchise quality products,2,1.0,Negativo
+ladies,2,5.0,Muy Positivo
+exquisitely prepared,2,5.0,Muy Positivo
+lack,2,3.5,Positivo
+expo,2,5.0,Muy Positivo
+knew,2,4.5,Muy Positivo
+isn t worth,2,2.5,Neutro
+friendly and patient,2,5.0,Muy Positivo
+matter,2,1.5,Negativo
+friendly super,2,5.0,Muy Positivo
+friendliness and attention,2,5.0,Muy Positivo
+matter of preparation,2,2.0,Negativo
+expensive compared,2,1.5,Negativo
+expensive for madrid,2,4.5,Muy Positivo
+friendlier,2,3.5,Positivo
+freshly prepared,2,5.0,Muy Positivo
+freshest coca cola,2,5.0,Muy Positivo
+inflated prices,2,3.5,Positivo
+family and friends,2,5.0,Muy Positivo
+inflated,2,3.5,Positivo
+infusion menu isn,2,5.0,Muy Positivo
+intolerances,2,4.0,Positivo
+interior design,2,5.0,Muy Positivo
+incredible the staff,2,5.0,Muy Positivo
+frequented this place,2,5.0,Muy Positivo
+french,2,3.0,Neutro
+freshly made,2,5.0,Muy Positivo
+madrid delicious,2,5.0,Muy Positivo
+staff and warm,2,5.0,Muy Positivo
+spending the afternoon,2,4.5,Muy Positivo
+spoke great english,2,5.0,Muy Positivo
+spoke,2,5.0,Muy Positivo
+spices orange,2,3.0,Neutro
+breakfasts are delightful,2,4.5,Muy Positivo
+bringing our computers,2,4.0,Positivo
+bright design,2,5.0,Muy Positivo
+prices were good,2,4.5,Muy Positivo
+staff who make,2,5.0,Muy Positivo
+busy reflecting,2,5.0,Muy Positivo
+breakfast are freshly,2,4.5,Muy Positivo
+breakfast soft,2,3.0,Neutro
+breakfast in atocha,2,5.0,Muy Positivo
+straws that weren,2,5.0,Muy Positivo
+break between museums,2,3.5,Positivo
+breakfast every day,2,5.0,Muy Positivo
+breakfast before visiting,2,5.0,Muy Positivo
+staff the perfect,2,5.0,Muy Positivo
+cafe to stop,2,5.0,Muy Positivo
+smothies,2,5.0,Muy Positivo
+softer,2,4.0,Positivo
+sofas,2,4.0,Positivo
+sooo good,2,5.0,Muy Positivo
+son,2,3.0,Neutro
+smooth,2,5.0,Muy Positivo
+smoothie glass,2,5.0,Muy Positivo
+cafe patio vertical,2,4.0,Positivo
+squashed,2,5.0,Muy Positivo
+cafe is conveniently,2,4.0,Positivo
+caf quick,2,4.0,Positivo
+spacious,2,3.5,Positivo
+spanish standards staff,2,3.0,Neutro
+cake and good,2,2.0,Negativo
+space is tight,2,3.5,Positivo
+space excellent,2,5.0,Muy Positivo
+burnt croissant,2,1.0,Negativo
+butter and jam,2,4.5,Muy Positivo
+cafe near atocha,2,2.5,Neutro
+black,2,2.5,Neutro
+superb,2,5.0,Muy Positivo
+super well located,2,5.0,Muy Positivo
+surely,2,4.5,Muy Positivo
+surprise small,2,4.0,Positivo
+brazilians,2,5.0,Muy Positivo
+superbly located,2,5.0,Muy Positivo
+berry tart,2,5.0,Muy Positivo
+breakfast before starting,2,5.0,Muy Positivo
+big smile,2,4.5,Muy Positivo
+taste perfect,2,5.0,Muy Positivo
+tart looks amazing,2,3.5,Positivo
+tables gee,2,2.0,Negativo
+takeout,2,5.0,Muy Positivo
+takeaway tea,2,4.0,Positivo
+tapas,2,4.0,Positivo
+swift service yummy,2,5.0,Muy Positivo
+swept,2,2.0,Negativo
+bill,2,3.0,Neutro
+stop and enjoy,2,5.0,Muy Positivo
+strange,2,3.5,Positivo
+breakfast all weekend,2,4.5,Muy Positivo
+starting each morning,2,5.0,Muy Positivo
+steps,2,3.5,Positivo
+steep,2,3.5,Positivo
+bothered,2,3.5,Positivo
+sundays,2,4.0,Positivo
+sunday afternoon lured,2,3.0,Neutro
+bit too noisy,2,4.0,Positivo
+super cute design,2,5.0,Muy Positivo
+strudel was delicious,2,4.0,Positivo
+stumbled,2,5.0,Muy Positivo
+successful lunch break,2,5.0,Muy Positivo
+super affordable price,2,5.0,Muy Positivo
+strawberry cake cost,2,1.0,Negativo
+struggled a bit,2,5.0,Muy Positivo
+bocadilllos,2,5.0,Muy Positivo
+blonde haired waitress,2,5.0,Muy Positivo
+super delicious friendly,2,5.0,Muy Positivo
+service very clean,2,4.5,Muy Positivo
+service stand,2,5.0,Muy Positivo
+central cafe,2,4.0,Positivo
+celiac disease,2,5.0,Muy Positivo
+castellano sandwich,2,3.0,Neutro
+cashier spoke great,2,5.0,Muy Positivo
+service ideal,2,4.0,Positivo
+service google,2,1.0,Negativo
+cafe with plenty,2,4.0,Positivo
+shout,2,5.0,Muy Positivo
+shot,2,2.0,Negativo
+care and love,2,5.0,Muy Positivo
+caramel,2,5.0,Muy Positivo
+capuccino and cafe,2,4.0,Positivo
+cares,2,5.0,Muy Positivo
+carefully curated decor,2,5.0,Muy Positivo
+share a good,2,4.5,Muy Positivo
+shop strategically,2,5.0,Muy Positivo
+carta,2,5.0,Muy Positivo
+scolding,2,1.0,Negativo
+searched,2,4.0,Positivo
+sandwich highly recommended,2,5.0,Muy Positivo
+sandwiches are carefully,2,5.0,Muy Positivo
+sandwiches and cold,2,5.0,Muy Positivo
+sarcastic tone,2,1.0,Negativo
+charming and cozy,2,4.5,Muy Positivo
+charming cafe served,2,5.0,Muy Positivo
+charming caf nestled,2,5.0,Muy Positivo
+service reasonable,2,5.0,Muy Positivo
+served with kindness,2,4.5,Muy Positivo
+serves,2,4.0,Positivo
+service and friendliness,2,5.0,Muy Positivo
+chic atmosphere,2,5.0,Muy Positivo
+cheesecake staff,2,5.0,Muy Positivo
+cheesecake and nice,2,5.0,Muy Positivo
+serve you super,2,5.0,Muy Positivo
+serve various drinks,2,3.0,Neutro
+certainty,2,2.0,Negativo
+chairs with cushions,2,3.5,Positivo
+cakes teas,2,3.5,Positivo
+smells great,2,3.0,Neutro
+smooth rich,2,5.0,Muy Positivo
+small shop,2,4.5,Muy Positivo
+small sandwich,2,2.0,Negativo
+cakes and muffin,2,5.0,Muy Positivo
+small cafeteria close,2,5.0,Muy Positivo
+small but food,2,3.0,Neutro
+small european restaurants,2,5.0,Muy Positivo
+service yummy salad,2,5.0,Muy Positivo
+small strawberry,2,1.0,Negativo
+capless glass bottles,2,1.0,Negativo
+capital delicious breakfast,2,5.0,Muy Positivo
+caprese,2,1.5,Negativo
+cappuccinos infusions,2,5.0,Muy Positivo
+small but comfortable,2,4.0,Positivo
+caffe,2,5.0,Muy Positivo
+soy coffee,2,4.5,Muy Positivo
+cafeteria clean,2,4.0,Positivo
+small uncomfortable,2,3.0,Neutro
+set,2,3.0,Neutro
+slightly,2,4.5,Muy Positivo
+camilia,2,5.0,Muy Positivo
+cami make,2,5.0,Muy Positivo
+sipped my coffee,2,3.0,Neutro
+skewer,2,3.0,Neutro
+sliced,2,2.5,Neutro
+slice of tomato,2,2.5,Neutro
+slice of lemon,2,2.5,Neutro
+call,2,3.0,Neutro
+slightly high price,2,4.5,Muy Positivo
+silencing,2,1.0,Negativo
+simple rich,2,4.0,Positivo
+simple quiet place,2,5.0,Muy Positivo
+sipped,2,4.5,Muy Positivo
+siesta,2,5.0,Muy Positivo
+simple cafe pasta,2,5.0,Muy Positivo
+simple and tasty,2,4.5,Muy Positivo
+similar,2,1.5,Negativo
+slow service,2,1.0,Negativo
+waiters are super,2,5.0,Muy Positivo
+waitress he spent,2,1.5,Negativo
+waitress gloria,2,5.0,Muy Positivo
+waitresses kicked,2,1.0,Negativo
+waitresses attention,2,5.0,Muy Positivo
+arabica,2,5.0,Muy Positivo
+area tasty food,2,4.0,Positivo
+waiter s attention,2,2.5,Neutro
+sweets pleasant music,2,5.0,Muy Positivo
+apple cake,2,5.0,Muy Positivo
+appetizing,2,2.5,Neutro
+atmosphere cushioned,2,5.0,Muy Positivo
+visited,2,5.0,Muy Positivo
+answer,2,2.0,Negativo
+anymore,2,3.5,Positivo
+water in cartons,2,1.0,Negativo
+ambience,2,4.5,Muy Positivo
+ambiance great people,2,5.0,Muy Positivo
+appreciated,2,4.5,Muy Positivo
+unmatched,2,5.0,Muy Positivo
+understand that madrid,2,2.0,Negativo
+uncooked,2,2.0,Negativo
+unbelievable,2,5.0,Muy Positivo
+understood,2,3.0,Neutro
+underwhelmed,2,5.0,Muy Positivo
+arrogantly respond telling,2,1.0,Negativo
+asked the waitress,2,3.0,Neutro
+ate calabaza,2,5.0,Muy Positivo
+waiters were incredible,2,4.0,Positivo
+vegan gluten free,2,4.5,Muy Positivo
+vertical is nice,2,5.0,Muy Positivo
+vertical caffe,2,5.0,Muy Positivo
+variety of desserts,2,4.5,Muy Positivo
+variety of cakes,2,5.0,Muy Positivo
+vegetarians,2,4.5,Muy Positivo
+vegetables all freshly,2,5.0,Muy Positivo
+variety of food,2,4.5,Muy Positivo
+variety of drinks,2,5.0,Muy Positivo
+vegan salad choice,2,4.0,Positivo
+great ambiance great,2,5.0,Muy Positivo
+great alternative,2,3.0,Neutro
+gratin,2,3.0,Neutro
+years,2,3.0,Neutro
+abrupt,2,3.0,Neutro
+young people,2,2.0,Negativo
+grab breakfast,2,5.0,Muy Positivo
+accident,2,5.0,Muy Positivo
+wrong,2,1.5,Negativo
+amount,2,2.5,Neutro
+wow,2,3.0,Neutro
+abrupt deafening,2,3.0,Neutro
+access,2,3.5,Positivo
+accommodated,2,5.0,Muy Positivo
+accommodate,2,5.0,Muy Positivo
+zona,2,3.0,Neutro
+absolutely unpalatable chunky,2,1.0,Negativo
+workink,2,4.0,Positivo
+workers are super,2,5.0,Muy Positivo
+write home,2,2.0,Negativo
+american fashion,2,5.0,Muy Positivo
+wandered past,2,5.0,Muy Positivo
+wall,2,4.5,Muy Positivo
+wasn t bad,2,3.5,Positivo
+wasn t amazing,2,4.5,Muy Positivo
+waitress was unpleasant,2,4.5,Muy Positivo
+wal,2,5.0,Muy Positivo
+amable,2,3.0,Neutro
+amazing massala tea,2,5.0,Muy Positivo
+gorgeous girls,2,5.0,Muy Positivo
+ago a month,2,5.0,Muy Positivo
+almond cake,2,5.0,Muy Positivo
+alberto,2,4.0,Positivo
+air conditioning,2,3.0,Neutro
+welcoming delicious,2,5.0,Muy Positivo
+wheelchair,2,3.0,Neutro
+weren t overcrowded,2,3.0,Neutro
+wednesday december,2,4.0,Positivo
+weather,2,4.5,Muy Positivo
+amazing free chips,2,5.0,Muy Positivo
+barros,2,5.0,Muy Positivo
+tibetan teacher doesn,2,5.0,Muy Positivo
+time i pass,2,5.0,Muy Positivo
+terrace,2,4.0,Positivo
+tend,2,3.0,Neutro
+thought,2,1.0,Negativo
+back for lunch,2,4.5,Muy Positivo
+bad pastas,2,2.0,Negativo
+unpleasant girl,2,1.0,Negativo
+bad bad,2,2.0,Negativo
+baked,2,4.0,Positivo
+baileys and ice,2,1.0,Negativo
+top quality,2,5.0,Muy Positivo
+tortilla spanish,2,4.0,Positivo
+toast with cream,2,3.5,Positivo
+toast before finalizing,2,2.0,Negativo
+toasted,2,2.0,Negativo
+toast with salmon,2,4.0,Positivo
+bad day,2,2.5,Neutro
+sweets cakes,2,5.0,Muy Positivo
+table they clean,2,1.0,Negativo
+beautiful people,2,5.0,Muy Positivo
+tempting,2,5.0,Muy Positivo
+teas toast,2,4.0,Positivo
+teas smoothies,2,4.0,Positivo
+beautiful view warm,2,5.0,Muy Positivo
+beautiful smile,2,5.0,Muy Positivo
+teas bathrooms,2,3.0,Neutro
+bar employee,2,1.0,Negativo
+birthday,2,5.0,Muy Positivo
+tasty apple,2,5.0,Muy Positivo
+tasty and elaborate,2,3.0,Neutro
+barely fills,2,4.0,Positivo
+basement,2,3.5,Positivo
+based filling,2,4.0,Positivo
+based drinks,2,5.0,Muy Positivo
+based,2,5.0,Muy Positivo
+bar opposite,2,5.0,Muy Positivo
+biscuit,2,5.0,Muy Positivo
+turn bitter,2,3.5,Positivo
+attention received,2,4.0,Positivo
+turkish bread,2,4.0,Positivo
+turkish,2,3.5,Positivo
+truth,2,3.5,Positivo
+types of meals,2,5.0,Muy Positivo
+atmosphere inside,2,4.5,Muy Positivo
+atmosphere impeccable service,2,5.0,Muy Positivo
+atmosphere was super,2,4.0,Positivo
+treatment and excellent,2,4.5,Muy Positivo
+atocha train,2,5.0,Muy Positivo
+users and strollers,2,3.0,Neutro
+unwind,2,4.5,Muy Positivo
+atmosphere exceptional,2,5.0,Muy Positivo
+atmosphere cushioned benches,2,5.0,Muy Positivo
+unique lunch,2,5.0,Muy Positivo
+unique experience,2,4.5,Muy Positivo
+unhomemade,2,1.0,Negativo
+unroasted very good,2,4.0,Positivo
+atmosphere rude,2,2.0,Negativo
+treated customers,2,1.0,Negativo
+triangle of art,2,5.0,Muy Positivo
+triangle,2,5.0,Muy Positivo
+average place,2,3.0,Neutro
+average food coffee,2,3.0,Neutro
+avoid,2,1.0,Negativo
+authenticity,2,3.0,Neutro
+authentic coffee,2,5.0,Muy Positivo
+avocado and ham,2,4.0,Positivo
+type of dough,2,2.0,Negativo
+tourist scam,2,2.0,Negativo
+attractive,2,4.0,Positivo
+typical squashed croissant,2,5.0,Muy Positivo
+unbeatable location,2,5.0,Muy Positivo
+ultimately,2,3.5,Positivo
+attentive and helpful,2,5.0,Muy Positivo
+attentive and fantastic,2,4.5,Muy Positivo
+attentive friendly,2,5.0,Muy Positivo
+types of establishments,2,1.0,Negativo
+toxic,2,1.0,Negativo
+peasant sandwich delicious,2,4.0,Positivo
+people costumer friendliness,2,2.0,Negativo
+peppermint takeaway,2,4.0,Positivo
+people great breakfast,2,5.0,Muy Positivo
+directly in front,2,3.0,Neutro
+disappointed,2,4.5,Muy Positivo
+people charge anymore,2,2.0,Negativo
+delicious the ham,2,4.5,Muy Positivo
+saving money,2,1.0,Negativo
+delicious and super,2,5.0,Muy Positivo
+delicious italian sandwich,2,4.0,Positivo
+delicate and pleasant,2,5.0,Muy Positivo
+perfect location,2,5.0,Muy Positivo
+perfect for grabbing,2,5.0,Muy Positivo
+personable staff,2,5.0,Muy Positivo
+performance ratio,2,2.0,Negativo
+personal,2,4.0,Positivo
+delicious and gloria,2,5.0,Muy Positivo
+pick,2,4.0,Positivo
+pasta penne,2,2.0,Negativo
+patient,2,5.0,Muy Positivo
+pastries were incredible,2,4.0,Positivo
+pastries drinks smoothies,2,4.0,Positivo
+paseo de recoletos,2,5.0,Muy Positivo
+pasta,2,3.5,Positivo
+paco,2,1.0,Negativo
+pan con tomatoe,2,2.0,Negativo
+paltry made,2,1.0,Negativo
+design,2,5.0,Muy Positivo
+paprika,2,1.0,Negativo
+deserve,2,3.0,Neutro
+desserts were delicious,2,5.0,Muy Positivo
+pepperoni toast,2,1.0,Negativo
+deserts breakfast menu,2,5.0,Muy Positivo
+desayuno,2,5.0,Muy Positivo
+depressing,2,1.0,Negativo
+depending,2,2.5,Neutro
+design invites,2,5.0,Muy Positivo
+paricieron precios,2,3.0,Neutro
+cubano coffee,2,5.0,Muy Positivo
+crunchy fresh sandwiches,2,5.0,Muy Positivo
+cups are beautiful,2,5.0,Muy Positivo
+pleasant and clean,2,5.0,Muy Positivo
+pleasant and centrally,2,4.5,Muy Positivo
+croque monsieur,2,3.0,Neutro
+plate,2,1.5,Negativo
+plaster and spend,2,3.0,Neutro
+del arte,2,5.0,Muy Positivo
+playlist,2,5.0,Muy Positivo
+pleasant caf space,2,5.0,Muy Positivo
+decaf cafe con,2,5.0,Muy Positivo
+deafening noise,2,4.0,Positivo
+plant based,2,5.0,Muy Positivo
+cream,2,5.0,Muy Positivo
+creaminess and foam,2,2.0,Negativo
+pomposity,2,4.0,Positivo
+poorly maintained,2,1.5,Negativo
+plaza mayor pincho,2,5.0,Muy Positivo
+place is fine,2,2.5,Neutro
+place is cool,2,4.0,Positivo
+place highly,2,5.0,Muy Positivo
+decent chai latte,2,5.0,Muy Positivo
+decor and atmosphere,2,4.5,Muy Positivo
+place but expensive,2,2.5,Neutro
+place big vibe,2,5.0,Muy Positivo
+cups yogurt cups,2,3.0,Neutro
+customers order,2,4.0,Positivo
+cubes,2,2.0,Negativo
+place to visit,2,5.0,Muy Positivo
+place to study,2,5.0,Muy Positivo
+place the cappuccino,2,5.0,Muy Positivo
+place to spend,2,5.0,Muy Positivo
+place to rest,2,4.0,Positivo
+place so full,2,5.0,Muy Positivo
+place thinking,2,3.0,Neutro
+place the waitress,2,3.5,Positivo
+culpa,2,1.0,Negativo
+damper,2,4.0,Positivo
+efficient staff serving,2,5.0,Muy Positivo
+empathetic,2,3.0,Neutro
+nice super,2,5.0,Muy Positivo
+nice quiet time,2,2.0,Negativo
+nice place modern,2,5.0,Muy Positivo
+nice place excellent,2,5.0,Muy Positivo
+nice brunch,2,4.5,Muy Positivo
+nice good background,2,4.5,Muy Positivo
+pastries and toast,2,4.0,Positivo
+nice music high,2,3.0,Neutro
+nice expensive,2,3.5,Positivo
+nice corner cafe,2,3.0,Neutro
+nice coffee spot,2,5.0,Muy Positivo
+nice cakes coffe,2,5.0,Muy Positivo
+downtown,2,5.0,Muy Positivo
+downside,2,4.5,Muy Positivo
+drink coffee comfortably,2,4.0,Positivo
+drink chat,2,5.0,Muy Positivo
+nice people serving,2,5.0,Muy Positivo
+enjoy a sandwich,2,4.5,Muy Positivo
+mood,2,1.0,Negativo
+multigrain bread,2,5.0,Muy Positivo
+end,2,3.0,Neutro
+encourages,2,5.0,Muy Positivo
+energetic positive,2,5.0,Muy Positivo
+enjoy a creamy,2,5.0,Muy Positivo
+nice breakfest,2,5.0,Muy Positivo
+empathy,2,2.5,Neutro
+eat drink,2,5.0,Muy Positivo
+needless,2,3.0,Neutro
+nice alternative spot,2,1.0,Negativo
+nice and beautiful,2,5.0,Muy Positivo
+music delicious,2,5.0,Muy Positivo
+named,2,5.0,Muy Positivo
+nada especial,2,3.0,Neutro
+music tuyo,2,5.0,Muy Positivo
+natural coffee,2,4.5,Muy Positivo
+national museum,2,4.5,Muy Positivo
+end cultural visits,2,5.0,Muy Positivo
+orange juice coffees,2,4.0,Positivo
+olive,2,4.5,Muy Positivo
+oil donuts,2,5.0,Muy Positivo
+opaque,2,2.0,Negativo
+diverse,2,5.0,Muy Positivo
+distracted,2,4.0,Positivo
+doesn t work,2,1.5,Negativo
+doesn t serve,2,3.0,Neutro
+display case,2,4.0,Positivo
+due,2,4.5,Muy Positivo
+divine,2,5.0,Muy Positivo
+ordered was fresh,2,4.5,Muy Positivo
+ordered a flat,2,1.5,Negativo
+ordered a breakfast,2,4.5,Muy Positivo
+ordered a smoothie,2,4.5,Muy Positivo
+patio greenwall,2,5.0,Muy Positivo
+didn t drink,2,1.0,Negativo
+difference,2,5.0,Muy Positivo
+didn t understand,2,4.0,Positivo
+display,2,4.0,Positivo
+notch attentive,2,5.0,Muy Positivo
+oat bar,2,5.0,Muy Positivo
+offering different types,2,5.0,Muy Positivo
+nonsense,2,1.0,Negativo
+normal sponge,2,1.0,Negativo
+normal bread,2,1.0,Negativo
+note,2,4.0,Positivo
+electrical,2,4.5,Muy Positivo
+elaborate breakfast,2,3.0,Neutro
+options and excellent,2,5.0,Muy Positivo
+nicely,2,3.5,Positivo
+don t speak,2,2.5,Neutro
+don t serve,2,1.5,Negativo
+don t make,2,2.0,Negativo
+donuts croissants,2,5.0,Muy Positivo
+doubt a place,2,5.0,Muy Positivo
+order and pay,2,2.5,Neutro
+opportunity,2,5.0,Muy Positivo
+options quality service,2,5.0,Muy Positivo
+nice urban caf,2,5.0,Muy Positivo
+register,2,3.0,Neutro
+regenerative grijander smoothie,2,5.0,Muy Positivo
+regenerating,2,5.0,Muy Positivo
+coffee attentive,2,5.0,Muy Positivo
+restaurants and caf,2,5.0,Muy Positivo
+closes,2,1.5,Negativo
+coffee and chatting,2,4.0,Positivo
+coffee and bakery,2,5.0,Muy Positivo
+cozy ambiance typical,2,5.0,Muy Positivo
+coffe,2,3.0,Neutro
+coffee and unwind,2,4.5,Muy Positivo
+resist,2,5.0,Muy Positivo
+responsible,2,2.5,Neutro
+cocoa or cinnamon,2,2.0,Negativo
+cocoa drink,2,2.0,Negativo
+closing time,2,1.0,Negativo
+relaxing background music,2,5.0,Muy Positivo
+respectful,2,3.0,Neutro
+coffe and smoothies,2,4.0,Positivo
+recommended delicious,2,5.0,Muy Positivo
+coffee workers,2,5.0,Muy Positivo
+coffee with special,2,5.0,Muy Positivo
+coffee with condensed,2,4.5,Muy Positivo
+coffees at reasonable,2,4.5,Muy Positivo
+coffee smelled,2,1.0,Negativo
+coffee was average,2,2.5,Neutro
+coffee tranquility,2,4.0,Positivo
+coffee tourist,2,5.0,Muy Positivo
+red,2,5.0,Muy Positivo
+recommend el patio,2,5.0,Muy Positivo
+recommend eating,2,5.0,Muy Positivo
+regular customers,2,3.0,Neutro
+reheated,2,1.5,Negativo
+coffee not recommended,2,2.5,Neutro
+coffee multigrain,2,4.0,Positivo
+coffee is ridiculously,2,2.0,Negativo
+red velvet slice,2,5.0,Muy Positivo
+red berries,2,5.0,Muy Positivo
+recently,2,4.0,Positivo
+christmas,2,5.0,Muy Positivo
+choices for gluten,2,4.5,Muy Positivo
+chip,2,3.0,Neutro
+chilled,2,5.0,Muy Positivo
+chill playlist,2,5.0,Muy Positivo
+rush to clear,2,3.0,Neutro
+rush,2,3.0,Neutro
+run,2,3.0,Neutro
+sad,2,4.0,Positivo
+clear the table,2,3.5,Positivo
+rushed and uncomfortable,2,2.0,Negativo
+sandra,2,5.0,Muy Positivo
+chat read,2,5.0,Muy Positivo
+cheese arugula,2,3.0,Neutro
+selection of teas,2,3.5,Positivo
+selection of food,2,5.0,Muy Positivo
+september,2,4.0,Positivo
+sense,2,1.0,Negativo
+serrano,2,3.5,Positivo
+rye,2,4.0,Positivo
+clear,2,4.0,Positivo
+closeness,2,5.0,Muy Positivo
+clientele,2,4.5,Muy Positivo
+rudely started giving,2,1.0,Negativo
+clean and tidy,2,5.0,Muy Positivo
+classic breakfast,2,4.5,Muy Positivo
+clean caf,2,5.0,Muy Positivo
+clean bright cafe,2,4.0,Positivo
+return visit,2,5.0,Muy Positivo
+chunks,2,2.0,Negativo
+rip,2,3.0,Neutro
+retreat,2,5.0,Muy Positivo
+rica,2,5.0,Muy Positivo
+reused multiple times,2,1.0,Negativo
+city center,2,4.5,Muy Positivo
+cinnamon roll,2,5.0,Muy Positivo
+sandwich fast attentive,2,5.0,Muy Positivo
+sandwich english,2,4.0,Positivo
+chocolate chip,2,5.0,Muy Positivo
+riser,2,5.0,Muy Positivo
+preparing orders,2,4.0,Positivo
+cosy coffee place,2,5.0,Muy Positivo
+positive,2,5.0,Muy Positivo
+portions of cake,2,5.0,Muy Positivo
+cosmocaixa,2,3.0,Neutro
+procurement,2,1.0,Negativo
+convinced,2,5.0,Muy Positivo
+price ratio isn,2,3.0,Neutro
+recommended the cheesecake,2,5.0,Muy Positivo
+priorities,2,1.0,Negativo
+price isn,2,3.5,Positivo
+quality lots,2,2.0,Negativo
+con aguacate avocado,2,3.0,Neutro
+computers,2,4.0,Positivo
+computer to work,2,4.0,Positivo
+compounded,2,1.0,Negativo
+condensed milk,2,4.5,Muy Positivo
+quality breakfast matcha,2,5.0,Muy Positivo
+workers and friendly,2,4.5,Muy Positivo
+cozy spot,2,4.5,Muy Positivo
+cozy space excellent,2,5.0,Muy Positivo
+pleasant space,2,4.0,Positivo
+plenty of options,2,5.0,Muy Positivo
+cozy inexpensive quiet,2,5.0,Muy Positivo
+culture,2,3.0,Neutro
+cultural container,2,1.0,Negativo
+pleasant independent coffee,2,5.0,Muy Positivo
+pleasant time,2,5.0,Muy Positivo
+precious,2,4.5,Muy Positivo
+country,2,1.0,Negativo
+couple of times,2,5.0,Muy Positivo
+presentation,2,4.5,Muy Positivo
+pretty place opposite,2,5.0,Muy Positivo
+cosmopolitan,2,4.0,Positivo
+couldn t serve,2,1.0,Negativo
+couldn t resist,2,5.0,Muy Positivo
+couple of hours,2,3.0,Neutro
+couple moved,2,2.0,Negativo
+pleasant surprise,2,4.5,Muy Positivo
+comfortable inside,2,4.5,Muy Positivo
+comfortable good,2,5.0,Muy Positivo
+reason the avocados,2,3.0,Neutro
+recoletos,2,5.0,Muy Positivo
+recharge after visiting,2,5.0,Muy Positivo
+cola cao,2,5.0,Muy Positivo
+combination,2,5.0,Muy Positivo
+comfortable chairs important,2,3.5,Positivo
+comfortable space,2,4.0,Positivo
+quality and cleanliness,2,5.0,Muy Positivo
+real turnoff,2,1.0,Negativo
+ready,2,5.0,Muy Positivo
+completely,2,2.0,Negativo
+quiet spot,2,4.0,Positivo
+range covers,2,4.0,Positivo
+read,2,5.0,Muy Positivo
+ratio leaves,2,1.0,Negativo
+coffees all delicious,2,5.0,Muy Positivo
+recommended the pumpkin,2,4.5,Muy Positivo
+ratio,2,2.5,Neutro
+properly,2,3.5,Positivo
+provided,2,5.0,Muy Positivo
+push,2,3.0,Neutro
+pumpkin soup hit,2,5.0,Muy Positivo
+puerta del sol,2,4.0,Positivo
+professional and attentive,2,5.0,Muy Positivo
+products the coffee,2,5.0,Muy Positivo
+prompt,2,5.0,Muy Positivo
+professionalism and friendliness,2,4.5,Muy Positivo
+queue,2,4.0,Positivo
+comodo,2,3.0,Neutro
+common,2,1.5,Negativo
+complain,2,3.0,Neutro
+quick stop,2,4.0,Positivo
+quiet location close,2,4.0,Positivo
+comments,2,2.0,Negativo
+con tomate sandwich,2,5.0,Muy Positivo
+connect,2,5.0,Muy Positivo
+conditioning,2,3.0,Neutro
+comforting experience,2,5.0,Muy Positivo
+zona hay otros,1,3.0,Neutro
+absolute,1,1.0,Negativo
+absolutely must discover,1,5.0,Muy Positivo
+absolutely unpalatable,1,1.0,Negativo
+absurd,1,1.0,Negativo
+acceptable,1,2.0,Negativo
+acceptable food,1,2.0,Negativo
+accepting the criticism,1,1.0,Negativo
+access is difficult,1,3.0,Neutro
+access to paseo,1,5.0,Muy Positivo
+accessible,1,5.0,Muy Positivo
+accessible and welcoming,1,5.0,Muy Positivo
+accident while standing,1,5.0,Muy Positivo
+accommodate my preferences,1,5.0,Muy Positivo
+accommodating,1,5.0,Muy Positivo
+accommodation,1,5.0,Muy Positivo
+accompanied,1,5.0,Muy Positivo
+accompanied by tomato,1,4.0,Positivo
+account my condition,1,5.0,Muy Positivo
+aceite,1,5.0,Muy Positivo
+achieve quality,1,4.0,Positivo
+acogedor,1,3.0,Neutro
+acted rudely,1,5.0,Muy Positivo
+active and attentive,1,5.0,Muy Positivo
+worth ordering,1,5.0,Muy Positivo
+worth repeating,1,5.0,Muy Positivo
+worth stopping,1,5.0,Muy Positivo
+worth the price,1,4.0,Positivo
+worth the wait,1,4.0,Positivo
+wouldn t serve,1,3.0,Neutro
+wow guys,1,5.0,Muy Positivo
+additionally,1,1.0,Negativo
+additions,1,5.0,Muy Positivo
+adequate,1,4.0,Positivo
+admiring,1,5.0,Muy Positivo
+admittedly,1,4.0,Positivo
+admittedly the portion,1,4.0,Positivo
+adorable they provide,1,5.0,Muy Positivo
+advantage,1,1.0,Negativo
+won t bother,1,5.0,Muy Positivo
+wonderful morning,1,5.0,Muy Positivo
+wonderful super,1,5.0,Muy Positivo
+add a couple,1,2.0,Negativo
+added bonus,1,5.0,Muy Positivo
+adding oil,1,1.0,Negativo
+addition,1,5.0,Muy Positivo
+addition to perfect,1,5.0,Muy Positivo
+wifi work bad,1,5.0,Muy Positivo
+wildest dreams,1,3.0,Neutro
+window and asked,1,2.0,Negativo
+windows,1,5.0,Muy Positivo
+windowsill contemplating,1,5.0,Muy Positivo
+wine was mediocre,1,4.0,Positivo
+woman is spectacular,1,5.0,Muy Positivo
+women,1,5.0,Muy Positivo
+amazing and great,1,5.0,Muy Positivo
+amazing free,1,5.0,Muy Positivo
+amazing incredible,1,5.0,Muy Positivo
+amazing massala,1,5.0,Muy Positivo
+amazing matcha,1,5.0,Muy Positivo
+wicker,1,4.0,Positivo
+wide smiles,1,5.0,Muy Positivo
+wifi password,1,1.0,Negativo
+good company,1,5.0,Muy Positivo
+good complete,1,5.0,Muy Positivo
+good discovery,1,4.0,Positivo
+good disposition,1,5.0,Muy Positivo
+good energy,1,5.0,Muy Positivo
+good flavor total,1,3.0,Neutro
+good in terms,1,4.0,Positivo
+good ingredients,1,4.0,Positivo
+great to hang,1,5.0,Muy Positivo
+great to stop,1,5.0,Muy Positivo
+great working,1,5.0,Muy Positivo
+greater impact,1,1.0,Negativo
+good apple,1,5.0,Muy Positivo
+good artisanal,1,5.0,Muy Positivo
+good but inexplicably,1,3.0,Neutro
+good but poorly,1,3.0,Neutro
+great perfect,1,5.0,Muy Positivo
+great place offering,1,5.0,Muy Positivo
+great products,1,5.0,Muy Positivo
+great recommendations,1,5.0,Muy Positivo
+great stop,1,5.0,Muy Positivo
+great success,1,5.0,Muy Positivo
+great the lady,1,5.0,Muy Positivo
+great time eating,1,5.0,Muy Positivo
+good the girl,1,5.0,Muy Positivo
+good very fresh,1,5.0,Muy Positivo
+good weather,1,5.0,Muy Positivo
+good with nice,1,5.0,Muy Positivo
+goodness,1,1.0,Negativo
+great job,1,5.0,Muy Positivo
+great little coffee,1,5.0,Muy Positivo
+great norwegian,1,5.0,Muy Positivo
+hall,1,5.0,Muy Positivo
+ham and chopped,1,5.0,Muy Positivo
+ham don,1,5.0,Muy Positivo
+ham felt,1,5.0,Muy Positivo
+ham olive oil,1,5.0,Muy Positivo
+ham that day,1,1.0,Negativo
+hand the avocado,1,2.0,Negativo
+hand the chocolate,1,4.0,Positivo
+haha,1,5.0,Muy Positivo
+hahahaha,1,1.0,Negativo
+hahahaha he laughed,1,1.0,Negativo
+hailstorm,1,5.0,Muy Positivo
+hailstorm the desserts,1,5.0,Muy Positivo
+hair and big,1,1.0,Negativo
+half assed,1,3.0,Neutro
+half cold,1,1.0,Negativo
+guest s experience,1,5.0,Muy Positivo
+guests gluten,1,3.0,Neutro
+guided,1,4.0,Positivo
+guy i don,1,5.0,Muy Positivo
+guy is amazing,1,5.0,Muy Positivo
+guy recommended,1,5.0,Muy Positivo
+hadn t arrived,1,4.0,Positivo
+hadn t heard,1,5.0,Muy Positivo
+good lots,1,5.0,Muy Positivo
+good next time,1,4.0,Positivo
+good offer,1,5.0,Muy Positivo
+green spaces,1,5.0,Muy Positivo
+green tea,1,1.0,Negativo
+greenwall,1,5.0,Muy Positivo
+greeting,1,4.0,Positivo
+group of prepubescent,1,3.0,Neutro
+good address,1,5.0,Muy Positivo
+good afternoon,1,1.0,Negativo
+good and coffee,1,5.0,Muy Positivo
+good and excellent,1,5.0,Muy Positivo
+hay otros,1,3.0,Neutro
+head,1,3.0,Neutro
+head was full,1,3.0,Neutro
+heading to work,1,5.0,Muy Positivo
+gloria stands,1,5.0,Muy Positivo
+gloria the host,1,5.0,Muy Positivo
+gluten free brownie,1,5.0,Muy Positivo
+gluten free pastries,1,3.0,Neutro
+gluten free sweets,1,5.0,Muy Positivo
+god,1,1.0,Negativo
+golden,1,5.0,Muy Positivo
+golden triangle,1,5.0,Muy Positivo
+hate,1,2.0,Negativo
+hay,1,3.0,Neutro
+gloria a satisfied,1,5.0,Muy Positivo
+gloria and chiara,1,5.0,Muy Positivo
+gloria and eugene,1,5.0,Muy Positivo
+gloria and maritza,1,5.0,Muy Positivo
+gloria and octavio,1,5.0,Muy Positivo
+gloria evgene,1,5.0,Muy Positivo
+happening,1,3.0,Neutro
+happening a bit,1,3.0,Neutro
+happy new year,1,5.0,Muy Positivo
+happy polite,1,5.0,Muy Positivo
+harassed,1,1.0,Negativo
+hard not ripe,1,1.0,Negativo
+hard to choose,1,5.0,Muy Positivo
+harmony,1,5.0,Muy Positivo
+girls a kiss,1,5.0,Muy Positivo
+girls are absolutely,1,5.0,Muy Positivo
+girls are amazing,1,5.0,Muy Positivo
+girls are sweet,1,5.0,Muy Positivo
+girls from london,1,5.0,Muy Positivo
+girls made,1,5.0,Muy Positivo
+girls slam,1,4.0,Positivo
+girls who attended,1,5.0,Muy Positivo
+genuine smile,1,5.0,Muy Positivo
+gingerbread,1,5.0,Muy Positivo
+gingerbread coffee,1,5.0,Muy Positivo
+girl named,1,5.0,Muy Positivo
+girl treated,1,1.0,Negativo
+girl treated customers,1,1.0,Negativo
+girl was smoking,1,1.0,Negativo
+girl who manages,1,4.0,Positivo
+heartfelt,1,5.0,Muy Positivo
+heat from early,1,4.0,Positivo
+heavenly,1,5.0,Muy Positivo
+heavenly apple,1,5.0,Muy Positivo
+heavy traffic,1,4.0,Positivo
+helped make,1,5.0,Muy Positivo
+helped me accommodated,1,5.0,Muy Positivo
+genuine,1,5.0,Muy Positivo
+health center,1,5.0,Muy Positivo
+health measures,1,5.0,Muy Positivo
+healthy lunch options,1,5.0,Muy Positivo
+healthy options,1,5.0,Muy Positivo
+healthy simple,1,4.0,Positivo
+heard,1,5.0,Muy Positivo
+heart of paseo,1,4.0,Positivo
+heartbeat,1,5.0,Muy Positivo
+hit the spot,1,5.0,Muy Positivo
+hollydays perfect,1,5.0,Muy Positivo
+home about average,1,2.0,Negativo
+home and helped,1,5.0,Muy Positivo
+home fairly,1,5.0,Muy Positivo
+home or chat,1,5.0,Muy Positivo
+home the orange,1,5.0,Muy Positivo
+homemade cakes,1,5.0,Muy Positivo
+higher than normal,1,3.0,Neutro
+highlight the attention,1,5.0,Muy Positivo
+highlight the treatment,1,5.0,Muy Positivo
+hints,1,5.0,Muy Positivo
+hints of orange,1,5.0,Muy Positivo
+hip,1,5.0,Muy Positivo
+hip ambient,1,5.0,Muy Positivo
+hire more staff,1,2.0,Negativo
+hesitate,1,5.0,Muy Positivo
+hesitate small cozy,1,5.0,Muy Positivo
+hesitation,1,5.0,Muy Positivo
+hidden caf,1,4.0,Positivo
+hidden gem,1,5.0,Muy Positivo
+high compared,1,4.0,Positivo
+high end,1,5.0,Muy Positivo
+high stools,1,4.0,Positivo
+girls who run,1,5.0,Muy Positivo
+give very happy,1,5.0,Muy Positivo
+giving one star,1,1.0,Negativo
+glad you stopped,1,5.0,Muy Positivo
+glass is huge,1,5.0,Muy Positivo
+helpful always smiling,1,5.0,Muy Positivo
+helpful in english,1,4.0,Positivo
+herbal,1,4.0,Positivo
+huge more expensive,1,5.0,Muy Positivo
+huge tarta,1,5.0,Muy Positivo
+hugo,1,5.0,Muy Positivo
+hugo from costa,1,5.0,Muy Positivo
+human quality,1,4.0,Positivo
+humanity,1,1.0,Negativo
+humble,1,5.0,Muy Positivo
+humble and miserable,1,5.0,Muy Positivo
+hours and don,1,1.0,Negativo
+hours at prado,1,3.0,Neutro
+hours drinking,1,5.0,Muy Positivo
+hours drinking coffee,1,5.0,Muy Positivo
+hours the decor,1,4.0,Positivo
+house in front,1,4.0,Positivo
+huertas,1,5.0,Muy Positivo
+hug i love,1,5.0,Muy Positivo
+hospitable and lovely,1,5.0,Muy Positivo
+host,1,5.0,Muy Positivo
+host was absolutely,1,5.0,Muy Positivo
+hostess and delicious,1,5.0,Muy Positivo
+hot breakfast,1,4.0,Positivo
+hotel paseo,1,5.0,Muy Positivo
+hour flight,1,5.0,Muy Positivo
+hour reading,1,3.0,Neutro
+homemade juice,1,1.0,Negativo
+homemade or made,1,2.0,Negativo
+homemade sweets,1,4.0,Positivo
+homey,1,5.0,Muy Positivo
+honest,1,3.0,Neutro
+hope i won,1,5.0,Muy Positivo
+hope my tibetan,1,5.0,Muy Positivo
+hope the owner,1,1.0,Negativo
+geared toward saving,1,1.0,Negativo
+gee,1,2.0,Negativo
+gee put,1,2.0,Negativo
+gem near atocha,1,5.0,Muy Positivo
+general,1,5.0,Muy Positivo
+generous slices,1,4.0,Positivo
+iberian peninsula,1,5.0,Muy Positivo
+iberico sandwich,1,4.0,Positivo
+garden in front,1,5.0,Muy Positivo
+garden view,1,5.0,Muy Positivo
+garden wall,1,5.0,Muy Positivo
+gardens in madrid,1,5.0,Muy Positivo
+gardens just meters,1,5.0,Muy Positivo
+gave my partner,1,5.0,Muy Positivo
+gave us great,1,5.0,Muy Positivo
+geared,1,1.0,Negativo
+fully,1,1.0,Negativo
+fully understand,1,1.0,Negativo
+fun,1,1.0,Negativo
+fun taking,1,1.0,Negativo
+funny,1,5.0,Muy Positivo
+gambled,1,4.0,Positivo
+garden but average,1,3.0,Neutro
+garden good coffee,1,4.0,Positivo
+hungry they don,1,1.0,Negativo
+hurried,1,2.0,Negativo
+hurry to collect,1,3.0,Neutro
+hurry we ordered,1,5.0,Muy Positivo
+husband s birthday,1,5.0,Muy Positivo
+full of flavor,1,5.0,Muy Positivo
+full of mosquitoes,1,3.0,Neutro
+full of people,1,5.0,Muy Positivo
+friends very professional,1,5.0,Muy Positivo
+front with eye,1,1.0,Negativo
+frothy milk,1,1.0,Negativo
+frozen fruit,1,2.0,Negativo
+fruit and chocolate,1,5.0,Muy Positivo
+fue,1,3.0,Neutro
+fulfilling,1,5.0,Muy Positivo
+fulfilling orders,1,5.0,Muy Positivo
+friendly they serve,1,5.0,Muy Positivo
+friendly to customers,1,5.0,Muy Positivo
+friendly you feel,1,5.0,Muy Positivo
+friends a date,1,5.0,Muy Positivo
+friends colleagues,1,5.0,Muy Positivo
+friends or work,1,5.0,Muy Positivo
+friends please stop,1,5.0,Muy Positivo
+friends this morning,1,5.0,Muy Positivo
+imaginable,1,5.0,Muy Positivo
+imagination limited menu,1,1.0,Negativo
+imagine bathwater,1,1.0,Negativo
+immediately,1,5.0,Muy Positivo
+impeccable treatment,1,5.0,Muy Positivo
+impersonal,1,1.0,Negativo
+impersonal expensive,1,1.0,Negativo
+important,1,5.0,Muy Positivo
+ice appreciated,1,4.0,Positivo
+ice the waitress,1,5.0,Muy Positivo
+iced latte overpriced,1,1.0,Negativo
+iced mango,1,3.0,Neutro
+ideal for escaping,1,5.0,Muy Positivo
+ideal for sipping,1,4.0,Positivo
+ideal music,1,4.0,Positivo
+ideal spot,1,5.0,Muy Positivo
+industrial dessert,1,1.0,Negativo
+industrially baked,1,3.0,Neutro
+inedible,1,3.0,Neutro
+inexplicably,1,3.0,Neutro
+inexplicably expensive,1,3.0,Neutro
+information,1,1.0,Negativo
+infusions and pastries,1,5.0,Muy Positivo
+ingredients,1,4.0,Positivo
+incredible very clean,1,5.0,Muy Positivo
+incredibly well provided,1,5.0,Muy Positivo
+independent,1,5.0,Muy Positivo
+independent coffee shop,1,5.0,Muy Positivo
+indicative,1,1.0,Negativo
+individual,1,2.0,Negativo
+indulgent,1,5.0,Muy Positivo
+indulgent breakfast,1,5.0,Muy Positivo
+including fresh orange,1,4.0,Positivo
+including perfecto,1,5.0,Muy Positivo
+including the bathrooms,1,5.0,Muy Positivo
+incoherent,1,1.0,Negativo
+inconveniences,1,1.0,Negativo
+inconveniences the girl,1,1.0,Negativo
+incredible beauty,1,5.0,Muy Positivo
+incredible needless,1,5.0,Muy Positivo
+full breakfast,1,4.0,Positivo
+full hire,1,2.0,Negativo
+full of charm,1,5.0,Muy Positivo
+impressive cultural,1,1.0,Negativo
+inappropriately,1,5.0,Muy Positivo
+included whole pieces,1,4.0,Positivo
+includes,1,3.0,Neutro
+including,1,5.0,Muy Positivo
+friendly and prompt,1,5.0,Muy Positivo
+friendly attitude,1,5.0,Muy Positivo
+friendly but eager,1,4.0,Positivo
+friendly camelia,1,5.0,Muy Positivo
+friendly i loved,1,5.0,Muy Positivo
+friendly lady,1,2.0,Negativo
+invite people,1,4.0,Positivo
+invited to leave,1,4.0,Positivo
+invasive tone,1,4.0,Positivo
+fret,1,4.0,Positivo
+friend grab,1,4.0,Positivo
+friend was charged,1,1.0,Negativo
+friendlier vibe,1,3.0,Neutro
+friendliness and efficiency,1,4.0,Positivo
+friendly and gave,1,5.0,Muy Positivo
+friendly and gloria,1,5.0,Muy Positivo
+instant meal,1,2.0,Negativo
+instant meal spaghetti,1,2.0,Negativo
+interesting,1,4.0,Positivo
+interesting place,1,4.0,Positivo
+interior compared,1,3.0,Neutro
+interior es bastante,1,3.0,Neutro
+interior is great,1,5.0,Muy Positivo
+interior that puts,1,5.0,Muy Positivo
+ingredients it wasn,1,3.0,Neutro
+inside its cozy,1,5.0,Muy Positivo
+inside the cafe,1,4.0,Positivo
+insist,1,2.0,Negativo
+insist the service,1,2.0,Negativo
+instagrammable,1,4.0,Positivo
+installed,1,4.0,Positivo
+instant,1,2.0,Negativo
+free tea,1,5.0,Muy Positivo
+free water,1,5.0,Muy Positivo
+free wifi,1,5.0,Muy Positivo
+freezing cold,1,1.0,Negativo
+french mocha,1,1.0,Negativo
+frequent,1,1.0,Negativo
+frequent customer,1,1.0,Negativo
+fresa and mora,1,5.0,Muy Positivo
+jug of cold,1,4.0,Positivo
+juice and ham,1,1.0,Negativo
+juice slush,1,2.0,Negativo
+free brownie,1,5.0,Muy Positivo
+free milk,1,4.0,Positivo
+free pastries,1,3.0,Neutro
+free sweets,1,5.0,Muy Positivo
+free tables,1,1.0,Negativo
+jaen,1,5.0,Muy Positivo
+jam for breakfast,1,4.0,Positivo
+jamon con tomate,1,5.0,Muy Positivo
+jazzy,1,5.0,Muy Positivo
+jet lag,1,4.0,Positivo
+john,1,5.0,Muy Positivo
+journaling,1,5.0,Muy Positivo
+judge,1,5.0,Muy Positivo
+invites,1,5.0,Muy Positivo
+inviting atmosphere,1,4.0,Positivo
+ish,1,3.0,Neutro
+islands,1,5.0,Muy Positivo
+isn t full,1,1.0,Negativo
+isn t good,1,3.0,Neutro
+isn t super,1,5.0,Muy Positivo
+italian and farmer,1,5.0,Muy Positivo
+kind a lovely,1,5.0,Muy Positivo
+kind and gave,1,5.0,Muy Positivo
+kind and gracious,1,5.0,Muy Positivo
+kind attention,1,5.0,Muy Positivo
+kind of money,1,1.0,Negativo
+kind of service,1,5.0,Muy Positivo
+kind personable,1,5.0,Muy Positivo
+kind service,1,5.0,Muy Positivo
+kiara s attention,1,5.0,Muy Positivo
+kiara was super,1,5.0,Muy Positivo
+kicked,1,1.0,Negativo
+kids and english,1,5.0,Muy Positivo
+kids college,1,3.0,Neutro
+kids college tuition,1,3.0,Neutro
+kids disrupted,1,3.0,Neutro
+kids loved,1,5.0,Muy Positivo
+juicy,1,3.0,Neutro
+justifies the price,1,1.0,Negativo
+kaisha,1,5.0,Muy Positivo
+kami and eugine,1,5.0,Muy Positivo
+karola,1,5.0,Muy Positivo
+karola s service,1,5.0,Muy Positivo
+keeping,1,3.0,Neutro
+keeping in mind,1,3.0,Neutro
+fresh products,1,4.0,Positivo
+freshly baked,1,5.0,Muy Positivo
+juice the bread,1,5.0,Muy Positivo
+juice with ice,1,4.0,Positivo
+juices and healthy,1,4.0,Positivo
+juices and shakes,1,4.0,Positivo
+juices are filled,1,1.0,Negativo
+juicier,1,1.0,Negativo
+forum very good,1,4.0,Positivo
+forum we decided,1,5.0,Muy Positivo
+forum with air,1,5.0,Muy Positivo
+foster discussion,1,5.0,Muy Positivo
+found a cozy,1,4.0,Positivo
+found it impersonal,1,1.0,Negativo
+found the prices,1,3.0,Neutro
+found the service,1,5.0,Muy Positivo
+forgot take photos,1,4.0,Positivo
+formidable and gloria,1,5.0,Muy Positivo
+forum and prado,1,5.0,Muy Positivo
+forum in recoletos,1,4.0,Positivo
+forum is incredible,1,5.0,Muy Positivo
+forum magnificent,1,4.0,Positivo
+forum this cafe,1,5.0,Muy Positivo
+forum today,1,1.0,Negativo
+kiwi,1,4.0,Positivo
+knowing,1,3.0,Neutro
+knowledge,1,5.0,Muy Positivo
+knowledge and foster,1,5.0,Muy Positivo
+lack of attention,1,4.0,Positivo
+lack of respect,1,1.0,Negativo
+lackluster atmosphere,1,2.0,Negativo
+forgot our coffee,1,4.0,Positivo
+kind to accommodate,1,5.0,Muy Positivo
+kind to find,1,5.0,Muy Positivo
+kindly explained,1,5.0,Muy Positivo
+kindly invited,1,5.0,Muy Positivo
+kindly recommended,1,5.0,Muy Positivo
+kindness and impeccable,1,5.0,Muy Positivo
+kindness and professionalism,1,5.0,Muy Positivo
+kiss from mar,1,5.0,Muy Positivo
+late to leave,1,3.0,Neutro
+food and gorgeous,1,5.0,Muy Positivo
+food and nice,1,5.0,Muy Positivo
+food and spectacular,1,5.0,Muy Positivo
+food good quantities,1,5.0,Muy Positivo
+food is uninteresting,1,2.0,Negativo
+food mixed,1,4.0,Positivo
+food not expensive,1,4.0,Positivo
+laptop as thousands,1,1.0,Negativo
+laptop limit,1,1.0,Negativo
+laptop outlet,1,5.0,Muy Positivo
+large even huge,1,5.0,Muy Positivo
+larger meal,1,5.0,Muy Positivo
+lasagna and coffee,1,5.0,Muy Positivo
+lasagne,1,5.0,Muy Positivo
+late and terrible,1,1.0,Negativo
+lady named,1,5.0,Muy Positivo
+lady who cleaned,1,2.0,Negativo
+lady who helped,1,5.0,Muy Positivo
+lag and didn,1,4.0,Positivo
+laid,1,3.0,Neutro
+laid back,1,3.0,Neutro
+landline,1,1.0,Negativo
+laptop and work,1,5.0,Muy Positivo
+found this cafe,1,5.0,Muy Positivo
+found this place,1,5.0,Muy Positivo
+foundation,1,5.0,Muy Positivo
+franchise,1,1.0,Negativo
+frapp is spectacular,1,5.0,Muy Positivo
+lactose or fermented,1,5.0,Muy Positivo
+ladies noticed,1,5.0,Muy Positivo
+lady made,1,5.0,Muy Positivo
+leaving the exhibitions,1,5.0,Muy Positivo
+leche an americano,1,5.0,Muy Positivo
+leche is spectacular,1,5.0,Muy Positivo
+led,1,5.0,Muy Positivo
+left i ordered,1,4.0,Positivo
+left the establishment,1,1.0,Negativo
+left us standing,1,1.0,Negativo
+left very happy,1,5.0,Muy Positivo
+laughable,1,1.0,Negativo
+laughed and continued,1,1.0,Negativo
+lavapies,1,2.0,Negativo
+leave quickly,1,1.0,Negativo
+leave the place,1,4.0,Positivo
+leave you feeling,1,5.0,Muy Positivo
+leaves which eliminated,1,5.0,Muy Positivo
+leaving backpacks,1,1.0,Negativo
+forgot a bag,1,5.0,Muy Positivo
+latina,1,1.0,Negativo
+latina with dyed,1,1.0,Negativo
+latte in madrid,1,5.0,Muy Positivo
+latte macchiato,1,1.0,Negativo
+latte overpriced dry,1,1.0,Negativo
+latte their service,1,5.0,Muy Positivo
+latte with oat,1,5.0,Muy Positivo
+food nothing homemade,1,2.0,Negativo
+food seemed expensive,1,3.0,Neutro
+food to make,1,5.0,Muy Positivo
+food was deliciosa,1,5.0,Muy Positivo
+food were impeccable,1,5.0,Muy Positivo
+fooled,1,4.0,Positivo
+foreign,1,1.0,Negativo
+forget,1,1.0,Negativo
+focaccia with iberian,1,5.0,Muy Positivo
+folks,1,5.0,Muy Positivo
+follow,1,5.0,Muy Positivo
+follow the health,1,5.0,Muy Positivo
+food amanda,1,5.0,Muy Positivo
+food and attentive,1,5.0,Muy Positivo
+food and customer,1,5.0,Muy Positivo
+food and friendly,1,5.0,Muy Positivo
+flavor was passable,1,2.0,Negativo
+flavors are phenomenal,1,5.0,Muy Positivo
+flies,1,1.0,Negativo
+flight,1,5.0,Muy Positivo
+flight i needed,1,5.0,Muy Positivo
+foam actually reached,1,3.0,Neutro
+foam and milk,1,3.0,Neutro
+foam were weak,1,2.0,Negativo
+light bite,1,4.0,Positivo
+light breafast,1,4.0,Positivo
+light tones,1,4.0,Positivo
+lighter,1,5.0,Muy Positivo
+finished our meal,1,5.0,Muy Positivo
+fix,1,5.0,Muy Positivo
+flans,1,5.0,Muy Positivo
+flash,1,3.0,Neutro
+left wanting,1,5.0,Muy Positivo
+leftover water,1,1.0,Negativo
+lemon meringue cake,1,5.0,Muy Positivo
+letting me finish,1,1.0,Negativo
+level of service,1,5.0,Muy Positivo
+lifelong caf,1,5.0,Muy Positivo
+lifted,1,5.0,Muy Positivo
+lifted my spirits,1,5.0,Muy Positivo
+located the products,1,5.0,Muy Positivo
+location a latte,1,5.0,Muy Positivo
+location and gluten,1,5.0,Muy Positivo
+location high,1,5.0,Muy Positivo
+location is prime,1,3.0,Neutro
+location makes,1,2.0,Negativo
+london,1,5.0,Muy Positivo
+london would recommend,1,5.0,Muy Positivo
+locality,1,5.0,Muy Positivo
+locality with tasty,1,5.0,Muy Positivo
+locals stop,1,5.0,Muy Positivo
+locals to attest,1,5.0,Muy Positivo
+located and nice,1,5.0,Muy Positivo
+located and surrounded,1,5.0,Muy Positivo
+located space,1,5.0,Muy Positivo
+located the chairs,1,2.0,Negativo
+list,1,5.0,Muy Positivo
+literally,1,5.0,Muy Positivo
+literally leaving,1,5.0,Muy Positivo
+live,1,3.0,Neutro
+live in madrid,1,3.0,Neutro
+loads,1,5.0,Muy Positivo
+loads of food,1,5.0,Muy Positivo
+local,1,5.0,Muy Positivo
+lighter versions,1,5.0,Muy Positivo
+lighting relaxing music,1,4.0,Positivo
+liking,1,5.0,Muy Positivo
+lil,1,5.0,Muy Positivo
+limit,1,1.0,Negativo
+limited,1,5.0,Muy Positivo
+limited space,1,1.0,Negativo
+liqueur,1,5.0,Muy Positivo
+find it full,1,5.0,Muy Positivo
+find small,1,5.0,Muy Positivo
+find small spaces,1,5.0,Muy Positivo
+find this bright,1,5.0,Muy Positivo
+finish my drink,1,4.0,Positivo
+finish my order,1,1.0,Negativo
+finished,1,4.0,Positivo
+lost three regular,1,1.0,Negativo
+filled with delicious,1,5.0,Muy Positivo
+filled with water,1,1.0,Negativo
+filling and olives,1,5.0,Muy Positivo
+fills your cup,1,3.0,Neutro
+finalizing my order,1,2.0,Negativo
+finally,1,5.0,Muy Positivo
+finally a real,1,5.0,Muy Positivo
+find it expensive,1,1.0,Negativo
+los,1,5.0,Muy Positivo
+losing,1,1.0,Negativo
+losing our minds,1,1.0,Negativo
+felt like family,1,5.0,Muy Positivo
+felt quite high,1,5.0,Muy Positivo
+fermented foods,1,5.0,Muy Positivo
+fernando,1,5.0,Muy Positivo
+filled,1,1.0,Negativo
+long before serving,1,5.0,Muy Positivo
+long time customer,1,5.0,Muy Positivo
+long walk,1,5.0,Muy Positivo
+longer lifespan,1,1.0,Negativo
+longer offered,1,4.0,Positivo
+longer than usual,1,4.0,Positivo
+looked spectacular,1,5.0,Muy Positivo
+loose metal,1,5.0,Muy Positivo
+fast and warm,1,5.0,Muy Positivo
+fast breakfast,1,4.0,Positivo
+fast cooking,1,5.0,Muy Positivo
+fast professional,1,5.0,Muy Positivo
+fateful,1,3.0,Neutro
+fault,1,4.0,Positivo
+favor,1,3.0,Neutro
+favor of changing,1,3.0,Neutro
+loved the customer,1,5.0,Muy Positivo
+loved the fresh,1,5.0,Muy Positivo
+fantastico,1,5.0,Muy Positivo
+fashion we ate,1,5.0,Muy Positivo
+fast and convenient,1,3.0,Neutro
+fast and correct,1,5.0,Muy Positivo
+fast and nice,1,4.0,Positivo
+fast and quality,1,5.0,Muy Positivo
+love love love,1,5.0,Muy Positivo
+love the donuts,1,5.0,Muy Positivo
+love their spotify,1,5.0,Muy Positivo
+love to sit,1,5.0,Muy Positivo
+love visiting,1,5.0,Muy Positivo
+loved it great,1,5.0,Muy Positivo
+loved the babyccino,1,5.0,Muy Positivo
+loved the carrot,1,5.0,Muy Positivo
+lot of attention,1,5.0,Muy Positivo
+lot of competition,1,1.0,Negativo
+lot of room,1,2.0,Negativo
+lots of culture,1,5.0,Muy Positivo
+lots of pastry,1,5.0,Muy Positivo
+loud and depending,1,2.0,Negativo
+louder,1,5.0,Muy Positivo
+lounge,1,5.0,Muy Positivo
+loving and idle,1,4.0,Positivo
+low on product,1,2.0,Negativo
+low rating,1,1.0,Negativo
+lower price,1,1.0,Negativo
+lucas,1,5.0,Muy Positivo
+lucky the coffee,1,2.0,Negativo
+lunch and dessert,1,5.0,Muy Positivo
+lunch and sweet,1,5.0,Muy Positivo
+lovely pastries,1,5.0,Muy Positivo
+lovely person,1,5.0,Muy Positivo
+lovely quiet,1,5.0,Muy Positivo
+lovely smiles,1,5.0,Muy Positivo
+lovely warm,1,5.0,Muy Positivo
+lovely warm place,1,5.0,Muy Positivo
+lovers of good,1,5.0,Muy Positivo
+loves her job,1,5.0,Muy Positivo
+loved the vanilla,1,5.0,Muy Positivo
+loved the wonderful,1,5.0,Muy Positivo
+loved their gluten,1,5.0,Muy Positivo
+loved their spaghetti,1,5.0,Muy Positivo
+lovely and chilled,1,5.0,Muy Positivo
+lovely and helpful,1,5.0,Muy Positivo
+lovely bar,1,5.0,Muy Positivo
+lovely lil,1,5.0,Muy Positivo
+favourite cup,1,5.0,Muy Positivo
+feast,1,5.0,Muy Positivo
+feel at ease,1,5.0,Muy Positivo
+feel extremely,1,5.0,Muy Positivo
+feel extremely cozy,1,5.0,Muy Positivo
+feel like rating,1,3.0,Neutro
+loved the harmony,1,5.0,Muy Positivo
+loved the pumpkin,1,5.0,Muy Positivo
+family the staff,1,5.0,Muy Positivo
+fancy,1,5.0,Muy Positivo
+fantastic and super,1,5.0,Muy Positivo
+fantastic unlike,1,5.0,Muy Positivo
+madrid and vertical,1,5.0,Muy Positivo
+madrid frequently,1,5.0,Muy Positivo
+madrid in terms,1,4.0,Positivo
+madrid near atocha,1,5.0,Muy Positivo
+eye contact,1,1.0,Negativo
+eye i simply,1,5.0,Muy Positivo
+fabulous not sweet,1,5.0,Muy Positivo
+face,1,1.0,Negativo
+face told,1,1.0,Negativo
+fact,1,5.0,Muy Positivo
+fake,1,3.0,Neutro
+fake bread,1,3.0,Neutro
+made the effort,1,5.0,Muy Positivo
+made us smile,1,5.0,Muy Positivo
+made with care,1,5.0,Muy Positivo
+made with love,1,5.0,Muy Positivo
+made with supermarket,1,1.0,Negativo
+madrid and didn,1,5.0,Muy Positivo
+madrid and jaen,1,5.0,Muy Positivo
+extreme kindness,1,5.0,Muy Positivo
+lunch delicious,1,5.0,Muy Positivo
+lunch is highly,1,5.0,Muy Positivo
+luxurious breakfast,1,5.0,Muy Positivo
+machine,1,2.0,Negativo
+made fun,1,2.0,Negativo
+made our afternoon,1,5.0,Muy Positivo
+made print,1,3.0,Neutro
+made suggestions,1,5.0,Muy Positivo
+experience was completely,1,1.0,Negativo
+explained what options,1,5.0,Muy Positivo
+exploration of madrid,1,5.0,Muy Positivo
+exploring,1,5.0,Muy Positivo
+expressively,1,2.0,Negativo
+expressively unfriendly,1,2.0,Negativo
+exquisite taste,1,4.0,Positivo
+exquisite the food,1,5.0,Muy Positivo
+major museums,1,5.0,Muy Positivo
+expensive than average,1,4.0,Positivo
+expensive than seville,1,1.0,Negativo
+expensive than starbucks,1,3.0,Neutro
+expensive than usual,1,5.0,Muy Positivo
+experience for breakfast,1,5.0,Muy Positivo
+experience i ordered,1,5.0,Muy Positivo
+experience to forget,1,1.0,Negativo
+magnificent museum,1,5.0,Muy Positivo
+maid,1,1.0,Negativo
+main,1,5.0,Muy Positivo
+main garden,1,5.0,Muy Positivo
+maintained and impeccable,1,5.0,Muy Positivo
+maintained atmosphere,1,5.0,Muy Positivo
+maintained products,1,5.0,Muy Positivo
+major,1,5.0,Muy Positivo
+madrid s attractions,1,5.0,Muy Positivo
+madrid s key,1,5.0,Muy Positivo
+madrid surpassed,1,5.0,Muy Positivo
+madrid the bread,1,5.0,Muy Positivo
+madrid was fantastic,1,5.0,Muy Positivo
+madrid we make,1,5.0,Muy Positivo
+madrid we start,1,5.0,Muy Positivo
+madrileno,1,5.0,Muy Positivo
+manager,1,1.0,Negativo
+manages,1,4.0,Positivo
+manages the tables,1,4.0,Positivo
+manchego,1,5.0,Muy Positivo
+manchego one norwegian,1,5.0,Muy Positivo
+mango and pineapple,1,2.0,Negativo
+mango fresa,1,5.0,Muy Positivo
+manzano is good,1,5.0,Muy Positivo
+making it super,1,5.0,Muy Positivo
+making it uncomfortable,1,3.0,Neutro
+making proper,1,5.0,Muy Positivo
+making two tourists,1,5.0,Muy Positivo
+making you feel,1,5.0,Muy Positivo
+mal pero,1,3.0,Neutro
+malaysia,1,5.0,Muy Positivo
+managed to communicate,1,5.0,Muy Positivo
+make every visit,1,5.0,Muy Positivo
+make our hollydays,1,5.0,Muy Positivo
+make people,1,1.0,Negativo
+make sense,1,1.0,Negativo
+make them feel,1,1.0,Negativo
+make you wait,1,5.0,Muy Positivo
+makes you start,1,5.0,Muy Positivo
+making it ideal,1,5.0,Muy Positivo
+extra charge,1,2.0,Negativo
+extra cost,1,3.0,Neutro
+extra large coffee,1,5.0,Muy Positivo
+extra mixed,1,4.0,Positivo
+make a champion,1,5.0,Muy Positivo
+make a cortado,1,1.0,Negativo
+make a note,1,5.0,Muy Positivo
+make amazing,1,5.0,Muy Positivo
+executed,1,5.0,Muy Positivo
+exhibition center,1,5.0,Muy Positivo
+exorbitant,1,1.0,Negativo
+exorbitant clearly aimed,1,1.0,Negativo
+exorbitant orange,1,2.0,Negativo
+exotic ingredients resulting,1,3.0,Neutro
+expect,1,2.0,Negativo
+expectations were pinned,1,3.0,Neutro
+masks this isn,1,4.0,Positivo
+match,1,3.0,Neutro
+exceptional the coffee,1,5.0,Muy Positivo
+exceptional treatment,1,5.0,Muy Positivo
+exceptionally,1,5.0,Muy Positivo
+excessive acidity,1,1.0,Negativo
+exchange the sandwich,1,2.0,Negativo
+exciting,1,3.0,Neutro
+market,1,5.0,Muy Positivo
+market prices,1,5.0,Muy Positivo
+marmalade,1,5.0,Muy Positivo
+marmalade and butter,1,5.0,Muy Positivo
+marvelous strawberry,1,5.0,Muy Positivo
+mask,1,1.0,Negativo
+mask down eating,1,1.0,Negativo
+mask when ordering,1,1.0,Negativo
+maps,1,3.0,Neutro
+mar a jes,1,5.0,Muy Positivo
+marcelo and amanda,1,5.0,Muy Positivo
+march,1,5.0,Muy Positivo
+marcha,1,5.0,Muy Positivo
+marcha latte,1,5.0,Muy Positivo
+maritza,1,5.0,Muy Positivo
+maritza served,1,5.0,Muy Positivo
+mention the size,1,1.0,Negativo
+mention to michelle,1,5.0,Muy Positivo
+menu and gloria,1,5.0,Muy Positivo
+menu isn,1,5.0,Muy Positivo
+menu looks tempting,1,5.0,Muy Positivo
+menu they didn,1,3.0,Neutro
+menu yes strawberry,1,1.0,Negativo
+merry,1,5.0,Muy Positivo
+mediocre quality,1,3.0,Neutro
+meet wal barros,1,5.0,Muy Positivo
+meeting point,1,5.0,Muy Positivo
+melted,1,3.0,Neutro
+member,1,5.0,Muy Positivo
+mention anything special,1,2.0,Negativo
+mention the food,1,5.0,Muy Positivo
+mention the sandwiches,1,5.0,Muy Positivo
+matter of humanity,1,1.0,Negativo
+mayor,1,5.0,Muy Positivo
+mcdonald,1,3.0,Neutro
+mea,1,1.0,Negativo
+meal lifted,1,5.0,Muy Positivo
+meal to bring,1,5.0,Muy Positivo
+measures and protocols,1,5.0,Muy Positivo
+measures were respected,1,5.0,Muy Positivo
+expensive and friendly,1,4.0,Positivo
+expensive for sitting,1,3.0,Neutro
+expensive for tomatoes,1,1.0,Negativo
+expensive perhaps due,1,5.0,Muy Positivo
+expensive side,1,4.0,Positivo
+expensive slow,1,2.0,Negativo
+matcha was standard,1,4.0,Positivo
+matched,1,5.0,Muy Positivo
+excellent service recommendations,1,5.0,Muy Positivo
+excellent smooth,1,5.0,Muy Positivo
+excellent the girls,1,5.0,Muy Positivo
+excellent very patient,1,5.0,Muy Positivo
+excellent very quaint,1,5.0,Muy Positivo
+exception,1,5.0,Muy Positivo
+milk and cake,1,5.0,Muy Positivo
+milk and serrano,1,5.0,Muy Positivo
+excellent attentive,1,5.0,Muy Positivo
+excellent combination,1,5.0,Muy Positivo
+excellent hidden,1,5.0,Muy Positivo
+excellent little stopping,1,5.0,Muy Positivo
+excellent pan,1,5.0,Muy Positivo
+excellent pan tostada,1,5.0,Muy Positivo
+excellent pastry,1,5.0,Muy Positivo
+excellent server,1,5.0,Muy Positivo
+microwave,1,2.0,Negativo
+mid,1,4.0,Positivo
+midday,1,3.0,Neutro
+midday snack,1,3.0,Neutro
+mildly ridiculous,1,1.0,Negativo
+milk a chocolate,1,4.0,Positivo
+excellent and easy,1,5.0,Muy Positivo
+excellent and serves,1,5.0,Muy Positivo
+merry christmas,1,5.0,Muy Positivo
+messed,1,1.0,Negativo
+met,1,5.0,Muy Positivo
+met a lady,1,5.0,Muy Positivo
+meters from atocha,1,5.0,Muy Positivo
+metro stations,1,5.0,Muy Positivo
+michelle s service,1,5.0,Muy Positivo
+michelle the waiter,1,5.0,Muy Positivo
+mishap,1,1.0,Negativo
+missing,1,2.0,Negativo
+missing a variety,1,2.0,Negativo
+mistake for choosing,1,2.0,Negativo
+mistake when taking,1,2.0,Negativo
+mix wasn,1,1.0,Negativo
+mixed with orange,1,2.0,Negativo
+mocha frapp,1,5.0,Muy Positivo
+minute earlier,1,1.0,Negativo
+minute laptop,1,1.0,Negativo
+minute laptop limit,1,1.0,Negativo
+minute maid,1,1.0,Negativo
+minutes left,1,1.0,Negativo
+minutes to serve,1,5.0,Muy Positivo
+miserable,1,5.0,Muy Positivo
+miserable opinion,1,5.0,Muy Positivo
+milk were separated,1,3.0,Neutro
+milks and gluten,1,5.0,Muy Positivo
+milks for cappuccinos,1,5.0,Muy Positivo
+milkshake with powder,1,2.0,Negativo
+mill hot,1,3.0,Neutro
+min,1,1.0,Negativo
+mind when coming,1,5.0,Muy Positivo
+minimal,1,3.0,Neutro
+milk costs,1,4.0,Positivo
+milk juice,1,1.0,Negativo
+milk options,1,5.0,Muy Positivo
+milk served,1,5.0,Muy Positivo
+milk so terribly,1,4.0,Positivo
+milk spiced patio,1,5.0,Muy Positivo
+milk straight,1,1.0,Negativo
+milk was good,1,3.0,Neutro
+euros mixed,1,2.0,Negativo
+euros per glass,1,2.0,Negativo
+euros per person,1,5.0,Muy Positivo
+euros small,1,1.0,Negativo
+euros small sandwich,1,1.0,Negativo
+euros spent,1,1.0,Negativo
+evgene and amanda,1,5.0,Muy Positivo
+exact same thing,1,1.0,Negativo
+establishment without drinking,1,1.0,Negativo
+estrecho,1,3.0,Neutro
+estrecho no resulta,1,3.0,Neutro
+eugene the filipino,1,5.0,Muy Positivo
+eugenio sandra,1,5.0,Muy Positivo
+eur,1,3.0,Neutro
+euros and tasted,1,1.0,Negativo
+euros for pan,1,2.0,Negativo
+moment she entered,1,1.0,Negativo
+moment the ladies,1,5.0,Muy Positivo
+money and location,1,4.0,Positivo
+money by offering,1,1.0,Negativo
+epicenter of madrid,1,5.0,Muy Positivo
+espresso was balanced,1,5.0,Muy Positivo
+essentials,1,5.0,Muy Positivo
+establishment s fault,1,4.0,Positivo
+modern and casual,1,5.0,Muy Positivo
+modern and open,1,5.0,Muy Positivo
+modern setting,1,5.0,Muy Positivo
+modern touches,1,5.0,Muy Positivo
+moist,1,5.0,Muy Positivo
+moist and delicious,1,5.0,Muy Positivo
+moment i arrived,1,5.0,Muy Positivo
+moment many options,1,5.0,Muy Positivo
+enjoy time,1,5.0,Muy Positivo
+enjoyed a weekend,1,3.0,Neutro
+enjoyed my big,1,5.0,Muy Positivo
+enjoyed our breakfast,1,5.0,Muy Positivo
+enjoyed our visit,1,5.0,Muy Positivo
+enjoyed some spectacular,1,5.0,Muy Positivo
+enjoyed the mocha,1,5.0,Muy Positivo
+enjoying a delicious,1,5.0,Muy Positivo
+multiple times giving,1,1.0,Negativo
+mummy exhibition,1,5.0,Muy Positivo
+museum and atocha,1,5.0,Muy Positivo
+museum and close,1,4.0,Positivo
+museum epicenter,1,5.0,Muy Positivo
+museum it offers,1,5.0,Muy Positivo
+enjoy thank youuu,1,5.0,Muy Positivo
+enjoy the views,1,5.0,Muy Positivo
+mouth,1,5.0,Muy Positivo
+move the computer,1,1.0,Negativo
+moved,1,2.0,Negativo
+muesli,1,5.0,Muy Positivo
+muesli offerings,1,5.0,Muy Positivo
+muffin was tremendous,1,4.0,Positivo
+multigrain toast,1,4.0,Positivo
+multiple times,1,1.0,Negativo
+money left,1,3.0,Neutro
+money on breakfast,1,1.0,Negativo
+monsieur,1,3.0,Neutro
+mora smoothie,1,5.0,Muy Positivo
+morning before work,1,5.0,Muy Positivo
+morning by chance,1,5.0,Muy Positivo
+morning happy,1,5.0,Muy Positivo
+morning treat,1,5.0,Muy Positivo
+natural tomato,1,4.0,Positivo
+natural unroasted,1,4.0,Positivo
+needed a charger,1,5.0,Muy Positivo
+needed a place,1,5.0,Muy Positivo
+neglected,1,1.0,Negativo
+neglected space,1,1.0,Negativo
+neglected the toilet,1,2.0,Negativo
+neighborhood and foreigners,1,5.0,Muy Positivo
+music the smell,1,5.0,Muy Positivo
+musical,1,5.0,Muy Positivo
+musueam prado,1,5.0,Muy Positivo
+muy,1,3.0,Neutro
+natural and freshly,1,5.0,Muy Positivo
+natural fruit,1,3.0,Neutro
+natural juice,1,1.0,Negativo
+natural products,1,5.0,Muy Positivo
+museum route,1,4.0,Positivo
+museums to recoup,1,5.0,Muy Positivo
+music and attentive,1,5.0,Muy Positivo
+music and coffe,1,5.0,Muy Positivo
+music and exquisite,1,5.0,Muy Positivo
+music high,1,3.0,Neutro
+music high price,1,3.0,Neutro
+music is great,1,5.0,Muy Positivo
+ensalada vegana,1,5.0,Muy Positivo
+ensure you feel,1,5.0,Muy Positivo
+entire cafeteria,1,1.0,Negativo
+entire shift,1,2.0,Negativo
+environment and service,1,5.0,Muy Positivo
+environment the team,1,5.0,Muy Positivo
+environment was welcoming,1,5.0,Muy Positivo
+environmental impact,1,1.0,Negativo
+energetico,1,1.0,Negativo
+energy and friendliness,1,5.0,Muy Positivo
+english menus,1,5.0,Muy Positivo
+english speakers,1,5.0,Muy Positivo
+english the coffee,1,3.0,Neutro
+english the place,1,5.0,Muy Positivo
+enjoy a pleasant,1,5.0,Muy Positivo
+nice brunch cheese,1,4.0,Positivo
+employees are extremely,1,5.0,Muy Positivo
+employees treat,1,1.0,Negativo
+encanta,1,5.0,Muy Positivo
+encanta el patio,1,5.0,Muy Positivo
+encourages a return,1,5.0,Muy Positivo
+end cultural,1,5.0,Muy Positivo
+end the cake,1,5.0,Muy Positivo
+ended,1,4.0,Positivo
+nice and chill,1,5.0,Muy Positivo
+nice and early,1,4.0,Positivo
+nice and quiet,1,5.0,Muy Positivo
+nice and wont,1,5.0,Muy Positivo
+nice break,1,5.0,Muy Positivo
+emphasize,1,5.0,Muy Positivo
+employee,1,1.0,Negativo
+employees are adorable,1,5.0,Muy Positivo
+neighbors,1,4.0,Positivo
+nestea,1,1.0,Negativo
+nestled near madrid,1,5.0,Muy Positivo
+nice aesthetic,1,5.0,Muy Positivo
+nice always smiling,1,5.0,Muy Positivo
+nice and accommodating,1,5.0,Muy Positivo
+nice and apologized,1,2.0,Negativo
+nice and calm,1,5.0,Muy Positivo
+egg cold,1,1.0,Negativo
+egg very delicious,1,5.0,Muy Positivo
+elaborate bread,1,1.0,Negativo
+elegant,1,5.0,Muy Positivo
+elegant place,1,5.0,Muy Positivo
+eliminated one quart,1,5.0,Muy Positivo
+nice to drink,1,4.0,Positivo
+nice to pay,1,5.0,Muy Positivo
+edit to answer,1,3.0,Neutro
+editing,1,1.0,Negativo
+editing my review,1,1.0,Negativo
+efficiency,1,4.0,Positivo
+efficient in fulfilling,1,5.0,Muy Positivo
+effort to achieve,1,4.0,Positivo
+effort to speak,1,5.0,Muy Positivo
+egg and paprika,1,1.0,Negativo
+nice servers,1,5.0,Muy Positivo
+nice setting,1,4.0,Positivo
+easily,1,5.0,Muy Positivo
+easily reachable,1,5.0,Muy Positivo
+eat before heading,1,5.0,Muy Positivo
+eat in addition,1,4.0,Positivo
+eat light,1,5.0,Muy Positivo
+edit,1,3.0,Neutro
+nice facilities,1,5.0,Muy Positivo
+nice girl,1,5.0,Muy Positivo
+nice girl named,1,5.0,Muy Positivo
+nice i loved,1,5.0,Muy Positivo
+nice little spot,1,5.0,Muy Positivo
+nice locality,1,5.0,Muy Positivo
+nice neighborhood,1,5.0,Muy Positivo
+nice options,1,5.0,Muy Positivo
+nutella great castilian,1,5.0,Muy Positivo
+nutella was warm,1,5.0,Muy Positivo
+oasis,1,5.0,Muy Positivo
+occasion,1,5.0,Muy Positivo
+occupied,1,1.0,Negativo
+occurrence,1,2.0,Negativo
+octavio,1,5.0,Muy Positivo
+octavio are great,1,5.0,Muy Positivo
+north of portugal,1,5.0,Muy Positivo
+noruego and coffee,1,5.0,Muy Positivo
+noted,1,1.0,Negativo
+notice,1,1.0,Negativo
+noticeable,1,5.0,Muy Positivo
+noticed my situation,1,5.0,Muy Positivo
+number,1,5.0,Muy Positivo
+number of tables,1,5.0,Muy Positivo
+night and decided,1,5.0,Muy Positivo
+night had turn,1,5.0,Muy Positivo
+night in madrid,1,4.0,Positivo
+noise and frenzy,1,5.0,Muy Positivo
+noisy and crowded,1,4.0,Positivo
+nonexistent,1,1.0,Negativo
+norm,1,5.0,Muy Positivo
+north,1,5.0,Muy Positivo
+nice to rest,1,5.0,Muy Positivo
+nice totally recommended,1,5.0,Muy Positivo
+nice touches,1,3.0,Neutro
+nice urban,1,5.0,Muy Positivo
+nice with hints,1,5.0,Muy Positivo
+nicest,1,5.0,Muy Positivo
+nicest person,1,5.0,Muy Positivo
+nico tyssen caixa,1,4.0,Positivo
+drinks were fine,1,4.0,Positivo
+drinks were ready,1,5.0,Muy Positivo
+drop,1,4.0,Positivo
+drunk in spain,1,5.0,Muy Positivo
+dry sandwich,1,1.0,Negativo
+dumped,1,1.0,Negativo
+dumped in milk,1,1.0,Negativo
+eager,1,1.0,Negativo
+drink options,1,4.0,Positivo
+drink the rest,1,1.0,Negativo
+drink to cool,1,4.0,Positivo
+drinking a shot,1,1.0,Negativo
+drinks and bites,1,5.0,Muy Positivo
+drinks and gloria,1,5.0,Muy Positivo
+drinks are great,1,5.0,Muy Positivo
+drinks last time,1,5.0,Muy Positivo
+offers a wide,1,5.0,Muy Positivo
+drafts,1,1.0,Negativo
+drawings,1,5.0,Muy Positivo
+dreams,1,3.0,Neutro
+drink after visiting,1,4.0,Positivo
+drink beautiful,1,5.0,Muy Positivo
+drink disappointing,1,2.0,Negativo
+drink in good,1,5.0,Muy Positivo
+odyssey,1,3.0,Neutro
+offer delicious,1,5.0,Muy Positivo
+offer delicious food,1,5.0,Muy Positivo
+offer is diverse,1,5.0,Muy Positivo
+offer takeaway,1,5.0,Muy Positivo
+offering,1,1.0,Negativo
+offering regular,1,1.0,Negativo
+offers a variety,1,5.0,Muy Positivo
+opening albierto,1,5.0,Muy Positivo
+opinion they prepare,1,3.0,Neutro
+option for tourists,1,5.0,Muy Positivo
+option to meet,1,4.0,Positivo
+option when entering,1,5.0,Muy Positivo
+options and super,1,5.0,Muy Positivo
+options are average,1,4.0,Positivo
+options both sweet,1,4.0,Positivo
+online,1,5.0,Muy Positivo
+opaque attitude,1,2.0,Negativo
+open early,1,5.0,Muy Positivo
+open nice,1,4.0,Positivo
+open on sundays,1,5.0,Muy Positivo
+open space,1,5.0,Muy Positivo
+open your laptop,1,5.0,Muy Positivo
+opened the carton,1,3.0,Neutro
+oil cups jam,1,3.0,Neutro
+oil was fine,1,2.0,Negativo
+oil were excessive,1,3.0,Neutro
+older,1,2.0,Negativo
+older couple,1,2.0,Negativo
+olive oil bubbles,1,4.0,Positivo
+olives making,1,5.0,Muy Positivo
+omlette,1,4.0,Positivo
+eager to clear,1,4.0,Positivo
+offers anything special,1,3.0,Neutro
+offers plant based,1,5.0,Muy Positivo
+offers the perfect,1,5.0,Muy Positivo
+oil a piece,1,1.0,Negativo
+oil and ham,1,5.0,Muy Positivo
+oil and putting,1,1.0,Negativo
+oil bubbles,1,4.0,Positivo
+donuts that gloria,1,5.0,Muy Positivo
+donuts were pretty,1,2.0,Negativo
+door and free,1,1.0,Negativo
+door the girl,1,5.0,Muy Positivo
+door very hard,1,4.0,Positivo
+double shot,1,1.0,Negativo
+doubles,1,1.0,Negativo
+doubt an excellent,1,5.0,Muy Positivo
+don t expect,1,1.0,Negativo
+don t give,1,4.0,Positivo
+don t invite,1,4.0,Positivo
+don t order,1,2.0,Negativo
+don t put,1,5.0,Muy Positivo
+don t remember,1,5.0,Muy Positivo
+don t waste,1,1.0,Negativo
+donuts are industrially,1,3.0,Neutro
+order a regenerative,1,5.0,Muy Positivo
+order a specialty,1,3.0,Neutro
+order and pick,1,3.0,Neutro
+order i noted,1,1.0,Negativo
+doh,1,1.0,Negativo
+dollar,1,1.0,Negativo
+dollar store,1,1.0,Negativo
+don t calculate,1,2.0,Negativo
+options including fresh,1,4.0,Positivo
+options near caixaforum,1,4.0,Positivo
+options to complete,1,5.0,Muy Positivo
+options were varied,1,5.0,Muy Positivo
+oracles,1,1.0,Negativo
+orange essence,1,3.0,Neutro
+orange juice toast,1,4.0,Positivo
+orange thai tea,1,3.0,Neutro
+ordered two hot,1,1.0,Negativo
+ordered was excellent,1,5.0,Muy Positivo
+ordered water,1,1.0,Negativo
+ordering process,1,3.0,Neutro
+orders fruit cups,1,3.0,Neutro
+orders very quickly,1,5.0,Muy Positivo
+organize in caixa,1,1.0,Negativo
+oriented,1,3.0,Neutro
+ordered chai,1,5.0,Muy Positivo
+ordered chai tea,1,5.0,Muy Positivo
+ordered ham,1,5.0,Muy Positivo
+ordered italian,1,5.0,Muy Positivo
+ordered spaghetti,1,2.0,Negativo
+ordered the cubano,1,5.0,Muy Positivo
+ordered the salmon,1,5.0,Muy Positivo
+ordered two caf,1,4.0,Positivo
+ordered a marcha,1,5.0,Muy Positivo
+ordered a papaya,1,2.0,Negativo
+ordered a peppermint,1,4.0,Positivo
+ordered a pepperoni,1,1.0,Negativo
+ordered a soy,1,4.0,Positivo
+ordered a tomato,1,5.0,Muy Positivo
+ordered an americano,1,4.0,Positivo
+ordered an extra,1,4.0,Positivo
+doubt i stay,1,5.0,Muy Positivo
+order sandwiches salads,1,5.0,Muy Positivo
+order slices,1,3.0,Neutro
+order very expensive,1,3.0,Neutro
+ordered a caesar,1,5.0,Muy Positivo
+ordered a cookie,1,5.0,Muy Positivo
+ordered a frapp,1,5.0,Muy Positivo
+ordered a grilled,1,1.0,Negativo
+disposition and smile,1,5.0,Muy Positivo
+disproportionate prices,1,2.0,Negativo
+dissonance,1,3.0,Neutro
+district,1,5.0,Muy Positivo
+disturbed the peace,1,4.0,Positivo
+dive,1,3.0,Neutro
+doesn t close,1,5.0,Muy Positivo
+doesn t cost,1,3.0,Neutro
+discovered by chance,1,5.0,Muy Positivo
+discovering a spectacular,1,5.0,Muy Positivo
+discussion,1,5.0,Muy Positivo
+disease,1,5.0,Muy Positivo
+disgraceful,1,1.0,Negativo
+disgusting,1,1.0,Negativo
+dishes and excellent,1,5.0,Muy Positivo
+disorganized,1,3.0,Neutro
+overcrowded cafe,1,2.0,Negativo
+overlooking,1,4.0,Positivo
+overly conventional dishes,1,1.0,Negativo
+overpriced,1,3.0,Neutro
+overpriced dry sandwich,1,1.0,Negativo
+owner s response,1,1.0,Negativo
+owner the difference,1,5.0,Muy Positivo
+owners and waiters,1,5.0,Muy Positivo
+origin,1,3.0,Neutro
+original and pleasant,1,5.0,Muy Positivo
+original site,1,4.0,Positivo
+outrageous and disrespectful,1,1.0,Negativo
+outstanding people,1,5.0,Muy Positivo
+outstanding the women,1,5.0,Muy Positivo
+outta,1,5.0,Muy Positivo
+overcooked,1,2.0,Negativo
+past this place,1,5.0,Muy Positivo
+pasta and vegan,1,5.0,Muy Positivo
+pasta is exquisite,1,5.0,Muy Positivo
+paste and olive,1,5.0,Muy Positivo
+pastries and cookies,1,5.0,Muy Positivo
+pastries are frozen,1,3.0,Neutro
+pastries didn,1,3.0,Neutro
+pastries were fresh,1,5.0,Muy Positivo
+partner a gluten,1,5.0,Muy Positivo
+partner chose,1,5.0,Muy Positivo
+passable,1,2.0,Negativo
+passing by stop,1,5.0,Muy Positivo
+passing through atocha,1,5.0,Muy Positivo
+passing through madrid,1,5.0,Muy Positivo
+password,1,1.0,Negativo
+past,1,5.0,Muy Positivo
+palatably delicious,1,5.0,Muy Positivo
+palate,1,5.0,Muy Positivo
+pan,1,5.0,Muy Positivo
+pan con,1,2.0,Negativo
+pants got caught,1,5.0,Muy Positivo
+par with starbucks,1,4.0,Positivo
+park or visiting,1,5.0,Muy Positivo
+parque el retiro,1,5.0,Muy Positivo
+doesn t matter,1,5.0,Muy Positivo
+doesn t read,1,5.0,Muy Positivo
+owners marcelo,1,5.0,Muy Positivo
+package,1,1.0,Negativo
+package water,1,1.0,Negativo
+packed cozy,1,5.0,Muy Positivo
+paid the bill,1,1.0,Negativo
+pair of pants,1,5.0,Muy Positivo
+disappointing,1,2.0,Negativo
+disappointing the cake,1,2.0,Negativo
+disappointment,1,2.0,Negativo
+disconnect,1,5.0,Muy Positivo
+discover,1,5.0,Muy Positivo
+pay taxes,1,3.0,Neutro
+pay that kind,1,1.0,Negativo
+pay upfront,1,3.0,Neutro
+difficult for wheelchair,1,3.0,Neutro
+diligent,1,4.0,Positivo
+diligent and efficient,1,4.0,Positivo
+dine,1,5.0,Muy Positivo
+diners,1,3.0,Neutro
+directly,1,3.0,Neutro
+dirty neglected,1,2.0,Negativo
+disappoint,1,3.0,Neutro
+didn t end,1,3.0,Neutro
+didn t find,1,3.0,Neutro
+didn t hesitate,1,5.0,Muy Positivo
+didn t inform,1,1.0,Negativo
+didn t supply,1,1.0,Negativo
+diet,1,5.0,Muy Positivo
+difference is noticeable,1,5.0,Muy Positivo
+differently,1,1.0,Negativo
+patiently and kindly,1,5.0,Muy Positivo
+patio vertical team,1,5.0,Muy Positivo
+pay a fair,1,5.0,Muy Positivo
+pay attention,1,1.0,Negativo
+pay before eating,1,1.0,Negativo
+didn t budge,1,1.0,Negativo
+didn t complain,1,1.0,Negativo
+didn t eat,1,4.0,Positivo
+density or crema,1,3.0,Neutro
+department,1,1.0,Negativo
+departs,1,4.0,Positivo
+depends,1,3.0,Neutro
+deserve a punishment,1,1.0,Negativo
+deserve respect,1,2.0,Negativo
+design asthetic,1,5.0,Muy Positivo
+design really caught,1,5.0,Muy Positivo
+people who served,1,4.0,Positivo
+people you love,1,5.0,Muy Positivo
+delicious very pleasant,1,5.0,Muy Positivo
+delightful break,1,5.0,Muy Positivo
+demanding,1,1.0,Negativo
+denotes,1,5.0,Muy Positivo
+dense jungle,1,5.0,Muy Positivo
+density,1,3.0,Neutro
+people excellent coffee,1,5.0,Muy Positivo
+people fair,1,5.0,Muy Positivo
+people fair prices,1,5.0,Muy Positivo
+people go hungry,1,1.0,Negativo
+people good food,1,5.0,Muy Positivo
+people great vibes,1,5.0,Muy Positivo
+people to leave,1,4.0,Positivo
+people who pretend,1,3.0,Neutro
+paying a minute,1,1.0,Negativo
+peaceful and comfortable,1,4.0,Positivo
+peaceful music,1,4.0,Positivo
+peasant,1,4.0,Positivo
+peninsula,1,5.0,Muy Positivo
+people coming,1,1.0,Negativo
+people costumer,1,2.0,Negativo
+people don,1,1.0,Negativo
+personally,1,5.0,Muy Positivo
+personally ordered,1,5.0,Muy Positivo
+deliberately took longer,1,4.0,Positivo
+deliciosa,1,5.0,Muy Positivo
+delicious a quiet,1,4.0,Positivo
+delicious and generous,1,5.0,Muy Positivo
+delicious and satisfying,1,5.0,Muy Positivo
+delicious chocolate,1,5.0,Muy Positivo
+person and left,1,4.0,Positivo
+person i hadn,1,3.0,Neutro
+person paying,1,2.0,Negativo
+personal drinks,1,5.0,Muy Positivo
+personal no fue,1,3.0,Neutro
+personalised plate,1,5.0,Muy Positivo
+personality,1,5.0,Muy Positivo
+personalized service,1,5.0,Muy Positivo
+perfect food,1,5.0,Muy Positivo
+perfect for enjoying,1,5.0,Muy Positivo
+perfect for kids,1,5.0,Muy Positivo
+perfect for snacking,1,5.0,Muy Positivo
+perfect music,1,4.0,Positivo
+perfect proportion,1,5.0,Muy Positivo
+perfectly refreshing,1,5.0,Muy Positivo
+performance,1,2.0,Negativo
+desired with terrible,1,1.0,Negativo
+desk,1,5.0,Muy Positivo
+desperate to find,1,5.0,Muy Positivo
+details that make,1,5.0,Muy Positivo
+detracts,1,2.0,Negativo
+peque,1,3.0,Neutro
+percent,1,5.0,Muy Positivo
+perfect cleanliness,1,5.0,Muy Positivo
+pitcher,1,3.0,Neutro
+pitcher of water,1,3.0,Neutro
+place a large,1,5.0,Muy Positivo
+place a pleasant,1,5.0,Muy Positivo
+place and michelle,1,5.0,Muy Positivo
+place attentive,1,3.0,Neutro
+place big,1,5.0,Muy Positivo
+place but poorly,1,1.0,Negativo
+pie for dessert,1,5.0,Muy Positivo
+pie was tiny,1,1.0,Negativo
+piece costs,1,2.0,Negativo
+pieces with tomato,1,5.0,Muy Positivo
+pillow,1,5.0,Muy Positivo
+pineapple and kiwi,1,4.0,Positivo
+pineapple smoothie,1,2.0,Negativo
+pinned,1,3.0,Neutro
+phone and video,1,2.0,Negativo
+phone directly,1,3.0,Neutro
+photo are beautiful,1,5.0,Muy Positivo
+photos of food,1,4.0,Positivo
+pick out spoiled,1,5.0,Muy Positivo
+pie a feast,1,5.0,Muy Positivo
+pie and coffee,1,5.0,Muy Positivo
+pie and outstanding,1,5.0,Muy Positivo
+delicious cup,1,5.0,Muy Positivo
+delicious i don,1,5.0,Muy Positivo
+delicious perfectly,1,5.0,Muy Positivo
+delicious teas,1,4.0,Positivo
+delicious the red,1,5.0,Muy Positivo
+peruvian,1,5.0,Muy Positivo
+peruvian woman,1,5.0,Muy Positivo
+phew,1,1.0,Negativo
+deco and reasonable,1,5.0,Muy Positivo
+decor and location,1,5.0,Muy Positivo
+decor excellent music,1,5.0,Muy Positivo
+decor is springy,1,4.0,Positivo
+decor looks super,1,5.0,Muy Positivo
+decorated and clean,1,3.0,Neutro
+decorated cups,1,5.0,Muy Positivo
+decoration pleasant place,1,5.0,Muy Positivo
+decent and delicious,1,5.0,Muy Positivo
+decent chai,1,5.0,Muy Positivo
+decent service,1,4.0,Positivo
+decide,1,5.0,Muy Positivo
+decided to grab,1,5.0,Muy Positivo
+decided to order,1,3.0,Neutro
+decided to vary,1,5.0,Muy Positivo
+deco,1,5.0,Muy Positivo
+place for meetings,1,2.0,Negativo
+place for working,1,4.0,Positivo
+place good products,1,5.0,Muy Positivo
+place good treatment,1,4.0,Positivo
+place guided,1,4.0,Positivo
+place has potential,1,3.0,Neutro
+place i ate,1,2.0,Negativo
+decaf coffee,1,4.0,Positivo
+place couldn,1,2.0,Negativo
+place excellent customer,1,5.0,Muy Positivo
+place fair,1,5.0,Muy Positivo
+place fair price,1,5.0,Muy Positivo
+place fills,1,5.0,Muy Positivo
+place for foreign,1,1.0,Negativo
+place for light,1,4.0,Positivo
+place for lovers,1,5.0,Muy Positivo
+place to order,1,5.0,Muy Positivo
+place to photograph,1,5.0,Muy Positivo
+place to return,1,4.0,Positivo
+place to start,1,5.0,Muy Positivo
+place to stay,1,5.0,Muy Positivo
+place very bright,1,4.0,Positivo
+place was practically,1,1.0,Negativo
+place was spotless,1,5.0,Muy Positivo
+place satisfied,1,4.0,Positivo
+place that doesn,1,3.0,Neutro
+place that serves,1,3.0,Neutro
+place that surprised,1,5.0,Muy Positivo
+place the photos,1,5.0,Muy Positivo
+place to end,1,5.0,Muy Positivo
+place to ensure,1,5.0,Muy Positivo
+place to hang,1,5.0,Muy Positivo
+place in general,1,5.0,Muy Positivo
+place is exceptional,1,5.0,Muy Positivo
+place is spacious,1,3.0,Neutro
+place last night,1,5.0,Muy Positivo
+place offering,1,5.0,Muy Positivo
+place opposite caixaforum,1,5.0,Muy Positivo
+place reads,1,1.0,Negativo
+place reasonable,1,5.0,Muy Positivo
+deer,1,3.0,Neutro
+deer s head,1,3.0,Neutro
+definite,1,5.0,Muy Positivo
+definite place,1,5.0,Muy Positivo
+deformed,1,3.0,Neutro
+deign,1,1.0,Negativo
+place i highlight,1,5.0,Muy Positivo
+place i loved,1,5.0,Muy Positivo
+day long,1,5.0,Muy Positivo
+days remembered,1,5.0,Muy Positivo
+deal,1,5.0,Muy Positivo
+dear friend,1,4.0,Positivo
+place you won,1,5.0,Muy Positivo
+places the juice,1,4.0,Positivo
+places which justifies,1,1.0,Negativo
+planet,1,1.0,Negativo
+customers like thieves,1,1.0,Negativo
+cute interior,1,5.0,Muy Positivo
+cute place close,1,5.0,Muy Positivo
+damn,1,3.0,Neutro
+damp cloth,1,1.0,Negativo
+dance,1,3.0,Neutro
+date a snack,1,5.0,Muy Positivo
+daughter ordered,1,5.0,Muy Positivo
+place worth stopping,1,5.0,Muy Positivo
+cups jam cups,1,3.0,Neutro
+cups oil cups,1,3.0,Neutro
+cups three gluten,1,5.0,Muy Positivo
+curious,1,5.0,Muy Positivo
+cushioned,1,5.0,Muy Positivo
+cushions and comfortable,1,4.0,Positivo
+customer and wipe,1,1.0,Negativo
+place was tucked,1,4.0,Positivo
+place we trust,1,5.0,Muy Positivo
+place with carefully,1,5.0,Muy Positivo
+place with jazzy,1,5.0,Muy Positivo
+place with options,1,5.0,Muy Positivo
+place with personality,1,5.0,Muy Positivo
+place with views,1,4.0,Positivo
+place worth,1,5.0,Muy Positivo
+croque,1,3.0,Neutro
+crowded at peak,1,4.0,Positivo
+crumbs,1,2.0,Negativo
+culture feeding,1,5.0,Muy Positivo
+cup of warm,1,5.0,Muy Positivo
+cups and plates,1,5.0,Muy Positivo
+pleasant flavor,1,5.0,Muy Positivo
+pleasant independent,1,5.0,Muy Positivo
+croissant and norwegian,1,4.0,Positivo
+croissant i ordered,1,5.0,Muy Positivo
+croissant was soggy,1,4.0,Positivo
+croissant with marmalade,1,5.0,Muy Positivo
+croissants and cakes,1,5.0,Muy Positivo
+croissants and orange,1,5.0,Muy Positivo
+croissants hadn,1,4.0,Positivo
+croissants the teas,1,5.0,Muy Positivo
+playmobil,1,1.0,Negativo
+plaza,1,5.0,Muy Positivo
+pleasant a good,1,5.0,Muy Positivo
+pleasant allowing,1,5.0,Muy Positivo
+pleasant and high,1,5.0,Muy Positivo
+pleasant experience,1,5.0,Muy Positivo
+croissant and avocado,1,3.0,Neutro
+croissant and cortado,1,5.0,Muy Positivo
+planet and common,1,1.0,Negativo
+planned,1,5.0,Muy Positivo
+plant based drinks,1,5.0,Muy Positivo
+plaster decorations,1,3.0,Neutro
+plastic to serve,1,3.0,Neutro
+plate of toast,1,3.0,Neutro
+plate the atmosphere,1,3.0,Neutro
+play doh,1,1.0,Negativo
+cozy with exquisite,1,4.0,Positivo
+crafted,1,5.0,Muy Positivo
+cranberries were delicious,1,4.0,Positivo
+craving,1,5.0,Muy Positivo
+craving a cake,1,5.0,Muy Positivo
+crazy,1,1.0,Negativo
+cream and leaves,1,5.0,Muy Positivo
+cream finish,1,5.0,Muy Positivo
+point while viewing,1,5.0,Muy Positivo
+pointed,1,1.0,Negativo
+cozy and calm,1,5.0,Muy Positivo
+cozy deco,1,5.0,Muy Positivo
+cozy little corner,1,4.0,Positivo
+cozy the waitresses,1,5.0,Muy Positivo
+cozy they serve,1,5.0,Muy Positivo
+cozy to share,1,5.0,Muy Positivo
+pleasure of discovering,1,5.0,Muy Positivo
+pleasure to deal,1,5.0,Muy Positivo
+pleasure to dine,1,5.0,Muy Positivo
+pleasure to find,1,5.0,Muy Positivo
+pleasure to return,1,5.0,Muy Positivo
+plenty of free,1,5.0,Muy Positivo
+plug,1,5.0,Muy Positivo
+plug your laptop,1,5.0,Muy Positivo
+pleasant low,1,5.0,Muy Positivo
+pleasant low volume,1,5.0,Muy Positivo
+pleasant moments,1,5.0,Muy Positivo
+pleasant place inside,1,4.0,Positivo
+pleasant sitting,1,5.0,Muy Positivo
+pleasant you order,1,5.0,Muy Positivo
+pleasantly,1,5.0,Muy Positivo
+pleasantly surprised,1,5.0,Muy Positivo
+positive experience,1,5.0,Muy Positivo
+positive friendly,1,5.0,Muy Positivo
+positive reviews,1,3.0,Neutro
+pot,1,1.0,Negativo
+potential,1,3.0,Neutro
+pour sugar,1,2.0,Negativo
+powder,1,2.0,Negativo
+powder that wasn,1,2.0,Negativo
+popular,1,3.0,Neutro
+popular stop,1,3.0,Neutro
+populated,1,5.0,Muy Positivo
+portion were good,1,5.0,Muy Positivo
+portions are large,1,5.0,Muy Positivo
+portugal,1,5.0,Muy Positivo
+posh,1,1.0,Negativo
+posh cafe,1,1.0,Negativo
+polite and kind,1,5.0,Muy Positivo
+polite treatment,1,5.0,Muy Positivo
+poor customer,1,1.0,Negativo
+poor portions,1,1.0,Negativo
+poorly creamed,1,3.0,Neutro
+poorly made,1,1.0,Negativo
+poorly managed,1,1.0,Negativo
+popped,1,5.0,Muy Positivo
+cream upon entering,1,1.0,Negativo
+creamed,1,3.0,Neutro
+creamy coffees,1,5.0,Muy Positivo
+crema,1,3.0,Neutro
+points,1,4.0,Positivo
+poles,1,3.0,Neutro
+poles and delicious,1,3.0,Neutro
+policy is absurd,1,1.0,Negativo
+couldn t afford,1,3.0,Neutro
+couldn t decide,1,5.0,Muy Positivo
+couldn t find,1,5.0,Muy Positivo
+couldn t sell,1,2.0,Negativo
+couldn t sit,1,1.0,Negativo
+counter service,1,1.0,Negativo
+country toast,1,5.0,Muy Positivo
+couples or groups,1,3.0,Neutro
+prepared the apple,1,5.0,Muy Positivo
+prepubescent kids,1,3.0,Neutro
+prepubescent kids disrupted,1,3.0,Neutro
+present their hate,1,2.0,Negativo
+cosmocaixa cafeteria,1,1.0,Negativo
+cost for gluten,1,3.0,Neutro
+costa,1,5.0,Muy Positivo
+costs five euros,1,1.0,Negativo
+precios caros,1,3.0,Neutro
+precisely the reason,1,4.0,Positivo
+preferences,1,5.0,Muy Positivo
+prepare delicious,1,5.0,Muy Positivo
+prepare their coffee,1,5.0,Muy Positivo
+prepared coffee,1,5.0,Muy Positivo
+prepared for covid,1,5.0,Muy Positivo
+prepared quickly,1,5.0,Muy Positivo
+power,1,5.0,Muy Positivo
+practically,1,2.0,Negativo
+prada,1,4.0,Positivo
+prado and botanical,1,5.0,Muy Positivo
+prado and stopped,1,5.0,Muy Positivo
+prado just minutes,1,5.0,Muy Positivo
+prado museum making,1,5.0,Muy Positivo
+prado promenade,1,3.0,Neutro
+priced yummy snacks,1,4.0,Positivo
+prices and terrible,1,1.0,Negativo
+prices are extremely,1,1.0,Negativo
+prices are inexpensive,1,5.0,Muy Positivo
+prices delicious breakfast,1,4.0,Positivo
+prices in line,1,5.0,Muy Positivo
+prices nice decor,1,5.0,Muy Positivo
+prices tend,1,3.0,Neutro
+price and comfort,1,5.0,Muy Positivo
+price friendly,1,5.0,Muy Positivo
+price performance,1,2.0,Negativo
+price range,1,4.0,Positivo
+price the decoration,1,5.0,Muy Positivo
+price they charge,1,2.0,Negativo
+price you expect,1,2.0,Negativo
+priced yummy,1,4.0,Positivo
+prettiest cafes,1,5.0,Muy Positivo
+pretty and caught,1,2.0,Negativo
+pretty busy,1,5.0,Muy Positivo
+pretty paltry,1,1.0,Negativo
+pretty place,1,5.0,Muy Positivo
+pretty setting,1,5.0,Muy Positivo
+previous customer,1,1.0,Negativo
+price a bit,1,4.0,Positivo
+courteous kind,1,5.0,Muy Positivo
+courteous staff,1,4.0,Positivo
+cousin,1,5.0,Muy Positivo
+covers,1,4.0,Positivo
+covid measures,1,5.0,Muy Positivo
+covid times,1,4.0,Positivo
+presented the food,1,5.0,Muy Positivo
+prettiest,1,5.0,Muy Positivo
+cool cushions,1,3.0,Neutro
+cool design,1,5.0,Muy Positivo
+cool simple,1,5.0,Muy Positivo
+cool very nice,1,4.0,Positivo
+correct and friendly,1,5.0,Muy Positivo
+correct and polite,1,4.0,Positivo
+correct central,1,4.0,Positivo
+cortado coffee,1,5.0,Muy Positivo
+cookie good texture,1,3.0,Neutro
+cookies and great,1,5.0,Muy Positivo
+cookies cakes yogurts,1,4.0,Positivo
+cookies with raisins,1,4.0,Positivo
+cooking and patient,1,5.0,Muy Positivo
+cool and wet,1,1.0,Negativo
+cool area,1,1.0,Negativo
+cool caf,1,4.0,Positivo
+products and atmosphere,1,5.0,Muy Positivo
+products and homemade,1,5.0,Muy Positivo
+products and super,1,5.0,Muy Positivo
+products i recommend,1,5.0,Muy Positivo
+continuing,1,5.0,Muy Positivo
+continuing our day,1,5.0,Muy Positivo
+continuing your exploration,1,5.0,Muy Positivo
+cookie good dry,1,3.0,Neutro
+prices two coffees,1,3.0,Neutro
+prices with bathrooms,1,2.0,Negativo
+pricey a beer,1,1.0,Negativo
+pricey but normal,1,4.0,Positivo
+pricey for people,1,4.0,Positivo
+prime,1,3.0,Neutro
+processed,1,5.0,Muy Positivo
+processed food,1,2.0,Negativo
+punishment,1,1.0,Negativo
+put a lot,1,5.0,Muy Positivo
+put it mildly,1,1.0,Negativo
+put the butter,1,3.0,Neutro
+put up plaster,1,3.0,Neutro
+puts,1,5.0,Muy Positivo
+puts love,1,5.0,Muy Positivo
+putting it back,1,1.0,Negativo
+protocols perfectly,1,5.0,Muy Positivo
+provide excellent,1,5.0,Muy Positivo
+provided quick,1,5.0,Muy Positivo
+provided quick service,1,5.0,Muy Positivo
+provided recommendations,1,5.0,Muy Positivo
+provinces,1,4.0,Positivo
+proximity of caixaforum,1,5.0,Muy Positivo
+public,1,1.0,Negativo
+professional staff,1,3.0,Neutro
+promenade,1,3.0,Neutro
+promptly,1,5.0,Muy Positivo
+proper,1,5.0,Muy Positivo
+proportion,1,5.0,Muy Positivo
+proportion of coffee,1,5.0,Muy Positivo
+protein,1,5.0,Muy Positivo
+protein and lighter,1,5.0,Muy Positivo
+cortado just dumped,1,1.0,Negativo
+products they offer,1,1.0,Negativo
+products were excellent,1,5.0,Muy Positivo
+professional and caring,1,5.0,Muy Positivo
+professional and empathetic,1,5.0,Muy Positivo
+professional and showed,1,4.0,Positivo
+professional and super,1,5.0,Muy Positivo
+professional i recommend,1,5.0,Muy Positivo
+contacted the owner,1,5.0,Muy Positivo
+container,1,1.0,Negativo
+contemplating an incredible,1,5.0,Muy Positivo
+continued working,1,1.0,Negativo
+quantities and fast,1,5.0,Muy Positivo
+quantity offered,1,4.0,Positivo
+quantity served,1,4.0,Positivo
+questions,1,4.0,Positivo
+conditioning and comfortable,1,5.0,Muy Positivo
+confirmed,1,5.0,Muy Positivo
+confused,1,1.0,Negativo
+congratulations and delicious,1,5.0,Muy Positivo
+consisting,1,1.0,Negativo
+constantly,1,3.0,Neutro
+constantly hit,1,3.0,Neutro
+constantly opening,1,3.0,Neutro
+con aguacate,1,3.0,Neutro
+con el sabor,1,3.0,Neutro
+con un ambiente,1,3.0,Neutro
+concept,1,1.0,Negativo
+concern and found,1,1.0,Negativo
+concerned,1,4.0,Positivo
+concerned about making,1,4.0,Positivo
+concoction it turned,1,4.0,Positivo
+quaint cafe,1,5.0,Muy Positivo
+quaint spot,1,5.0,Muy Positivo
+quaint staff,1,4.0,Positivo
+quality and portion,1,3.0,Neutro
+quality certainly isn,1,1.0,Negativo
+quality ingredients,1,2.0,Negativo
+quality is average,1,2.0,Negativo
+computer cable,1,1.0,Negativo
+competition,1,1.0,Negativo
+competition for poor,1,1.0,Negativo
+complaint,1,5.0,Muy Positivo
+complaint was caesar,1,5.0,Muy Positivo
+complete,1,5.0,Muy Positivo
+complies,1,5.0,Muy Positivo
+complies with safety,1,5.0,Muy Positivo
+quiet simple,1,5.0,Muy Positivo
+communicate,1,5.0,Muy Positivo
+companions,1,4.0,Positivo
+company,1,5.0,Muy Positivo
+company policy,1,2.0,Negativo
+compared to couples,1,3.0,Neutro
+compared to prices,1,3.0,Neutro
+compassionate,1,4.0,Positivo
+compensated,1,4.0,Positivo
+quiet drink,1,5.0,Muy Positivo
+quiet environment,1,5.0,Muy Positivo
+quiet reasonable,1,5.0,Muy Positivo
+quiet reasonable prices,1,5.0,Muy Positivo
+comfy,1,5.0,Muy Positivo
+coming regularly,1,5.0,Muy Positivo
+common occurrence,1,2.0,Negativo
+common sense,1,1.0,Negativo
+quiche,1,3.0,Neutro
+quick and cheap,1,5.0,Muy Positivo
+quick and successful,1,5.0,Muy Positivo
+quick unique,1,5.0,Muy Positivo
+quick work,1,5.0,Muy Positivo
+quiet and beautiful,1,5.0,Muy Positivo
+quiet and elegant,1,5.0,Muy Positivo
+quiet corner,1,4.0,Positivo
+cold weather,1,4.0,Positivo
+colleague,1,4.0,Positivo
+colleague gloria,1,4.0,Positivo
+collect,1,3.0,Neutro
+collect the service,1,3.0,Neutro
+combination of service,1,5.0,Muy Positivo
+combination was unbelievable,1,5.0,Muy Positivo
+comfort and service,1,5.0,Muy Positivo
+reading the owner,1,1.0,Negativo
+real life,1,5.0,Muy Positivo
+coffees to pasta,1,3.0,Neutro
+coffees very original,1,5.0,Muy Positivo
+coffees weren,1,3.0,Neutro
+cold beer,1,5.0,Muy Positivo
+cold restaurant,1,1.0,Negativo
+cold restaurant drafts,1,1.0,Negativo
+rated higher,1,2.0,Negativo
+rating a caf,1,3.0,Neutro
+rating the coffee,1,3.0,Neutro
+reachable by foot,1,5.0,Muy Positivo
+reached higher,1,3.0,Neutro
+read a book,1,4.0,Positivo
+read and enjoy,1,5.0,Muy Positivo
+read and start,1,4.0,Positivo
+quiet time,1,2.0,Negativo
+quietly and comfortably,1,5.0,Muy Positivo
+quietly with friends,1,5.0,Muy Positivo
+rack,1,5.0,Muy Positivo
+raise,1,3.0,Neutro
+raise the price,1,3.0,Neutro
+raisins and cranberries,1,4.0,Positivo
+range of selection,1,5.0,Muy Positivo
+coffee tasty sandwiches,1,5.0,Muy Positivo
+coffee the focaccia,1,5.0,Muy Positivo
+coffee the rest,1,3.0,Neutro
+coffee they brighten,1,5.0,Muy Positivo
+coffee they serve,1,1.0,Negativo
+coffee to recharge,1,3.0,Neutro
+coffee tourist prices,1,5.0,Muy Positivo
+coffee were sublime,1,5.0,Muy Positivo
+recommend just ordering,1,3.0,Neutro
+recommend stopping,1,5.0,Muy Positivo
+recommend the chocolate,1,5.0,Muy Positivo
+recommend the energetico,1,1.0,Negativo
+recommend the oatmeal,1,5.0,Muy Positivo
+recommend the viennese,1,5.0,Muy Positivo
+recommend their chai,1,5.0,Muy Positivo
+coffee so strong,1,5.0,Muy Positivo
+realized,1,5.0,Muy Positivo
+received bitter orange,1,2.0,Negativo
+received excellent service,1,5.0,Muy Positivo
+recent brunch,1,3.0,Neutro
+recently ate,1,5.0,Muy Positivo
+recharge after hours,1,3.0,Neutro
+recoletos madrid,1,4.0,Positivo
+recommend a drink,1,5.0,Muy Positivo
+comfortable atmosphere,1,5.0,Muy Positivo
+comfortable environment,1,4.0,Positivo
+comfortable furniture,1,4.0,Positivo
+comfortable good treatment,1,5.0,Muy Positivo
+comfortable just steps,1,5.0,Muy Positivo
+comfortable the cake,1,3.0,Neutro
+comfortable wicker,1,4.0,Positivo
+reality,1,1.0,Negativo
+regenerating smoothie,1,5.0,Muy Positivo
+regenerative grijander,1,5.0,Muy Positivo
+coffee couldn,1,5.0,Muy Positivo
+coffee feeling,1,4.0,Positivo
+coffee good views,1,5.0,Muy Positivo
+coffee in town,1,5.0,Muy Positivo
+coffee is divine,1,5.0,Muy Positivo
+coffee is exorbitant,1,1.0,Negativo
+recommended us excellent,1,5.0,Muy Positivo
+recommended we didn,1,1.0,Negativo
+recoup after lots,1,5.0,Muy Positivo
+recover your energy,1,5.0,Muy Positivo
+red velvet,1,5.0,Muy Positivo
+reeeal good,1,4.0,Positivo
+reflecting the excellent,1,5.0,Muy Positivo
+refrigerator,1,1.0,Negativo
+recommend this charming,1,5.0,Muy Positivo
+recommend this restaurant,1,5.0,Muy Positivo
+recommendation was exquisite,1,5.0,Muy Positivo
+recommendations and food,1,5.0,Muy Positivo
+recommended a mozzarella,1,5.0,Muy Positivo
+recommended by hugo,1,5.0,Muy Positivo
+recommended for spending,1,5.0,Muy Positivo
+recommended prices,1,5.0,Muy Positivo
+coffee while admiring,1,5.0,Muy Positivo
+coffee with baileys,1,1.0,Negativo
+coffee with gluten,1,5.0,Muy Positivo
+coffees a bit,1,5.0,Muy Positivo
+coffees and milkshakes,1,4.0,Positivo
+coffees can reach,1,2.0,Negativo
+coffees the downside,1,4.0,Positivo
+coffees they told,1,1.0,Negativo
+relaxing breakfast,1,5.0,Muy Positivo
+relaxing with coffee,1,4.0,Positivo
+remember,1,5.0,Muy Positivo
+remember your order,1,5.0,Muy Positivo
+remembered our specific,1,5.0,Muy Positivo
+remove,1,4.0,Positivo
+reopened,1,5.0,Muy Positivo
+reported,1,1.0,Negativo
+reheated tortilla,1,1.0,Negativo
+relaci,1,3.0,Neutro
+relaci n con,1,3.0,Neutro
+relajados y con,1,3.0,Neutro
+relax after work,1,5.0,Muy Positivo
+relax and charge,1,5.0,Muy Positivo
+relaxed yet chic,1,5.0,Muy Positivo
+relaxing background,1,5.0,Muy Positivo
+coffee sheltered,1,5.0,Muy Positivo
+coffee shop master,1,5.0,Muy Positivo
+regret coming,1,5.0,Muy Positivo
+regular cookie,1,5.0,Muy Positivo
+regular place,1,5.0,Muy Positivo
+regular sized,1,1.0,Negativo
+regulars,1,5.0,Muy Positivo
+regulations,1,5.0,Muy Positivo
+coffee is top,1,5.0,Muy Positivo
+coffee mid,1,5.0,Muy Positivo
+coffee never disappointed,1,5.0,Muy Positivo
+coffee nice facilities,1,5.0,Muy Positivo
+coffee open,1,5.0,Muy Positivo
+coffee or low,1,1.0,Negativo
+coffee perfect,1,5.0,Muy Positivo
+coffee read,1,4.0,Positivo
+coffe in madrid,1,5.0,Muy Positivo
+coffee a green,1,1.0,Negativo
+coffee and latte,1,5.0,Muy Positivo
+coffee and professional,1,5.0,Muy Positivo
+coffee and suddenly,1,1.0,Negativo
+coffee and working,1,5.0,Muy Positivo
+coffee and yesterday,1,5.0,Muy Positivo
+coffee are splendid,1,5.0,Muy Positivo
+rest area,1,3.0,Neutro
+rest didn,1,1.0,Negativo
+restaurant drafts,1,1.0,Negativo
+restaurant is spectacular,1,4.0,Positivo
+cloth,1,1.0,Negativo
+cloying,1,3.0,Neutro
+coca,1,1.0,Negativo
+cocktail,1,5.0,Muy Positivo
+respond telling,1,1.0,Negativo
+responds dismissively,1,1.0,Negativo
+response hahahaha,1,1.0,Negativo
+response is rude,1,1.0,Negativo
+response or apology,1,1.0,Negativo
+response was vague,1,4.0,Positivo
+rest and eat,1,5.0,Muy Positivo
+rest and recharge,1,5.0,Muy Positivo
+reported the excessive,1,1.0,Negativo
+reports,1,1.0,Negativo
+reproached,1,1.0,Negativo
+request,1,5.0,Muy Positivo
+reservation,1,2.0,Negativo
+respect and blah,1,1.0,Negativo
+respect the ordering,1,3.0,Neutro
+respected,1,5.0,Muy Positivo
+ripe,1,1.0,Negativo
+ripe and bland,1,1.0,Negativo
+roiboos,1,5.0,Muy Positivo
+roiboos before entering,1,5.0,Muy Positivo
+roll,1,5.0,Muy Positivo
+roncero,1,1.0,Negativo
+roncero s sandwich,1,1.0,Negativo
+rooibos tea,1,4.0,Positivo
+rich and agile,1,4.0,Positivo
+rich and pleasant,1,5.0,Muy Positivo
+rich and varied,1,5.0,Muy Positivo
+rich cake,1,4.0,Positivo
+rich well executed,1,5.0,Muy Positivo
+ridiculous,1,2.0,Negativo
+ridiculous in size,1,1.0,Negativo
+ridiculously,1,3.0,Neutro
+restorative drink,1,4.0,Positivo
+resulta un lugar,1,3.0,Neutro
+return another day,1,3.0,Neutro
+return our greeting,1,4.0,Positivo
+return the staff,1,1.0,Negativo
+return with friends,1,5.0,Muy Positivo
+review i apologize,1,1.0,Negativo
+reviews we decided,1,3.0,Neutro
+coffee as long,1,5.0,Muy Positivo
+coffee bar,1,5.0,Muy Positivo
+coffee beautiful waitresses,1,5.0,Muy Positivo
+coffee churros,1,5.0,Muy Positivo
+restaurant online,1,5.0,Muy Positivo
+restaurant several times,1,1.0,Negativo
+restaurant we received,1,5.0,Muy Positivo
+restaurants even nowadays,1,5.0,Muy Positivo
+clean well attended,1,4.0,Positivo
+cleaned it wouldn,1,2.0,Negativo
+cleared,1,4.0,Positivo
+clearing more tables,1,1.0,Negativo
+clearing my plate,1,3.0,Neutro
+clever,1,5.0,Muy Positivo
+clever waitresses,1,5.0,Muy Positivo
+climate,1,5.0,Muy Positivo
+clarification after reading,1,1.0,Negativo
+classic breakfast coffee,1,4.0,Positivo
+clean and glad,1,5.0,Muy Positivo
+clean bathrooms,1,4.0,Positivo
+clean bright,1,4.0,Positivo
+clean including,1,5.0,Muy Positivo
+clean it smells,1,5.0,Muy Positivo
+clean the coffee,1,5.0,Muy Positivo
+rude and poor,1,1.0,Negativo
+rude and wouldn,1,2.0,Negativo
+rude bar,1,1.0,Negativo
+rude girl,1,1.0,Negativo
+rude just treated,1,1.0,Negativo
+rude manner,1,1.0,Negativo
+rudely and inappropriately,1,5.0,Muy Positivo
+clarification,1,1.0,Negativo
+room for improvement,1,2.0,Negativo
+room temperature,1,4.0,Positivo
+roquefort cheese,1,3.0,Neutro
+round,1,5.0,Muy Positivo
+route,1,4.0,Positivo
+route to sit,1,4.0,Positivo
+royal botanical,1,4.0,Positivo
+rubber,1,2.0,Negativo
+chill vibe,1,5.0,Muy Positivo
+chinese,1,1.0,Negativo
+chinese girl,1,1.0,Negativo
+chocolate and pistachio,1,4.0,Positivo
+chocolate donuts,1,3.0,Neutro
+chocolate shake,1,3.0,Neutro
+chopped cheese,1,5.0,Muy Positivo
+christmas and good,1,5.0,Muy Positivo
+sabor,1,3.0,Neutro
+sad my night,1,5.0,Muy Positivo
+saddest toast,1,1.0,Negativo
+salad and carrot,1,4.0,Positivo
+salmon foccacha,1,5.0,Muy Positivo
+salmon sandwich,1,5.0,Muy Positivo
+sandra and gloria,1,5.0,Muy Positivo
+chill atmosphere,1,5.0,Muy Positivo
+rum vertical,1,4.0,Positivo
+rum vertical garden,1,4.0,Positivo
+run down dirty,1,2.0,Negativo
+run the cafe,1,5.0,Muy Positivo
+running a business,1,1.0,Negativo
+rushed,1,2.0,Negativo
+rushed zero chance,1,2.0,Negativo
+rustic,1,4.0,Positivo
+climate and quality,1,5.0,Muy Positivo
+close to caixabank,1,4.0,Positivo
+close to puerta,1,4.0,Positivo
+rudely started,1,1.0,Negativo
+rudely told,1,1.0,Negativo
+rule of making,1,4.0,Positivo
+rum and amaretto,1,5.0,Muy Positivo
+rum square,1,3.0,Neutro
+satisfied customer,1,5.0,Muy Positivo
+satisfied good,1,5.0,Muy Positivo
+satisfied good portions,1,5.0,Muy Positivo
+saturday calmly,1,4.0,Positivo
+sauce,1,1.0,Negativo
+sausage,1,1.0,Negativo
+saut,1,1.0,Negativo
+savory dishes,1,4.0,Positivo
+sandwiches and reeeal,1,4.0,Positivo
+sandwiches cheerful,1,4.0,Positivo
+sandwiches coming,1,4.0,Positivo
+sandwiches one manchego,1,5.0,Muy Positivo
+santander,1,5.0,Muy Positivo
+sat,1,1.0,Negativo
+satisfactory,1,5.0,Muy Positivo
+satisfactory service,1,5.0,Muy Positivo
+sandwich cappuccino,1,5.0,Muy Positivo
+sandwich is hot,1,5.0,Muy Positivo
+sandwich is top,1,5.0,Muy Positivo
+sandwich it looked,1,5.0,Muy Positivo
+sandwich to put,1,1.0,Negativo
+sandwich with quality,1,3.0,Neutro
+sandwiches and espresso,1,5.0,Muy Positivo
+sandwiches and oatmeal,1,5.0,Muy Positivo
+chunky the frozen,1,1.0,Negativo
+churros were terrible,1,2.0,Negativo
+cibeles,1,5.0,Muy Positivo
+cibeles salad,1,5.0,Muy Positivo
+circadian rhythms,1,3.0,Neutro
+claimed,1,2.0,Negativo
+sandra kami,1,5.0,Muy Positivo
+sandwich and pineapple,1,5.0,Muy Positivo
+semester,1,5.0,Muy Positivo
+sense to package,1,1.0,Negativo
+separate,1,5.0,Muy Positivo
+separated the foam,1,3.0,Neutro
+sergio,1,5.0,Muy Positivo
+sergio is fast,1,5.0,Muy Positivo
+serrano ham tostadas,1,5.0,Muy Positivo
+serve and clean,1,5.0,Muy Positivo
+selection is limited,1,5.0,Muy Positivo
+selection of delicious,1,5.0,Muy Positivo
+selection of pastries,1,5.0,Muy Positivo
+selection of sweets,1,5.0,Muy Positivo
+selection they offer,1,5.0,Muy Positivo
+sell,1,2.0,Negativo
+sell gluten,1,3.0,Neutro
+sell toast,1,2.0,Negativo
+seats is unbelievable,1,5.0,Muy Positivo
+security,1,5.0,Muy Positivo
+security point,1,5.0,Muy Positivo
+seeds,1,5.0,Muy Positivo
+select,1,5.0,Muy Positivo
+select coffee,1,5.0,Muy Positivo
+selection a nice,1,5.0,Muy Positivo
+selection and quality,1,5.0,Muy Positivo
+scarce,1,1.0,Negativo
+school,1,5.0,Muy Positivo
+scolding for touching,1,1.0,Negativo
+score,1,1.0,Negativo
+scrambled,1,3.0,Neutro
+scrambled eggs,1,3.0,Neutro
+searched on maps,1,3.0,Neutro
+seat and order,1,3.0,Neutro
+cheerful people,1,5.0,Muy Positivo
+cheerful when serving,1,5.0,Muy Positivo
+cheese and honey,1,3.0,Neutro
+cheese nothing processed,1,5.0,Muy Positivo
+cheesecake with fresh,1,4.0,Positivo
+serve you kindly,1,5.0,Muy Positivo
+served a minute,1,1.0,Negativo
+served but expensive,1,4.0,Positivo
+charming very central,1,4.0,Positivo
+chat quietly,1,4.0,Positivo
+chat with friends,1,5.0,Muy Positivo
+chatting for hours,1,4.0,Positivo
+cheaper,1,4.0,Positivo
+cheapest options,1,3.0,Neutro
+check out retiro,1,5.0,Muy Positivo
+cheerful atmosphere,1,5.0,Muy Positivo
+serve plus orange,1,4.0,Positivo
+serve soda,1,5.0,Muy Positivo
+serve sweet,1,5.0,Muy Positivo
+charming quiet,1,4.0,Positivo
+charming quiet place,1,4.0,Positivo
+charming small place,1,5.0,Muy Positivo
+charming spot,1,4.0,Positivo
+charming the service,1,5.0,Muy Positivo
+serve any manners,1,1.0,Negativo
+serve exceptional,1,5.0,Muy Positivo
+serve hot,1,5.0,Muy Positivo
+serve in bars,1,5.0,Muy Positivo
+serve in chairs,1,1.0,Negativo
+serve is barely,1,1.0,Negativo
+serve orders,1,3.0,Neutro
+serve orders fruit,1,3.0,Neutro
+charge for soy,1,2.0,Negativo
+charge is ridiculous,1,2.0,Negativo
+charge those prices,1,2.0,Negativo
+charger,1,5.0,Muy Positivo
+charm no good,1,1.0,Negativo
+charm of madrid,1,5.0,Muy Positivo
+charming and instagrammable,1,5.0,Muy Positivo
+charming and super,1,5.0,Muy Positivo
+chambery cozy,1,5.0,Muy Positivo
+champion s breakfast,1,5.0,Muy Positivo
+chance does things,1,5.0,Muy Positivo
+chance of ordering,1,2.0,Negativo
+change the closing,1,1.0,Negativo
+changed the top,1,1.0,Negativo
+changed this policy,1,3.0,Neutro
+changing our tea,1,3.0,Neutro
+service a rude,1,1.0,Negativo
+service acceptable food,1,2.0,Negativo
+service access,1,3.0,Neutro
+service and casual,1,5.0,Muy Positivo
+service and felt,1,5.0,Muy Positivo
+service and fresh,1,4.0,Positivo
+service and prepare,1,5.0,Muy Positivo
+chambery,1,5.0,Muy Positivo
+served me instant,1,2.0,Negativo
+served us greeted,1,5.0,Muy Positivo
+served us incredibly,1,5.0,Muy Positivo
+served us today,1,4.0,Positivo
+served with great,1,5.0,Muy Positivo
+servers named,1,5.0,Muy Positivo
+servers named gloria,1,5.0,Muy Positivo
+serves you promptly,1,5.0,Muy Positivo
+catch a train,1,5.0,Muy Positivo
+catches your eye,1,3.0,Neutro
+caught,1,2.0,Negativo
+caught my attention,1,2.0,Negativo
+caught my eye,1,5.0,Muy Positivo
+cease to surprise,1,3.0,Neutro
+ceiling,1,3.0,Neutro
+celebrate,1,5.0,Muy Positivo
+service location price,1,5.0,Muy Positivo
+service make,1,5.0,Muy Positivo
+service meets,1,4.0,Positivo
+service meets expectations,1,4.0,Positivo
+service on days,1,5.0,Muy Positivo
+castelo,1,5.0,Muy Positivo
+castelo north,1,5.0,Muy Positivo
+casual place,1,5.0,Muy Positivo
+service great view,1,5.0,Muy Positivo
+service is nonexistent,1,1.0,Negativo
+service is professional,1,4.0,Positivo
+service is prompt,1,5.0,Muy Positivo
+service is rushed,1,2.0,Negativo
+service is tolerable,1,1.0,Negativo
+service is unmatched,1,5.0,Muy Positivo
+service left,1,1.0,Negativo
+charming cafeteria,1,4.0,Positivo
+charming lady made,1,5.0,Muy Positivo
+charming little caf,1,5.0,Muy Positivo
+service and space,1,3.0,Neutro
+service and speed,1,5.0,Muy Positivo
+service at market,1,5.0,Muy Positivo
+service climate,1,5.0,Muy Positivo
+service from john,1,5.0,Muy Positivo
+seville a large,1,1.0,Negativo
+shabby,1,1.0,Negativo
+shakes good desserts,1,4.0,Positivo
+shame of spain,1,2.0,Negativo
+shame the place,1,4.0,Positivo
+shame there isn,1,5.0,Muy Positivo
+shame they make,1,4.0,Positivo
+share knowledge,1,5.0,Muy Positivo
+service was quick,1,5.0,Muy Positivo
+service wasn,1,1.0,Negativo
+service yummy,1,5.0,Muy Positivo
+services and classic,1,4.0,Positivo
+serving good products,1,5.0,Muy Positivo
+set hours,1,1.0,Negativo
+set menus,1,5.0,Muy Positivo
+setting was nice,1,5.0,Muy Positivo
+service only matched,1,5.0,Muy Positivo
+service plus sitting,1,5.0,Muy Positivo
+service relaxed,1,5.0,Muy Positivo
+service so perfect,1,5.0,Muy Positivo
+service the good,1,5.0,Muy Positivo
+service the views,1,5.0,Muy Positivo
+service they give,1,5.0,Muy Positivo
+service very happy,1,5.0,Muy Positivo
+celebrate several birthday,1,5.0,Muy Positivo
+central spot,1,4.0,Positivo
+centrally located space,1,5.0,Muy Positivo
+cereal,1,3.0,Neutro
+cesar,1,4.0,Positivo
+cesar salad,1,4.0,Positivo
+chain lacking authenticity,1,3.0,Neutro
+chair my pants,1,5.0,Muy Positivo
+caroline is absolutely,1,5.0,Muy Positivo
+caros,1,3.0,Neutro
+carrot and pumpkin,1,5.0,Muy Positivo
+carry,1,5.0,Muy Positivo
+carta of deserts,1,5.0,Muy Positivo
+casas exhibition,1,4.0,Positivo
+case i recommend,1,5.0,Muy Positivo
+case they cleared,1,4.0,Positivo
+capsule isolated,1,5.0,Muy Positivo
+carbonara,1,2.0,Negativo
+card,1,1.0,Negativo
+care and served,1,5.0,Muy Positivo
+care they put,1,5.0,Muy Positivo
+careful to remove,1,4.0,Positivo
+caring,1,5.0,Muy Positivo
+caring staff,1,5.0,Muy Positivo
+short an orange,1,2.0,Negativo
+shortest,1,5.0,Muy Positivo
+shot of burnt,1,1.0,Negativo
+shot seems steep,1,1.0,Negativo
+showed,1,5.0,Muy Positivo
+showed great,1,4.0,Positivo
+showed great human,1,4.0,Positivo
+capsule,1,5.0,Muy Positivo
+sheltered,1,5.0,Muy Positivo
+shocking attitude,1,1.0,Negativo
+shop assistant,1,5.0,Muy Positivo
+shop i ate,1,5.0,Muy Positivo
+shop master taiwanese,1,5.0,Muy Positivo
+shops,1,5.0,Muy Positivo
+shops in madrid,1,5.0,Muy Positivo
+short,1,2.0,Negativo
+size they serve,1,3.0,Neutro
+size with healthy,1,5.0,Muy Positivo
+sizes of takeaway,1,4.0,Positivo
+skim,1,5.0,Muy Positivo
+skim milk,1,5.0,Muy Positivo
+slam,1,4.0,Positivo
+slam the door,1,4.0,Positivo
+slammed,1,1.0,Negativo
+sip and felt,1,1.0,Negativo
+sipped it slowly,1,5.0,Muy Positivo
+sit and recharge,1,4.0,Positivo
+site personally overseeing,1,5.0,Muy Positivo
+sitting at small,1,3.0,Neutro
+situation,1,1.0,Negativo
+size and content,1,1.0,Negativo
+size and rich,1,5.0,Muy Positivo
+simple request,1,5.0,Muy Positivo
+simply loved,1,5.0,Muy Positivo
+simply wonderful,1,5.0,Muy Positivo
+sing happy,1,5.0,Muy Positivo
+sing happy birthday,1,5.0,Muy Positivo
+single,1,5.0,Muy Positivo
+single time,1,5.0,Muy Positivo
+sip,1,1.0,Negativo
+cashier,1,5.0,Muy Positivo
+sick,1,1.0,Negativo
+side although expected,1,4.0,Positivo
+sides the prado,1,4.0,Positivo
+sights namely parque,1,5.0,Muy Positivo
+signs,1,1.0,Negativo
+simple atmosphere,1,4.0,Positivo
+simple piece,1,1.0,Negativo
+cappuccino the chocolate,1,5.0,Muy Positivo
+cappuchinos are fantastico,1,5.0,Muy Positivo
+caprese salad,1,1.0,Negativo
+caprese were hard,1,2.0,Negativo
+small almost hidden,1,4.0,Positivo
+small and crowded,1,2.0,Negativo
+small and dirty,1,2.0,Negativo
+small breakfast,1,5.0,Muy Positivo
+candle but waited,1,5.0,Muy Positivo
+cao with skim,1,5.0,Muy Positivo
+capers,1,4.0,Positivo
+cappuccino and cookies,1,5.0,Muy Positivo
+cappuccino and lemon,1,5.0,Muy Positivo
+cappuccino and omelets,1,5.0,Muy Positivo
+cappuccino and pastries,1,5.0,Muy Positivo
+cappuccino in madrid,1,5.0,Muy Positivo
+calling rudely asked,1,2.0,Negativo
+calm music,1,5.0,Muy Positivo
+calm vision,1,5.0,Muy Positivo
+calmly among cultural,1,4.0,Positivo
+camela and amanda,1,5.0,Muy Positivo
+canary,1,5.0,Muy Positivo
+canary islands,1,5.0,Muy Positivo
+candle,1,5.0,Muy Positivo
+slice they serve,1,2.0,Negativo
+sliced bread,1,4.0,Positivo
+slices are delicious,1,3.0,Neutro
+slices of bimbo,1,2.0,Negativo
+slices of pepperoni,1,1.0,Negativo
+slow and difficult,1,3.0,Neutro
+slow and low,1,2.0,Negativo
+called,1,5.0,Muy Positivo
+cakes are simply,1,5.0,Muy Positivo
+cakes are super,1,5.0,Muy Positivo
+cakes are terrible,1,1.0,Negativo
+cakes didn,1,3.0,Neutro
+cakes every time,1,5.0,Muy Positivo
+cakes excellent espresso,1,5.0,Muy Positivo
+cakes fantastic service,1,4.0,Positivo
+cakes with tomato,1,5.0,Muy Positivo
+cake soup sandwich,1,5.0,Muy Positivo
+cake the waiter,1,5.0,Muy Positivo
+cake was delicate,1,5.0,Muy Positivo
+cake was exquisite,1,2.0,Negativo
+cake was light,1,5.0,Muy Positivo
+cake with red,1,5.0,Muy Positivo
+cakes a charming,1,5.0,Muy Positivo
+cakes and music,1,5.0,Muy Positivo
+small it barely,1,3.0,Neutro
+small orange,1,2.0,Negativo
+small piece,1,1.0,Negativo
+smallest,1,2.0,Negativo
+smallest amount,1,2.0,Negativo
+cake i stopped,1,5.0,Muy Positivo
+cake is pretty,1,5.0,Muy Positivo
+cake rack,1,5.0,Muy Positivo
+small busy,1,5.0,Muy Positivo
+small but cosy,1,5.0,Muy Positivo
+small compared,1,4.0,Positivo
+small cramped place,1,2.0,Negativo
+small details,1,5.0,Muy Positivo
+small establishment,1,5.0,Muy Positivo
+small european,1,5.0,Muy Positivo
+small ice,1,1.0,Negativo
+snacks are delicious,1,5.0,Muy Positivo
+snacks decent sandwiches,1,4.0,Positivo
+snappy,1,1.0,Negativo
+soda with ice,1,5.0,Muy Positivo
+soemthng,1,5.0,Muy Positivo
+soemthng sweet,1,5.0,Muy Positivo
+soemthng sweet coffee,1,5.0,Muy Positivo
+sof a museum,1,5.0,Muy Positivo
+smoothie the antioxidante,1,2.0,Negativo
+smoothie thick,1,5.0,Muy Positivo
+smoothie were freshly,1,5.0,Muy Positivo
+smoothie with frozen,1,3.0,Neutro
+smoothies were terrible,1,1.0,Negativo
+snack a coffee,1,5.0,Muy Positivo
+snack the cakes,1,3.0,Neutro
+snack with friends,1,5.0,Muy Positivo
+smile and kindly,1,5.0,Muy Positivo
+smile and made,1,5.0,Muy Positivo
+smile that brightened,1,5.0,Muy Positivo
+smiles and top,1,5.0,Muy Positivo
+smiling and preparing,1,5.0,Muy Positivo
+smoothie a brownie,1,5.0,Muy Positivo
+smoothie a coffee,1,5.0,Muy Positivo
+smoothie an iced,1,5.0,Muy Positivo
+calabaza cake,1,5.0,Muy Positivo
+calculate the quantity,1,2.0,Negativo
+call many regulars,1,5.0,Muy Positivo
+call their landline,1,1.0,Negativo
+smashed,1,3.0,Neutro
+smashed and soggy,1,3.0,Neutro
+smell we left,1,2.0,Negativo
+smile and extreme,1,5.0,Muy Positivo
+caixa forun,1,5.0,Muy Positivo
+caixaforum and reina,1,5.0,Muy Positivo
+caixaforum building,1,5.0,Muy Positivo
+caixaforum vertical,1,4.0,Positivo
+cake and toast,1,5.0,Muy Positivo
+cake but heavy,1,4.0,Positivo
+space is beautiful,1,5.0,Muy Positivo
+space it doesn,1,3.0,Neutro
+cafeteria has views,1,5.0,Muy Positivo
+cafeteria near sol,1,3.0,Neutro
+cafeteria next door,1,1.0,Negativo
+cafeteria staff,1,4.0,Positivo
+cafeteria the coffee,1,3.0,Neutro
+cafeteria the girls,1,5.0,Muy Positivo
+cafeteria they reproached,1,1.0,Negativo
+cafeteria wasn,1,4.0,Positivo
+son showed,1,5.0,Muy Positivo
+songs,1,4.0,Positivo
+sophia,1,5.0,Muy Positivo
+sophia museums,1,5.0,Muy Positivo
+soul,1,4.0,Positivo
+sour notes,1,4.0,Positivo
+cafe was clean,1,4.0,Positivo
+cafe well located,1,3.0,Neutro
+sofia,1,4.0,Positivo
+sofia museums,1,5.0,Muy Positivo
+soft drink,1,3.0,Neutro
+soft lighting relaxing,1,4.0,Positivo
+sold,1,3.0,Neutro
+sold takeaway,1,1.0,Negativo
+solely,1,3.0,Neutro
+solely rating,1,3.0,Neutro
+caf wide,1,5.0,Muy Positivo
+caf wide smiles,1,5.0,Muy Positivo
+caf with views,1,4.0,Positivo
+cafe doesn,1,3.0,Neutro
+cafe for tourists,1,1.0,Negativo
+cafe ideal,1,5.0,Muy Positivo
+cafe nothing special,1,3.0,Neutro
+cafe offers,1,5.0,Muy Positivo
+special shout,1,5.0,Muy Positivo
+butter too close,1,3.0,Neutro
+caf a pleasant,1,5.0,Muy Positivo
+caf filled,1,5.0,Muy Positivo
+caf in madrid,1,5.0,Muy Positivo
+caf no estaba,1,3.0,Neutro
+caf restaurant online,1,5.0,Muy Positivo
+caf we ventured,1,4.0,Positivo
+spanish wasn,1,5.0,Muy Positivo
+speakers,1,5.0,Muy Positivo
+speaking,1,1.0,Negativo
+speaking badly,1,1.0,Negativo
+speaks louder,1,5.0,Muy Positivo
+special and centrally,1,5.0,Muy Positivo
+special and helpful,1,5.0,Muy Positivo
+special love,1,5.0,Muy Positivo
+space we reported,1,1.0,Negativo
+space with disproportionate,1,2.0,Negativo
+spaces and high,1,2.0,Negativo
+spaghetti is overcooked,1,2.0,Negativo
+spain hate,1,2.0,Negativo
+spain ordering,1,4.0,Positivo
+spanish the staff,1,5.0,Muy Positivo
+spanish tostas,1,5.0,Muy Positivo
+spot to recharge,1,5.0,Muy Positivo
+spot to stop,1,5.0,Muy Positivo
+spotify,1,5.0,Muy Positivo
+spotify el patio,1,5.0,Muy Positivo
+spotless,1,5.0,Muy Positivo
+spread on half,1,1.0,Negativo
+springy and rustic,1,4.0,Positivo
+square,1,3.0,Neutro
+spoken,1,5.0,Muy Positivo
+sponge cake cost,1,1.0,Negativo
+spot in sol,1,5.0,Muy Positivo
+spot of town,1,4.0,Positivo
+spot only made,1,5.0,Muy Positivo
+spot opposite,1,5.0,Muy Positivo
+spot ps happy,1,5.0,Muy Positivo
+spot to drop,1,4.0,Positivo
+spend a nice,1,2.0,Negativo
+spend a relaxing,1,5.0,Muy Positivo
+spend a sunday,1,5.0,Muy Positivo
+spend time,1,5.0,Muy Positivo
+spent a couple,1,5.0,Muy Positivo
+spirits,1,5.0,Muy Positivo
+spoiled leaves,1,5.0,Muy Positivo
+spoke great,1,5.0,Muy Positivo
+cafe opposite,1,5.0,Muy Positivo
+cafe relax music,1,5.0,Muy Positivo
+cafe to return,1,5.0,Muy Positivo
+specialty shop,1,3.0,Neutro
+specifically,1,5.0,Muy Positivo
+spectacular artisan croissants,1,5.0,Muy Positivo
+spectacular view,1,5.0,Muy Positivo
+speed,1,5.0,Muy Positivo
+business who personally,1,5.0,Muy Positivo
+business would lose,1,1.0,Negativo
+bustle of paseo,1,5.0,Muy Positivo
+busy shop,1,5.0,Muy Positivo
+busy street,1,4.0,Positivo
+butter a yogurt,1,5.0,Muy Positivo
+staff fast cooking,1,5.0,Muy Positivo
+staff gloria,1,5.0,Muy Positivo
+bubbles was delicious,1,4.0,Positivo
+budge,1,1.0,Negativo
+building,1,5.0,Muy Positivo
+burnt and watered,1,2.0,Negativo
+burnt wood,1,1.0,Negativo
+business hours,1,2.0,Negativo
+business responds,1,1.0,Negativo
+business responds dismissively,1,1.0,Negativo
+staff cute interior,1,5.0,Muy Positivo
+brought me piping,1,5.0,Muy Positivo
+brownies and donuts,1,5.0,Muy Positivo
+brunch and coffee,1,5.0,Muy Positivo
+brunch in madrid,1,5.0,Muy Positivo
+brunch or snacks,1,5.0,Muy Positivo
+brunch they added,1,3.0,Neutro
+brunch with friends,1,5.0,Muy Positivo
+square next door,1,3.0,Neutro
+staff a special,1,5.0,Muy Positivo
+staff and affordable,1,4.0,Positivo
+staff and cool,1,5.0,Muy Positivo
+staff and phenomenal,1,5.0,Muy Positivo
+staff and total,1,5.0,Muy Positivo
+staff are expressively,1,2.0,Negativo
+staff came sing,1,5.0,Muy Positivo
+breakfast with beautiful,1,4.0,Positivo
+breakfast with friends,1,5.0,Muy Positivo
+breakfast with ham,1,5.0,Muy Positivo
+breakfasts of bread,1,2.0,Negativo
+brie toast,1,5.0,Muy Positivo
+bright space,1,5.0,Muy Positivo
+bright welcoming,1,5.0,Muy Positivo
+brightened,1,5.0,Muy Positivo
+standards,1,1.0,Negativo
+standards of madrid,1,1.0,Negativo
+standards staff,1,3.0,Neutro
+breakfast tasted,1,5.0,Muy Positivo
+breakfast the waiters,1,4.0,Positivo
+breakfast three days,1,5.0,Muy Positivo
+breakfast we stumbled,1,5.0,Muy Positivo
+breakfast website,1,3.0,Neutro
+staff spoke english,1,5.0,Muy Positivo
+staff the delicious,1,5.0,Muy Positivo
+staff the vertical,1,5.0,Muy Positivo
+staff unhelpful,1,1.0,Negativo
+staff wasn,1,3.0,Neutro
+staff we chose,1,5.0,Muy Positivo
+standard,1,4.0,Positivo
+standard ham,1,3.0,Neutro
+staff highly,1,5.0,Muy Positivo
+staff is simply,1,5.0,Muy Positivo
+staff it doesn,1,3.0,Neutro
+staff leaves,1,1.0,Negativo
+staff member,1,5.0,Muy Positivo
+staff s attention,1,4.0,Positivo
+staff s attitude,1,1.0,Negativo
+staff spoke,1,5.0,Muy Positivo
+stay nearby,1,5.0,Muy Positivo
+stay whether studying,1,5.0,Muy Positivo
+stayed chatting,1,4.0,Positivo
+stayed here catching,1,5.0,Muy Positivo
+stayed in madrid,1,5.0,Muy Positivo
+stayed over night,1,4.0,Positivo
+staying,1,5.0,Muy Positivo
+stingy,1,1.0,Negativo
+started the coffee,1,2.0,Negativo
+starts treating,1,1.0,Negativo
+stated,1,3.0,Neutro
+station a charming,1,5.0,Muy Positivo
+station and overlooking,1,5.0,Muy Positivo
+station in case,1,4.0,Positivo
+station we stopped,1,5.0,Muy Positivo
+stay and work,1,5.0,Muy Positivo
+stars was due,1,4.0,Positivo
+stars without hesitation,1,5.0,Muy Positivo
+start up quietly,1,5.0,Muy Positivo
+start was excellent,1,5.0,Muy Positivo
+start your saturday,1,4.0,Positivo
+started and loved,1,5.0,Muy Positivo
+started counting,1,1.0,Negativo
+started kicking,1,1.0,Negativo
+brightened my morning,1,5.0,Muy Positivo
+brilliant,1,4.0,Positivo
+bring a personalised,1,5.0,Muy Positivo
+bring the coffees,1,3.0,Neutro
+stands,1,5.0,Muy Positivo
+star experience,1,5.0,Muy Positivo
+star service,1,5.0,Muy Positivo
+stars the coffee,1,2.0,Negativo
+breakfast and authentic,1,5.0,Muy Positivo
+breakfast and cheerful,1,5.0,Muy Positivo
+breakfast and decided,1,1.0,Negativo
+breakfast and enjoy,1,5.0,Muy Positivo
+breakfast and left,1,5.0,Muy Positivo
+breakfast august,1,1.0,Negativo
+breakfast before museums,1,5.0,Muy Positivo
+breakfast clean,1,4.0,Positivo
+strategically close,1,5.0,Muy Positivo
+strategically located,1,5.0,Muy Positivo
+breafast,1,4.0,Positivo
+break and enjoy,1,5.0,Muy Positivo
+break to recharge,1,5.0,Muy Positivo
+breakfast a slice,1,5.0,Muy Positivo
+breakfast after lunch,1,5.0,Muy Positivo
+breakfast also including,1,5.0,Muy Positivo
+stop when visiting,1,5.0,Muy Positivo
+stopover,1,5.0,Muy Positivo
+stopping near atocha,1,5.0,Muy Positivo
+stopping off point,1,5.0,Muy Positivo
+store,1,1.0,Negativo
+storm,1,5.0,Muy Positivo
+stove,1,3.0,Neutro
+straight,1,1.0,Negativo
+stomach,1,2.0,Negativo
+stomach problems,1,2.0,Negativo
+stop and recharge,1,4.0,Positivo
+stop at patio,1,5.0,Muy Positivo
+stop before heading,1,5.0,Muy Positivo
+stop during exploring,1,5.0,Muy Positivo
+stop for late,1,5.0,Muy Positivo
+stop for tourists,1,3.0,Neutro
+successful lunch,1,5.0,Muy Positivo
+suddenly,1,1.0,Negativo
+suddenly he told,1,1.0,Negativo
+suffer,1,1.0,Negativo
+suffering,1,4.0,Positivo
+suffering from jet,1,4.0,Positivo
+sugar added,1,4.0,Positivo
+sugary and processed,1,2.0,Negativo
+stuff and tasty,1,5.0,Muy Positivo
+stupid,1,1.0,Negativo
+style,1,4.0,Positivo
+style establishment,1,5.0,Muy Positivo
+stylish,1,5.0,Muy Positivo
+stylish place,1,5.0,Muy Positivo
+sublime,1,5.0,Muy Positivo
+subtle,1,5.0,Muy Positivo
+stressful,1,2.0,Negativo
+stressful small,1,2.0,Negativo
+strongly,1,1.0,Negativo
+struggling,1,5.0,Muy Positivo
+struggling to speak,1,5.0,Muy Positivo
+stuck,1,4.0,Positivo
+study with electrical,1,5.0,Muy Positivo
+studying hanging,1,5.0,Muy Positivo
+breakfast in front,1,4.0,Positivo
+breakfast or light,1,5.0,Muy Positivo
+strawberry and banana,1,1.0,Negativo
+strawberry cake,1,1.0,Negativo
+street another bar,1,1.0,Negativo
+street we asked,1,1.0,Negativo
+street you feel,1,4.0,Positivo
+stressed,1,4.0,Positivo
+bread or similar,1,1.0,Negativo
+bread topped,1,5.0,Muy Positivo
+bread was smashed,1,3.0,Neutro
+bread were delicious,1,5.0,Muy Positivo
+bread what century,1,1.0,Negativo
+super light,1,5.0,Muy Positivo
+super natural smothies,1,5.0,Muy Positivo
+super original,1,4.0,Positivo
+bowl of carrot,1,5.0,Muy Positivo
+boyfriend also ordered,1,5.0,Muy Positivo
+boyfriend wanted,1,1.0,Negativo
+brazilians serving,1,5.0,Muy Positivo
+bread friendly vibe,1,5.0,Muy Positivo
+bread isn,1,3.0,Neutro
+bread leaves,1,1.0,Negativo
+bread options,1,5.0,Muy Positivo
+bomb n cafe,1,5.0,Muy Positivo
+bonus,1,5.0,Muy Positivo
+book amazing,1,4.0,Positivo
+book amazing location,1,4.0,Positivo
+bot nico tyssen,1,4.0,Positivo
+bother,1,5.0,Muy Positivo
+bothering,1,2.0,Negativo
+bottle that doesn,1,1.0,Negativo
+suggestions,1,5.0,Muy Positivo
+suitable,1,5.0,Muy Positivo
+suitable for celiacs,1,5.0,Muy Positivo
+suitable for vegetarians,1,5.0,Muy Positivo
+sundays churros,1,3.0,Neutro
+super cool,1,4.0,Positivo
+super cute cafe,1,5.0,Muy Positivo
+bomb,1,5.0,Muy Positivo
+bit too fast,1,3.0,Neutro
+bit with english,1,5.0,Muy Positivo
+bitch,1,1.0,Negativo
+bite i realized,1,5.0,Muy Positivo
+bizarre description,1,4.0,Positivo
+black coffee,1,4.0,Positivo
+blah blah,1,1.0,Negativo
+blah blah horrible,1,1.0,Negativo
+swapped,1,5.0,Muy Positivo
+bit dry,1,3.0,Neutro
+bit excessive,1,4.0,Positivo
+bit humiliating,1,1.0,Negativo
+bit more protein,1,5.0,Muy Positivo
+bit more substantial,1,5.0,Muy Positivo
+bit to crowded,1,5.0,Muy Positivo
+bit too cloying,1,3.0,Neutro
+supposed,1,1.0,Negativo
+surprise,1,4.0,Positivo
+surprise an exquisite,1,5.0,Muy Positivo
+surprise small cozy,1,4.0,Positivo
+surprised,1,5.0,Muy Positivo
+surrounded by art,1,4.0,Positivo
+surrounded by museums,1,5.0,Muy Positivo
+suspect,1,2.0,Negativo
+super thin,1,2.0,Negativo
+super thin slice,1,2.0,Negativo
+super welcoming,1,5.0,Muy Positivo
+superior,1,5.0,Muy Positivo
+superior i recommend,1,5.0,Muy Positivo
+supermarket cost,1,3.0,Neutro
+suppose,1,2.0,Negativo
+suppose young,1,2.0,Negativo
+takeaway salad,1,1.0,Negativo
+takeiteasy,1,5.0,Muy Positivo
+taking into account,1,5.0,Muy Positivo
+taking our order,1,2.0,Negativo
+talk quietly read,1,5.0,Muy Positivo
+tall,1,5.0,Muy Positivo
+tampoco era nada,1,3.0,Neutro
+tart was lovely,1,5.0,Muy Positivo
+table to sit,1,1.0,Negativo
+table while people,1,3.0,Neutro
+tables and comfortable,1,5.0,Muy Positivo
+tables for large,1,5.0,Muy Positivo
+tables hoping,1,1.0,Negativo
+tables leaves,1,4.0,Positivo
+tables the coffee,1,2.0,Negativo
+tables they dance,1,3.0,Neutro
+sweet stuff,1,5.0,Muy Positivo
+sweet treats,1,5.0,Muy Positivo
+switching tables,1,4.0,Positivo
+table cool,1,1.0,Negativo
+table he explained,1,1.0,Negativo
+table in front,1,3.0,Neutro
+table service,1,4.0,Positivo
+table to meet,1,5.0,Muy Positivo
+bland,1,1.0,Negativo
+blend of spices,1,3.0,Neutro
+blended,1,2.0,Negativo
+blocks,1,5.0,Muy Positivo
+blood tests,1,5.0,Muy Positivo
+sweep before closing,1,1.0,Negativo
+sweet but soft,1,5.0,Muy Positivo
+sweet cafe excellent,1,5.0,Muy Positivo
+bill and left,1,1.0,Negativo
+bimbo,1,2.0,Negativo
+bimbo bread,1,2.0,Negativo
+biscuit was moist,1,5.0,Muy Positivo
+bit average,1,3.0,Neutro
+bit disorganized,1,3.0,Neutro
+tasting the sour,1,4.0,Positivo
+tasty and ready,1,5.0,Muy Positivo
+big false,1,1.0,Negativo
+big false eyelashes,1,1.0,Negativo
+big separate,1,5.0,Muy Positivo
+big shame,1,2.0,Negativo
+big that taking,1,3.0,Neutro
+big vibe tasty,1,5.0,Muy Positivo
+big windows,1,5.0,Muy Positivo
+bigggg bowl,1,5.0,Muy Positivo
+beer is ice,1,5.0,Muy Positivo
+beers quietly,1,5.0,Muy Positivo
+belly,1,5.0,Muy Positivo
+belongings,1,4.0,Positivo
+beso,1,5.0,Muy Positivo
+beso de tom,1,5.0,Muy Positivo
+beverages sweets salads,1,5.0,Muy Positivo
+big city,1,1.0,Negativo
+tarta de manzano,1,5.0,Muy Positivo
+taste and atmosphere,1,3.0,Neutro
+taste wasn,1,4.0,Positivo
+tasted burnt,1,1.0,Negativo
+tasted like typical,1,5.0,Muy Positivo
+tastefully,1,5.0,Muy Positivo
+tastiest,1,5.0,Muy Positivo
+beer a sandwich,1,1.0,Negativo
+bearable,1,1.0,Negativo
+beats,1,3.0,Neutro
+beats a coffee,1,3.0,Neutro
+beautiful all year,1,5.0,Muy Positivo
+beautiful clean,1,5.0,Muy Positivo
+beautiful natural,1,4.0,Positivo
+beautiful the food,1,5.0,Muy Positivo
+beautiful view,1,5.0,Muy Positivo
+team who served,1,5.0,Muy Positivo
+teas and pastries,1,5.0,Muy Positivo
+bathrooms without doors,1,1.0,Negativo
+bathwater,1,1.0,Negativo
+bathwater with sugar,1,1.0,Negativo
+batteries,1,4.0,Positivo
+bay,1,3.0,Neutro
+bay window,1,3.0,Neutro
+tea in town,1,5.0,Muy Positivo
+tea is great,1,4.0,Positivo
+tea menu,1,4.0,Positivo
+tea our mistake,1,3.0,Neutro
+tea was spectacular,1,5.0,Muy Positivo
+tea with almond,1,5.0,Muy Positivo
+teacher doesn,1,5.0,Muy Positivo
+team is wonderful,1,5.0,Muy Positivo
+tasty cake,1,5.0,Muy Positivo
+tasty i recommend,1,5.0,Muy Positivo
+tasty nothing bad,1,5.0,Muy Positivo
+tasty warm,1,5.0,Muy Positivo
+tasty warm sandwiches,1,5.0,Muy Positivo
+tea after visiting,1,5.0,Muy Positivo
+tea bags,1,3.0,Neutro
+tea in madrid,1,5.0,Muy Positivo
+thing in madrid,1,5.0,Muy Positivo
+thing we didn,1,3.0,Neutro
+thing we wanted,1,2.0,Negativo
+thing wifi work,1,5.0,Muy Positivo
+things never cease,1,3.0,Neutro
+things they offered,1,3.0,Neutro
+thoughtfulness in switching,1,4.0,Positivo
+thousand,1,5.0,Muy Positivo
+textbook tourist,1,2.0,Negativo
+texture,1,1.0,Negativo
+thick,1,3.0,Neutro
+thick and basic,1,3.0,Neutro
+thick not watery,1,5.0,Muy Positivo
+thieves,1,1.0,Negativo
+thing after paying,1,1.0,Negativo
+thing i didn,1,1.0,Negativo
+tempting sweets,1,5.0,Muy Positivo
+tend to order,1,3.0,Neutro
+terms,1,4.0,Positivo
+terms of quality,1,4.0,Positivo
+terrible storm,1,5.0,Muy Positivo
+terrible they tasted,1,1.0,Negativo
+terrible warm,1,1.0,Negativo
+terrific,1,5.0,Muy Positivo
+beautifully crafted,1,5.0,Muy Positivo
+beauty,1,5.0,Muy Positivo
+beauty a dense,1,5.0,Muy Positivo
+beauty walking,1,5.0,Muy Positivo
+teen,1,5.0,Muy Positivo
+telling,1,1.0,Negativo
+temperature,1,4.0,Positivo
+temperature and excellent,1,5.0,Muy Positivo
+time we visit,1,5.0,Muy Positivo
+time with attentive,1,5.0,Muy Positivo
+time with family,1,5.0,Muy Positivo
+time with friends,1,5.0,Muy Positivo
+times and depending,1,3.0,Neutro
+times giving,1,1.0,Negativo
+times mistreated,1,1.0,Negativo
+times the wonderful,1,4.0,Positivo
+time eating,1,5.0,Muy Positivo
+time finding,1,5.0,Muy Positivo
+time left,1,1.0,Negativo
+time on google,1,1.0,Negativo
+time on top,1,1.0,Negativo
+time they told,1,3.0,Neutro
+time this week,1,5.0,Muy Positivo
+time to recommend,1,5.0,Muy Positivo
+thyssen,1,5.0,Muy Positivo
+ticket,1,4.0,Positivo
+tier food coffee,1,5.0,Muy Positivo
+tight,1,4.0,Positivo
+time and treated,1,5.0,Muy Positivo
+time capsule,1,5.0,Muy Positivo
+time capsule isolated,1,5.0,Muy Positivo
+time customer,1,5.0,Muy Positivo
+thousand percent,1,5.0,Muy Positivo
+thousands,1,1.0,Negativo
+threat,1,5.0,Muy Positivo
+threat promise,1,5.0,Muy Positivo
+thrilled,1,5.0,Muy Positivo
+thrilled to find,1,5.0,Muy Positivo
+throw,1,2.0,Negativo
+throw the plates,1,2.0,Negativo
+basic,1,3.0,Neutro
+basically,1,3.0,Neutro
+bastante,1,3.0,Neutro
+bastante peque,1,3.0,Neutro
+bathroom before leaving,1,1.0,Negativo
+bathroom door,1,4.0,Positivo
+bathroom is difficult,1,3.0,Neutro
+bathrooms this poorly,1,2.0,Negativo
+bar detracts,1,2.0,Negativo
+bar is fantastic,1,5.0,Muy Positivo
+bar offered,1,2.0,Negativo
+bar were super,1,5.0,Muy Positivo
+barely sloppy,1,1.0,Negativo
+baristas training,1,5.0,Muy Positivo
+bars with fruit,1,5.0,Muy Positivo
+based milks cakes,1,5.0,Muy Positivo
+toast a smoothie,1,5.0,Muy Positivo
+toast after paying,1,1.0,Negativo
+toast also average,1,3.0,Neutro
+toast and artisan,1,3.0,Neutro
+toast apart adding,1,1.0,Negativo
+toast at madrid,1,5.0,Muy Positivo
+bar before sitting,1,5.0,Muy Positivo
+bar charged,1,1.0,Negativo
+tinto,1,5.0,Muy Positivo
+tinto de verano,1,5.0,Muy Positivo
+tiny plate,1,2.0,Negativo
+tip,1,1.0,Negativo
+tip be vigilant,1,1.0,Negativo
+tired,1,5.0,Muy Positivo
+tired of coming,1,5.0,Muy Positivo
+toast a croissant,1,5.0,Muy Positivo
+tomato for breakfast,1,5.0,Muy Positivo
+tomato is minimal,1,3.0,Neutro
+tomato paste,1,5.0,Muy Positivo
+tomato they give,1,1.0,Negativo
+tomato to spread,1,1.0,Negativo
+tomatoe and caf,1,2.0,Negativo
+tomatoes and mozzarella,1,1.0,Negativo
+tomatoes in caprese,1,2.0,Negativo
+tolerable but disrespect,1,1.0,Negativo
+tom,1,5.0,Muy Positivo
+tomate y aceite,1,5.0,Muy Positivo
+tomato and capers,1,4.0,Positivo
+tomato and seeds,1,4.0,Positivo
+tomato and serrano,1,5.0,Muy Positivo
+tomato based,1,5.0,Muy Positivo
+tomato based filling,1,5.0,Muy Positivo
+today is wednesday,1,4.0,Positivo
+toilet,1,1.0,Negativo
+toilet didn,1,2.0,Negativo
+told them give,1,1.0,Negativo
+told to sit,1,2.0,Negativo
+toledo,1,4.0,Positivo
+toledo and found,1,4.0,Positivo
+tolerable,1,1.0,Negativo
+toast for lunch,1,5.0,Muy Positivo
+toast might leave,1,5.0,Muy Positivo
+toast the roquefort,1,3.0,Neutro
+toast with natural,1,4.0,Positivo
+toast with rye,1,4.0,Positivo
+toast with serrano,1,3.0,Neutro
+toaster,1,3.0,Neutro
+toastie with decaf,1,4.0,Positivo
+bahamas,1,1.0,Negativo
+baked i regret,1,5.0,Muy Positivo
+balanced and flavorful,1,5.0,Muy Positivo
+balanced diet,1,5.0,Muy Positivo
+banal,1,3.0,Neutro
+banal comments,1,3.0,Neutro
+banana,1,1.0,Negativo
+banned,1,4.0,Positivo
+bad burnt,1,5.0,Muy Positivo
+bad food,1,2.0,Negativo
+bad terrible horrendous,1,1.0,Negativo
+bad the caprese,1,1.0,Negativo
+bad tortilla,1,3.0,Neutro
+badly,1,1.0,Negativo
+badly of customers,1,1.0,Negativo
+bags,1,3.0,Neutro
+tostas and good,1,5.0,Muy Positivo
+tosts,1,5.0,Muy Positivo
+total baby,1,5.0,Muy Positivo
+back every time,1,5.0,Muy Positivo
+back google,1,2.0,Negativo
+back not long,1,5.0,Muy Positivo
+back we felt,1,2.0,Negativo
+background music free,1,5.0,Muy Positivo
+tones it preserves,1,4.0,Positivo
+top like paco,1,1.0,Negativo
+top notch fast,1,5.0,Muy Positivo
+top slice,1,1.0,Negativo
+top tier,1,5.0,Muy Positivo
+top tier food,1,5.0,Muy Positivo
+topped,1,5.0,Muy Positivo
+tostadas with tomato,1,5.0,Muy Positivo
+authenticity and charm,1,3.0,Neutro
+average cakes,1,2.0,Negativo
+average prices,1,5.0,Muy Positivo
+average products,1,4.0,Positivo
+average service,1,3.0,Neutro
+avocado and serrano,1,5.0,Muy Positivo
+avocado cakes,1,5.0,Muy Positivo
+avocado hard,1,1.0,Negativo
+training,1,5.0,Muy Positivo
+tranquility,1,4.0,Positivo
+traveling,1,5.0,Muy Positivo
+trays,1,4.0,Positivo
+treasure,1,5.0,Muy Positivo
+treat your coworkers,1,1.0,Negativo
+august,1,1.0,Negativo
+australian coffees living,1,5.0,Muy Positivo
+tourists with exorbitant,1,1.0,Negativo
+traditional,1,5.0,Muy Positivo
+traditional breakfast,1,5.0,Muy Positivo
+traffic an arms,1,4.0,Positivo
+train and metro,1,5.0,Muy Positivo
+train departs,1,4.0,Positivo
+train i stop,1,5.0,Muy Positivo
+train the price,1,5.0,Muy Positivo
+total bill,1,5.0,Muy Positivo
+total paid,1,1.0,Negativo
+totally,1,5.0,Muy Positivo
+touches a pitcher,1,3.0,Neutro
+touching the counter,1,1.0,Negativo
+tourist oriented,1,3.0,Neutro
+tourist prices,1,5.0,Muy Positivo
+tourists feel,1,5.0,Muy Positivo
+attention is formidable,1,5.0,Muy Positivo
+attention was unbeatable,1,5.0,Muy Positivo
+attentive always smiling,1,5.0,Muy Positivo
+attentive and knowledgeable,1,4.0,Positivo
+attentive and responsible,1,4.0,Positivo
+attentive and sweet,1,5.0,Muy Positivo
+attentive blonde haired,1,5.0,Muy Positivo
+attentive service delicious,1,5.0,Muy Positivo
+tricky experience,1,4.0,Positivo
+trust,1,5.0,Muy Positivo
+tucked,1,4.0,Positivo
+turkish their coffee,1,3.0,Neutro
+types of milk,1,4.0,Positivo
+attempts at spanish,1,5.0,Muy Positivo
+attended and breakfast,1,4.0,Positivo
+attention a pleasant,1,5.0,Muy Positivo
+treatment and location,1,5.0,Muy Positivo
+treatment everything delicious,1,5.0,Muy Positivo
+treatment is unbeatable,1,5.0,Muy Positivo
+treatment was super,1,5.0,Muy Positivo
+treats for tea,1,5.0,Muy Positivo
+tremendous,1,4.0,Positivo
+trend of capless,1,1.0,Negativo
+tricky,1,4.0,Positivo
+avocado is delicious,1,4.0,Positivo
+avocados were bad,1,3.0,Neutro
+aware,1,2.0,Negativo
+awesome comfort,1,5.0,Muy Positivo
+baby loved,1,5.0,Muy Positivo
+babyccino,1,5.0,Muy Positivo
+back and hang,1,5.0,Muy Positivo
+treated me extremely,1,5.0,Muy Positivo
+understand this policy,1,1.0,Negativo
+understanding,1,1.0,Negativo
+understanding their priorities,1,1.0,Negativo
+understood our attempts,1,5.0,Muy Positivo
+undrinkable,1,1.0,Negativo
+unfriendly towards pets,1,2.0,Negativo
+unheard,1,1.0,Negativo
+unhelpful,1,1.0,Negativo
+unbeatable very friendly,1,5.0,Muy Positivo
+uncle visiting coffee,1,5.0,Muy Positivo
+uncomfortable and overcrowded,1,2.0,Negativo
+uncomfortable to sit,1,3.0,Neutro
+understand the comments,1,1.0,Negativo
+understand the concept,1,1.0,Negativo
+understand the trend,1,1.0,Negativo
+understand these things,1,1.0,Negativo
+typical glass,1,1.0,Negativo
+typical manchado,1,1.0,Negativo
+typical of small,1,5.0,Muy Positivo
+typical tomato,1,5.0,Muy Positivo
+ugly,1,2.0,Negativo
+ugly don,1,2.0,Negativo
+uhr,1,2.0,Negativo
+unable,1,3.0,Neutro
+attentive worth,1,5.0,Muy Positivo
+attest,1,5.0,Muy Positivo
+attest the quality,1,5.0,Muy Positivo
+attitude problem,1,1.0,Negativo
+attitude to visitors,1,1.0,Negativo
+attractions,1,5.0,Muy Positivo
+attractive prices,1,4.0,Positivo
+typical american,1,5.0,Muy Positivo
+atmosphere the sandwiches,1,4.0,Positivo
+atmosphere was bright,1,5.0,Muy Positivo
+atmosphere with modern,1,5.0,Muy Positivo
+atocha to catch,1,5.0,Muy Positivo
+atocha very early,1,3.0,Neutro
+atope,1,5.0,Muy Positivo
+vacation to spain,1,5.0,Muy Positivo
+vague,1,4.0,Positivo
+atmosphere i hope,1,5.0,Muy Positivo
+atmosphere i recommend,1,5.0,Muy Positivo
+atmosphere in madrid,1,5.0,Muy Positivo
+atmosphere is confirmed,1,5.0,Muy Positivo
+atmosphere is worth,1,3.0,Neutro
+atmosphere people,1,5.0,Muy Positivo
+atmosphere soft lighting,1,4.0,Positivo
+atmosphere the owners,1,5.0,Muy Positivo
+unusual,1,1.0,Negativo
+update,1,2.0,Negativo
+upfront,1,3.0,Neutro
+users,1,3.0,Neutro
+usual to finish,1,4.0,Positivo
+vacation,1,5.0,Muy Positivo
+atmosphere deserves,1,5.0,Muy Positivo
+atmosphere i found,1,3.0,Neutro
+unhelpful and snappy,1,1.0,Negativo
+uninteresting,1,2.0,Negativo
+unique place,1,5.0,Muy Positivo
+unlike,1,5.0,Muy Positivo
+unlike the cafeteria,1,5.0,Muy Positivo
+unpretentious,1,3.0,Neutro
+unpretentious cafeteria,1,3.0,Neutro
+unremarkable,1,3.0,Neutro
+vertical team,1,5.0,Muy Positivo
+vertical toast,1,4.0,Positivo
+vertical two times,1,5.0,Muy Positivo
+vertical very close,1,5.0,Muy Positivo
+veryical,1,5.0,Muy Positivo
+veryical bread,1,5.0,Muy Positivo
+viana,1,5.0,Muy Positivo
+viana do castelo,1,5.0,Muy Positivo
+ventilation for covid,1,4.0,Positivo
+ventured to order,1,4.0,Positivo
+verano,1,5.0,Muy Positivo
+verano was perfectly,1,5.0,Muy Positivo
+versions,1,5.0,Muy Positivo
+vertical a merry,1,5.0,Muy Positivo
+vertical courtyard,1,5.0,Muy Positivo
+vertical s interior,1,5.0,Muy Positivo
+variety of sweet,1,4.0,Positivo
+variety overly conventional,1,1.0,Negativo
+vary,1,5.0,Muy Positivo
+vary the coffees,1,5.0,Muy Positivo
+vegana,1,5.0,Muy Positivo
+vegetable,1,3.0,Neutro
+vegetable pieces,1,3.0,Neutro
+veiled tone,1,3.0,Neutro
+vain,1,1.0,Negativo
+vais a forum,1,4.0,Positivo
+varied and hard,1,5.0,Muy Positivo
+variety of appetizers,1,5.0,Muy Positivo
+variety of beers,1,5.0,Muy Positivo
+variety of cheeses,1,2.0,Negativo
+variety of products,1,4.0,Positivo
+variety of refreshments,1,4.0,Positivo
+atmosphere and quality,1,5.0,Muy Positivo
+atmosphere and space,1,3.0,Neutro
+atmosphere and waitresses,1,5.0,Muy Positivo
+atmosphere and workers,1,5.0,Muy Positivo
+atmosphere cool design,1,5.0,Muy Positivo
+atmosphere created,1,5.0,Muy Positivo
+view warm place,1,5.0,Muy Positivo
+viewing the vertical,1,5.0,Muy Positivo
+assistant,1,5.0,Muy Positivo
+assistant was fantastic,1,5.0,Muy Positivo
+assume,1,1.0,Negativo
+assume the poor,1,1.0,Negativo
+asthetic,1,5.0,Muy Positivo
+asthetic the barristas,1,5.0,Muy Positivo
+ate many things,1,5.0,Muy Positivo
+atmosphere all feel,1,5.0,Muy Positivo
+arrived too early,1,4.0,Positivo
+arrogantly,1,1.0,Negativo
+art tourist,1,5.0,Muy Positivo
+art were beautifully,1,5.0,Muy Positivo
+artisan pastries,1,3.0,Neutro
+asian,1,3.0,Neutro
+asian origin,1,3.0,Neutro
+assed,1,3.0,Neutro
+vibe and staff,1,4.0,Positivo
+vibe tasty food,1,5.0,Muy Positivo
+victorian,1,5.0,Muy Positivo
+victorian garden,1,5.0,Muy Positivo
+video calling,1,2.0,Negativo
+video calling rudely,1,2.0,Negativo
+arrived super,1,5.0,Muy Positivo
+arrived super fast,1,5.0,Muy Positivo
+apple tart,1,5.0,Muy Positivo
+appreciative,1,5.0,Muy Positivo
+approachable and efficient,1,5.0,Muy Positivo
+architecture cafes,1,4.0,Positivo
+area of madrid,1,1.0,Negativo
+area of paseo,1,4.0,Positivo
+area reasonably priced,1,5.0,Muy Positivo
+area this spot,1,4.0,Positivo
+visually and palatably,1,5.0,Muy Positivo
+volume music,1,5.0,Muy Positivo
+volver,1,3.0,Neutro
+wait long,1,5.0,Muy Positivo
+wait to visit,1,5.0,Muy Positivo
+apparent blend,1,3.0,Neutro
+appealing and varied,1,4.0,Positivo
+apple strudel,1,4.0,Positivo
+visit this tiny,1,5.0,Muy Positivo
+visited the service,1,5.0,Muy Positivo
+visiting el retiro,1,5.0,Muy Positivo
+visiting from los,1,5.0,Muy Positivo
+visiting kaisha,1,5.0,Muy Positivo
+visiting la caixaforum,1,4.0,Positivo
+visiting your country,1,1.0,Negativo
+visitors,1,1.0,Negativo
+vigilant,1,1.0,Negativo
+vigilant and pay,1,1.0,Negativo
+village,1,1.0,Negativo
+vintage style,1,5.0,Muy Positivo
+vintage style establishment,1,5.0,Muy Positivo
+vision,1,5.0,Muy Positivo
+visit a true,1,5.0,Muy Positivo
+visit beautiful,1,5.0,Muy Positivo
+walk through recoletos,1,4.0,Positivo
+walking between reina,1,5.0,Muy Positivo
+wallet,1,2.0,Negativo
+wanted an omelet,1,1.0,Negativo
+wanted something savory,1,5.0,Muy Positivo
+wanted to charge,1,1.0,Negativo
+warm and friendly,1,4.0,Positivo
+warm and inviting,1,4.0,Positivo
+waitress s bad,1,1.0,Negativo
+waitress s thoughtfulness,1,4.0,Positivo
+waitress slammed,1,1.0,Negativo
+waitress will understand,1,1.0,Negativo
+waitresses didn,1,4.0,Positivo
+waitresses who made,1,5.0,Muy Positivo
+wake,1,3.0,Neutro
+walk or simply,1,5.0,Muy Positivo
+arrived eager,1,1.0,Negativo
+arrived in good,1,5.0,Muy Positivo
+waiter was careful,1,4.0,Positivo
+waiters treatment,1,3.0,Neutro
+waiters were friendly,1,4.0,Positivo
+waitress acted,1,5.0,Muy Positivo
+waitress dry,1,1.0,Negativo
+waitress is standing,1,1.0,Negativo
+area unheard,1,1.0,Negativo
+area very good,1,5.0,Muy Positivo
+aren t expensive,1,5.0,Muy Positivo
+aren t high,1,3.0,Neutro
+argentinian,1,3.0,Neutro
+argentinian waitress,1,3.0,Neutro
+armed,1,2.0,Negativo
+arms length,1,4.0,Positivo
+amount of mozzarella,1,2.0,Negativo
+amount of tomato,1,3.0,Neutro
+animals as company,1,2.0,Negativo
+annoying,1,1.0,Negativo
+annoying to pay,1,1.0,Negativo
+answer is mocha,1,1.0,Negativo
+anthropology the caixa,1,4.0,Positivo
+antioxidante and received,1,2.0,Negativo
+amazing with good,1,5.0,Muy Positivo
+ambiance drinks,1,5.0,Muy Positivo
+ambient good service,1,4.0,Positivo
+ambiente me paricieron,1,3.0,Neutro
+americano coffee,1,5.0,Muy Positivo
+americano was strong,1,5.0,Muy Positivo
+americano with frothy,1,1.0,Negativo
+amigable,1,3.0,Neutro
+wasn t friendly,1,3.0,Neutro
+wasn t fully,1,1.0,Negativo
+wasn t italian,1,4.0,Positivo
+wasn t long,1,5.0,Muy Positivo
+wasn t packaged,1,5.0,Muy Positivo
+wasn t written,1,2.0,Negativo
+waste,1,1.0,Negativo
+waste their time,1,1.0,Negativo
+warm anymore,1,5.0,Muy Positivo
+warm environment,1,5.0,Muy Positivo
+warm rich,1,5.0,Muy Positivo
+warm vibe,1,4.0,Positivo
+warm welcome smiling,1,5.0,Muy Positivo
+warmth excellent service,1,5.0,Muy Positivo
+warmth this spot,1,5.0,Muy Positivo
+wasn t convenient,1,1.0,Negativo
+alcoholic beverages sweets,1,5.0,Muy Positivo
+allowing,1,5.0,Muy Positivo
+almond milk spiced,1,5.0,Muy Positivo
+alternative,1,5.0,Muy Positivo
+alternative to starbucks,1,5.0,Muy Positivo
+amable ni acogedor,1,3.0,Neutro
+amanda are lovely,1,5.0,Muy Positivo
+amanda treated,1,5.0,Muy Positivo
+wet,1,1.0,Negativo
+afterward the drinks,1,4.0,Positivo
+agenda,1,4.0,Positivo
+agile,1,4.0,Positivo
+ago i stopped,1,5.0,Muy Positivo
+aimed,1,1.0,Negativo
+air,1,5.0,Muy Positivo
+albierto,1,5.0,Muy Positivo
+weaker,1,4.0,Positivo
+weaker side,1,4.0,Positivo
+weeks ago chocolate,1,3.0,Neutro
+welcoming making,1,4.0,Positivo
+welcoming perfect,1,5.0,Muy Positivo
+weren t careful,1,3.0,Neutro
+weren t lucky,1,2.0,Negativo
+weren t plastic,1,5.0,Muy Positivo
+anto i love,1,5.0,Muy Positivo
+anymore still taste,1,5.0,Muy Positivo
+apologizing,1,1.0,Negativo
+apologizing they laughed,1,1.0,Negativo
+apology and clarification,1,1.0,Negativo
+water and orange,1,1.0,Negativo
+water with ice,1,5.0,Muy Positivo
+watered,1,2.0,Negativo
+worth giving,1,5.0,Muy Positivo
+worth having breakfast,1,5.0,Muy Positivo
+worth keeping,1,3.0,Neutro
+yummy pls,1,5.0,Muy Positivo
+abroad semester,1,5.0,Muy Positivo
+zaragoza,1,5.0,Muy Positivo
+abroad,1,5.0,Muy Positivo
+wristwatch haha,1,5.0,Muy Positivo
+work very close,1,5.0,Muy Positivo
+work was unbeatable,1,5.0,Muy Positivo
+work with people,1,1.0,Negativo
+working alone nice,1,4.0,Positivo
+works,1,5.0,Muy Positivo
+world traveler,1,5.0,Muy Positivo
+worst cake,1,1.0,Negativo
+worst thing,1,1.0,Negativo
+wonderfully with great,1,5.0,Muy Positivo
+wont,1,5.0,Muy Positivo
+wont make,1,5.0,Muy Positivo
+wood,1,1.0,Negativo
+work bad,1,5.0,Muy Positivo
+work i stopped,1,5.0,Muy Positivo
+work no soap,1,2.0,Negativo
+work the drinks,1,5.0,Muy Positivo
+advise,1,1.0,Negativo
+afford,1,3.0,Neutro
+afternoon break,1,5.0,Muy Positivo
+afternoon relaxing,1,4.0,Positivo
+afternoon so special,1,5.0,Muy Positivo
+afternoon tea,1,5.0,Muy Positivo
+afternoon well located,1,5.0,Muy Positivo
+afterward,1,4.0,Positivo
+good part,1,1.0,Negativo
+good piece,1,5.0,Muy Positivo
+good point,1,5.0,Muy Positivo
+good portions,1,5.0,Muy Positivo
+good size,1,5.0,Muy Positivo
+good snacks,1,5.0,Muy Positivo
+good the black,1,4.0,Positivo
+good the cakes,1,4.0,Positivo
+gracious,1,5.0,Muy Positivo
+great and funny,1,5.0,Muy Positivo
+great and swift,1,5.0,Muy Positivo
+great chill,1,5.0,Muy Positivo
+great english,1,5.0,Muy Positivo
+great flavor,1,3.0,Neutro
+great human,1,4.0,Positivo
+great human quality,1,4.0,Positivo
+young,1,2.0,Negativo
+yummy and relaxing,1,5.0,Muy Positivo
+google reports,1,1.0,Negativo
+gorgeous in good,1,5.0,Muy Positivo
+gourmets,1,5.0,Muy Positivo
+grab a drink,1,5.0,Muy Positivo
+grab a mid,1,5.0,Muy Positivo
+grabbing a cup,1,5.0,Muy Positivo
+written,1,2.0,Negativo
+wrong item,1,2.0,Negativo
+year round,1,5.0,Muy Positivo
+yesterday the place,1,2.0,Negativo
+yesterday to meet,1,5.0,Muy Positivo
+yogurt and muesli,1,5.0,Muy Positivo
+yogurt cups oil,1,3.0,Neutro
+yogurt with cereal,1,3.0,Neutro

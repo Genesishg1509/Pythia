@@ -1,0 +1,14 @@
+C.Datasets/
+*Factura*
+*factura*
+*CaixaForum*
+*.env
+.env.local
+SESSION_PROMPTS.local.md
+PROGRESS.md
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+.venv/
+saved_data/
