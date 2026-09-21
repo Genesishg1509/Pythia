@@ -29,6 +29,10 @@ This project was built by a team of 6 students for the **Master in Data Science,
 
 This specific repository is maintained by **Genesis Karollay Hernández Gallegos** as a personal portfolio piece, with a smaller, cleaned-up copy of the original team project. It keeps the real analysis and models, but removes all private business data (real invoices, customer data, passwords) so it can be shown and shared publicly.
 
+This project won **2nd Prize in the ntic master's Scholarship Competition (Becas)** for the Data Science, Big Data & Business Analytics program, awarded by ntic master and Universidad Complutense de Madrid.
+
+![The team after winning 2nd prize](images/team_2nd_prize_ntic_master.jpg)
+
 ## What the app does
 
 The app has 3 pages:
