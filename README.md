@@ -55,6 +55,19 @@ The app has 3 pages:
 
 Both data pages work out of the box with a small demo dataset, so anyone can try the app without uploading any file.
 
+## Model performance
+
+Each Prophet model is evaluated on a held-out test set using **MAPE** (Mean Absolute Percentage Error — on average, how far off the forecast is, in percent).
+
+| Model | MAE | RMSE | MAPE |
+|---|---:|---:|---:|
+| **Classic Coffee** | 20.63 | 26.42 | **11.50%** |
+| Total Revenue | 176.82 | 227.78 | 11.74% |
+| Pastries & Sweets | 11.51 | 14.81 | 14.92% |
+| Breakfast/Toast | 12.89 | 16.33 | 16.77% |
+
+The two highest-volume targets (Classic Coffee, Total Revenue) forecast the most accurately. The two lower-volume categories have a wider error margin, which makes sense — fewer daily units sold means a noisier signal to learn from.
+
 ## Tech stack
 
 - **Streamlit** — web app framework
