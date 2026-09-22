@@ -1,24 +1,24 @@
-# Pythia — Cafe Madrid Analytics App
+# Pythia: Cafe Madrid Analytics App
 
 **[🚀 Open the live app](https://pythia-ucm.streamlit.app/)**
 
-*(The app may be asleep if no one has visited it recently — Streamlit's free hosting pauses apps after 12 hours of no traffic. Just click "Yes, get this app back up!" and it wakes up in under a minute.)*
+*(The app may be asleep if no one has visited it recently. Streamlit's free hosting pauses apps after 12 hours of no traffic. Just click "Yes, get this app back up!" and it wakes up in under a minute.)*
 
 A Streamlit web app that analyzes a coffee shop's business and predicts future sales. It was built as part of a Master's thesis (TFM) project, and this repository is a cleaned, portfolio version of that work.
 
 ## The problem, the technique, and why
 
-**Problem:** a classic coffee shop in Madrid needs to know how much it will sell in the next few days — both total revenue and units of its top-selling product categories — so it can plan stock and avoid running out of ingredients or over-buying perishables. Demand also depends on things the shop doesn't control: weather, nearby foot traffic (like visitor numbers at CaixaForum, a museum right next door), and public holidays. Beyond sales, the shop also wanted to understand its customers better: what they praise and complain about, and how it compares to nearby competitor cafes.
+**Problem:** a classic coffee shop in Madrid needs to know how much it will sell in the next few days, both total revenue and units of its top-selling product categories, so it can plan stock and avoid running out of ingredients or over-buying perishables. Demand also depends on things the shop doesn't control: weather, nearby foot traffic (like visitor numbers at CaixaForum, a museum right next door), and public holidays. Beyond sales, the shop also wanted to understand its customers better: what they praise and complain about, and how it compares to nearby competitor cafes.
 
 **Technique:**
 - **Sales forecasting:** a separate [Prophet](https://facebook.github.io/prophet/) time series model per target (total revenue, classic coffee, pastries, breakfast items), using weather, the public holiday calendar, and estimated nearby foot traffic as extra input signals, to forecast the next 14 days.
-- **Own reviews:** aspect-based sentiment analysis, breaking feedback down by topic (coffee, service, price, atmosphere, etc.) instead of a single sentiment score, plus a comparison of 4 classic ML models (Logistic Regression, Random Forest, XGBoost, SVM) for sentiment classification — see `notebooks/`.
+- **Own reviews:** aspect-based sentiment analysis, breaking feedback down by topic (coffee, service, price, atmosphere, etc.) instead of a single sentiment score, plus a comparison of 4 classic ML models (Logistic Regression, Random Forest, XGBoost, SVM) for sentiment classification: see `notebooks/`.
 - **Competitor reviews:** only the *positive* reviews of nearby competitor cafes were analyzed, to see which products customers mention most and what those cafes are valued for.
 
 **Why:**
-- Prophet over a generic regression, because cafe sales follow strong weekly and seasonal patterns, and Prophet makes it easy to add weather/holidays/foot-traffic as extra signals while keeping the forecast explainable to a non-technical business owner — not just a number, but *why* the number is what it is.
-- Aspect-based analysis over a single sentiment score, because "customers are unhappy" isn't actionable on its own — "customers are unhappy with the service, not the coffee" tells the owner exactly what to fix.
-- Competitor reviews were filtered to the positive ones on purpose: the goal wasn't to criticize other cafes, it was to benchmark what's already working in the market — which products and qualities customers value most nearby — as a source of ideas.
+- Prophet over a generic regression, because cafe sales follow strong weekly and seasonal patterns, and Prophet makes it easy to add weather/holidays/foot-traffic as extra signals while keeping the forecast explainable to a non-technical business owner: not just a number, but *why* the number is what it is.
+- Aspect-based analysis over a single sentiment score, because "customers are unhappy" isn't actionable on its own: "customers are unhappy with the service, not the coffee" tells the owner exactly what to fix.
+- Competitor reviews were filtered to the positive ones on purpose: the goal wasn't to criticize other cafes, it was to benchmark what's already working in the market, which products and qualities customers value most nearby, as a source of ideas.
 
 ## Group project
 
@@ -42,8 +42,8 @@ This project won **2nd Prize in the ntic master's Scholarship Competition (Becas
 
 The app has 3 pages:
 
-1. **Homepage** — introduction to the project and the team.
-2. **Cafe Predictions** — forecasts sales for the next 14 days using [Prophet](https://facebook.github.io/prophet/) time series models. It predicts:
+1. **Homepage**: introduction to the project and the team.
+2. **Cafe Predictions**: forecasts sales for the next 14 days using [Prophet](https://facebook.github.io/prophet/) time series models. It predicts:
    - Total revenue (€)
    - Classic coffee units sold
    - Pastries & sweets units sold
@@ -51,13 +51,13 @@ The app has 3 pages:
 
    Each forecast can be shown under 3 scenarios (baseline, low, and high), built from average weather data and estimated visitor numbers from a nearby museum (CaixaForum).
 
-3. **Reviews** — analyzes customer reviews to find what people like and dislike, grouped by topic (coffee, service, price, atmosphere, etc.) and by sentiment. It also includes a competitor analysis view, comparing nearby cafes on a map and showing which products and qualities stand out most in their *positive* reviews.
+3. **Reviews**: analyzes customer reviews to find what people like and dislike, grouped by topic (coffee, service, price, atmosphere, etc.) and by sentiment. It also includes a competitor analysis view, comparing nearby cafes on a map and showing which products and qualities stand out most in their *positive* reviews.
 
 Both data pages work out of the box with a small demo dataset, so anyone can try the app without uploading any file.
 
 ## Model performance
 
-Each Prophet model is evaluated on a held-out test set using **MAPE** (Mean Absolute Percentage Error — on average, how far off the forecast is, in percent).
+Each Prophet model is evaluated on a held-out test set using **MAPE** (Mean Absolute Percentage Error: on average, how far off the forecast is, in percent).
 
 | Model | MAE | RMSE | MAPE |
 |---|---:|---:|---:|
@@ -66,16 +66,16 @@ Each Prophet model is evaluated on a held-out test set using **MAPE** (Mean Abso
 | Pastries & Sweets | 11.51 | 14.81 | 14.92% |
 | Breakfast/Toast | 12.89 | 16.33 | 16.77% |
 
-The two highest-volume targets (Classic Coffee, Total Revenue) forecast the most accurately. The two lower-volume categories have a wider error margin, which makes sense — fewer daily units sold means a noisier signal to learn from.
+The two highest-volume targets (Classic Coffee, Total Revenue) forecast the most accurately. The two lower-volume categories have a wider error margin, which makes sense: fewer daily units sold means a noisier signal to learn from.
 
 ## Tech stack
 
-- **Streamlit** — web app framework
-- **Prophet** — time series forecasting
-- **Pandas / NumPy** — data processing
-- **Plotly** — interactive charts
-- **scikit-learn / XGBoost** — sentiment classification models (see `notebooks/`)
-- **spaCy / TextBlob** — text processing for the reviews analysis
+- **Streamlit**: web app framework
+- **Prophet**: time series forecasting
+- **Pandas / NumPy**: data processing
+- **Plotly**: interactive charts
+- **scikit-learn / XGBoost**: sentiment classification models (see `notebooks/`)
+- **spaCy / TextBlob**: text processing for the reviews analysis
 
 ## Project structure
 
