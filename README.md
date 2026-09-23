@@ -2,7 +2,7 @@
 
 **[🚀 Open the live app](https://pythia-ucm.streamlit.app/)**
 
-*(The app may be asleep if no one has visited it recently. Streamlit's free hosting pauses apps after 12 hours of no traffic. Just click "Yes, get this app back up!" and it wakes up in under a minute.)*
+*(If the app looks asleep, click "Yes, get this app back up!" and wait a few minutes for it to load.)*
 
 A Streamlit web app that analyzes a coffee shop's business and predicts future sales. It was built as part of a Master's thesis (TFM) project, and this repository is a cleaned, portfolio version of that work.
 
